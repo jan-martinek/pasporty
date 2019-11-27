@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{{ .Title }}</title>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700&display=swap&subset=latin-ext" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {{ $style := resources.Get "style.scss" | toCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <h1><a href="/">Pasporty Brno</a></h1>
+    </header>
+    {{ block "main" . }}
+    {{ .Content }}
+    {{ end }}
+  </div>
+</body>
+
+</html>

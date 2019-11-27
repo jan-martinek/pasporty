@@ -1,0 +1,8 @@
+baseURL = "https://pasporty.netlify.com"
+defaultContentLanguage = "cs"
+title = "Pasporty"
+disableKinds = ["taxonomyTerm", "taxonomy"]
+relativeurls = true
+
+[blackfriday]
+  fractions = false
