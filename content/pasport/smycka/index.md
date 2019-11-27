@@ -51,7 +51,7 @@ conclusion: |
 
   Nicméně pokud je to aspoň trochu možné, je vhodné vybudovat bezbariérová nástupiště pro výstup před rozdvojením kolejí a pro nástup po spojení dvou kolejí.
 
-  Vybudování bezbariérových nástupišť na tramvajových smyčkách umožní snadnější přístup vozíčkářům a dalším lidem s pohybovými omezeními do oblastí na okrajích města, které lze dobře využít k trávení volného času způsoby, jež nejsou v intravilánu města možné.
+  > Vybudování bezbariérových nástupišť na tramvajových smyčkách umožní snadnější přístup vozíčkářům a dalším lidem s pohybovými omezeními do oblastí na okrajích města, které lze dobře využít k trávení volného času způsoby, jež nejsou v intravilánu města možné.
 
 
 ---

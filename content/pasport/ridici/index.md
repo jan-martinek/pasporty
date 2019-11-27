@@ -68,7 +68,7 @@ conclusion: |
 
   K navázání komunikace mohou sloužit krátká setkání, kde se dozvíme o konkrétním potřebách a problémech znevýhodněných skupin osob.
 
-  S touto znalostí ztratíme strach vyptávat se znevýhodněných skupin osob na jejich další potřeby v konkrétních situacích. 
+  > S touto znalostí ztratíme strach vyptávat se znevýhodněných skupin osob na jejich další potřeby v konkrétních situacích. 
 
   
 

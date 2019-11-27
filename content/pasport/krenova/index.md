@@ -66,5 +66,5 @@ conclusion: |
 
   I když případ Křenové byl velmi zdlouhavý, představuje určitý zlom v řešení bezbariérovosti v Brně. Od tohoto zlomu již bylo možné ustavenou platformu pro kooperaci využít při každém dalším případu.
 
-  Poprvé to trvá, ale má to smysl. Vzniknou spojení, která dříve neexistovala, ale podruhé se již dají využít.
+  > Poprvé to trvá, ale má to smysl. Vzniknou spojení, která dříve neexistovala, ale podruhé se již dají využít.
 ---

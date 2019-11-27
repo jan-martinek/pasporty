@@ -61,5 +61,5 @@ conclusion: |
 
   Konzultace až v případě nápravy chyb si vždy vyžádá zvýšení nákladů v podobě jejich oprav.
 
-  Přiznání chybné realizace (nefunkční či nebezpečné) je téměř nemožné bez politické podpory.
+  > Přiznání chybné realizace (nefunkční či nebezpečné) je téměř nemožné bez politické podpory.
 ---

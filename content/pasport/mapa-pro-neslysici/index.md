@@ -58,5 +58,5 @@ conclusion: |
 
   Označování a informovanost o existenci indukčních smyček je obdobně důležitá jako jejich samotná instalace. 
 
-  Pokud má být osvěta efektivní, nemůže se jednat jen o jednorázovou informační kampaň. Je třeba kontinuální akce.
+  > Pokud má být osvěta efektivní, nemůže se jednat jen o jednorázovou informační kampaň. Je třeba kontinuální akce.
 ---

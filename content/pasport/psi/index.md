@@ -52,5 +52,5 @@ conclusion: |
 
   Zlepšení stavu může přinést i „pouhé“ informování a apel na vzájemnou občanskou solidaritu a společenskou odpovědnost firem.
 
-  Pokud má být osvěta efektivní, nemůže se jednat jen o jednorázovou informační kampaň. Je třeba kontinuální akce.
+  > Pokud má být osvěta efektivní, nemůže se jednat jen o jednorázovou informační kampaň. Je třeba kontinuální akce.
 ---
