@@ -3,7 +3,7 @@ backend:
   branch: master
 media_folder: static/media
 public_folder: /media
-display_url: "https://knihovna.netlify.com"
+display_url: "https://pasporty.netlify.com"
 slug:
   encoding: ascii
   clean_accents: true
@@ -15,6 +15,9 @@ collections:
     path: "{{slug}}/index"
     media_folder: ""
     public_folder: ""
+    preview_path: "pasport/{{slug}}/"
+    editor:
+      preview: false
     fields:
       - label: Titulek
         name: title
@@ -51,6 +54,7 @@ collections:
             name: "name"
             widget: "image"
           - label: "Popis obsahu obrázku"
+            name: alt
             hint: "Alternativa pro zrakově postižené čtenáře"
             widget: string
       - label: Ilustrace po
@@ -61,11 +65,13 @@ collections:
             name: "name"
             widget: "image"
           - label: "Popis obsahu obrázku"
+            name: alt
             hint: "Alternativa pro zrakově postižené čtenáře"
             widget: string
       - label: Časová osa
         name: timeline
-        widget: object
+        widget: list
+        collapsed: false
         fields:
           - label: Časové ukotvení (nejčastěji rok)
             widget: string
