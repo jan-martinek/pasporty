@@ -16,6 +16,7 @@ collections:
     media_folder: ""
     public_folder: ""
     preview_path: "pasport/{{slug}}/"
+    extension: md
     editor:
       preview: false
     fields:
@@ -58,7 +59,7 @@ collections:
             hint: "Alternativa pro zrakově postižené čtenáře"
             widget: string
       - label: Ilustrace po
-        name: before
+        name: after
         widget: object
         fields:
           - label: "Obrázek"
@@ -111,7 +112,7 @@ collections:
         fields:
           - label: Heslo
             name: dict
-            widget: object
-            field:
+            widget: list
+            fields:
               - { label: Název hesla, name: name, widget: string }
               - { label: Definice, name: definition, widget: markdown }
