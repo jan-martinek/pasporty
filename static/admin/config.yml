@@ -1,0 +1,111 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: static/media
+public_folder: /media
+display_url: "https://knihovna.netlify.com"
+slug:
+  encoding: ascii
+  clean_accents: true
+collections:
+  - name: pasporty
+    label: Příklady dobré praxe
+    label_singular: "Pasport"
+    folder: content/pasport
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
+    fields:
+      - label: Titulek
+        name: title
+        widget: string
+      - label: Lokalita
+        name: title2
+        widget: string
+      - label: Podtitulek
+        name: subtitle
+        widget: string
+      - label: Ilustrační příběh
+        name: story
+        widget: markdown
+      - label: Analýza
+        name: analysis
+        widget: markdown
+      - label: Návrh
+        name: design
+        widget: markdown
+      - label: Konkrétní realizace v Brně
+        name: solution
+        widget: markdown
+      - label: Omezení řešení
+        name: constraints
+        widget: markdown
+      - label: Závěry
+        name: conclusion
+        widget: markdown
+      - label: Ilustrace před
+        name: before
+        widget: object
+        fields:
+          - label: "Obrázek"
+            name: "name"
+            widget: "image"
+          - label: "Popis obsahu obrázku"
+            hint: "Alternativa pro zrakově postižené čtenáře"
+            widget: string
+      - label: Ilustrace po
+        name: before
+        widget: object
+        fields:
+          - label: "Obrázek"
+            name: "name"
+            widget: "image"
+          - label: "Popis obsahu obrázku"
+            hint: "Alternativa pro zrakově postižené čtenáře"
+            widget: string
+      - label: Časová osa
+        name: timeline
+        widget: object
+        fields:
+          - label: Časové ukotvení (nejčastěji rok)
+            widget: string
+            name: time
+          - label: Popis
+            widget: string
+            name: name
+          - label: Relativní délka (číslo > 1)
+            widget: number
+            name: parts
+            default: 1
+            hint: Nejkratší segment má 1, ostatní mají násobky.
+      - label: Slovníček
+        name: dictionary
+        widget: select
+        multiple: true
+        options:
+          - oprava
+          - rekonstrukce
+          - indukční smyčka
+          - reliéfní dlažba
+          - naváděcí dlažba
+          - signální dlažba
+          - vodicí pes
+          - asistenční pes
+          - označník
+          - bezbariérové nástupiště
+        hint: Slovníček zatím není provázaný se stránkami.
+  - label: Seznamy
+    name: lists
+    editor: { preview: false }
+    files:
+      - label: Slovníčková hesla
+        name: dictionary
+        editor: { preview: false }
+        file: data/dictionary.yml
+        fields:
+          - label: Heslo
+            name: dict
+            widget: object
+            field:
+              - { label: Název hesla, name: name, widget: string }
+              - { label: Definice, name: definition, widget: markdown }

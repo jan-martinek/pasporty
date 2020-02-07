@@ -1,6 +1,6 @@
 baseURL = "https://pasporty.netlify.com"
 defaultContentLanguage = "cs"
-title = "Pasporty"
+title = "Příklady dobré praxe"
 disableKinds = ["taxonomyTerm", "taxonomy"]
 relativeurls = true
 
