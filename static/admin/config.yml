@@ -15,7 +15,7 @@ collections:
     path: "{{slug}}/index"
     media_folder: ""
     public_folder: ""
-    preview_path: "pasport/{{slug}}/"
+    preview_path: "pasport/{{slug}}"
     extension: md
     editor:
       preview: false
