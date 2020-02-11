@@ -17,6 +17,7 @@ collections:
     public_folder: ""
     preview_path: "pasport/{{slug}}"
     extension: md
+    create: true
     editor:
       preview: false
     fields:
