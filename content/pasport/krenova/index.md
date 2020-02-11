@@ -1,5 +1,5 @@
 ---
-title: Část versus celek!!!
+title: Část versus celek
 title2: 'Křenová, Brno'
 subtitle: Proč to trvalo 10 let? Z jakého důvodu to nebylo možné realizovat rychleji?
 story: >
