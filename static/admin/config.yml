@@ -23,71 +23,91 @@ collections:
     fields:
       - label: Titulek
         name: title
+        required: false
         widget: string
       - label: Lokalita
         name: title2
+        required: false
         widget: string
       - label: Podtitulek
         name: subtitle
+        required: false
         widget: string
       - label: Ilustrační příběh
         name: story
+        required: false
         widget: markdown
       - label: Analýza
         name: analysis
+        required: false
         widget: markdown
       - label: Návrh
         name: design
+        required: false
         widget: markdown
       - label: Konkrétní realizace v Brně
         name: solution
+        required: false
         widget: markdown
       - label: Omezení řešení
         name: constraints
+        required: false
         widget: markdown
       - label: Závěry
         name: conclusion
+        required: false
         widget: markdown
       - label: Ilustrace před
         name: before
+        required: false
         widget: object
         fields:
           - label: "Obrázek"
             name: "name"
+            required: false
             widget: "image"
           - label: "Popis obsahu obrázku"
             name: alt
+            required: false
             hint: "Alternativa pro zrakově postižené čtenáře"
             widget: string
       - label: Ilustrace po
         name: after
+        required: false
         widget: object
         fields:
           - label: "Obrázek"
             name: "name"
+            required: false
             widget: "image"
           - label: "Popis obsahu obrázku"
             name: alt
+            required: false
             hint: "Alternativa pro zrakově postižené čtenáře"
             widget: string
       - label: Časová osa
         name: timeline
+        required: false
         widget: list
         collapsed: false
         fields:
           - label: Časové ukotvení (nejčastěji rok)
             widget: string
             name: time
+            required: false
           - label: Popis
             widget: string
             name: name
+            required: false
           - label: Relativní délka (číslo > 1)
             widget: number
             name: parts
+            required: false
             default: 1
             hint: Nejkratší segment má 1, ostatní mají násobky.
       - label: Slovníček
         name: dictionary
+        required: false
         widget: select
         multiple: true
         options:
@@ -108,6 +128,7 @@ collections:
     files:
       - label: Slovníčková hesla
         name: dictionary
+        required: false
         editor: { preview: false }
         file: data/dictionary.yml
         fields:
