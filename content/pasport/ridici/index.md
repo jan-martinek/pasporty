@@ -1,7 +1,7 @@
 ---
 title: 'Vědět, jak se nastupuje do MHD'
 title2: "Školení řidičů MHD pro jednání s\_nevidomými cestujícími"
-subtitle: "Měli bychom se vždy spoléhat na to, že společně s\_nevidomou osobou bude nastupovat někdo, kdo rozumí jejich situaci?"
+subtitle: "Měli bychom se vždy spoléhat na to, že společně s\_osobou nevidomou bude nastupovat někdo, kdo rozumí jejich situaci?"
 story: >-
   Píše se rok 2013 a paní Milada jde jako každé ráno na zastávku trolejbusu 25
   na Mendlově náměstí. Na zastávce pravidelně potkává muže s bílou slepeckou
