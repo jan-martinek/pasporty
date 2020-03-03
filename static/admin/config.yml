@@ -66,6 +66,9 @@ collections:
             name: "name"
             required: false
             widget: "image"
+          - label: "Zdroj obrázku"
+            name: source
+            widget: string
           - label: "Popis obsahu obrázku"
             name: alt
             required: false
@@ -113,6 +116,18 @@ collections:
         collection: dictionary
         searchFields: [title]
         valueField: title
+      - label: Odkazy na rozšiřující materiály
+        name: links
+        required: false
+        widget: list
+        collapsed: false
+        fields:
+          - label: Odkaz
+            name: link
+            widget: string
+          - label: Popis odkazu
+            name: description
+            widget: string
   - name: dictionary
     label: Slovníček
     label_singular: "Heslo"
