@@ -5,59 +5,72 @@ subtitle: "Měli bychom se vždy spoléhat na to, že společně s\_nevidomou os
 story: >-
   Píše se rok 2013 a paní Milada jde jako každé ráno na zastávku trolejbusu 25
   na Mendlově náměstí. Na zastávce pravidelně potkává muže s bílou slepeckou
-  holí (později zjistí, že se jmenuje Karel), který vždy dorazí okružním
-  autobusem číslo 44, vystoupí z autobusu a čeká na zastávce na trolejbus 25.
+  holí (později zjistí, že se jmenuje Karel), který vždy dorazí autobusem a pak
+  čeká na trolejbus 25.
 
 
-  Paní Milada si povšimla, že Karel vždy vystupuje z autobusu předními dveřmi a
-  posléze čeká u označníku zastávky. Když přijede trolejbus, Karel aktivuje jeho
-  hlasový majáček, aby se dozvěděl, je-li to číslo 25, a nastoupí předními
-  dveřmi. Jednou ale tato rutina proběhla jinak. Autobus 44 zastavil na zastávce
-  jako druhý v pořadí za jiným autobusem a Karel opět vystoupil předními dveřmi.
-  Nepopošel se však postavit k označníku zastávky a zůstal čekat na trolejbus
-  přesně na místě, kde předtím vystoupil. Když přijel trolejbus, Milada
-  nastoupila, nicméně Karlovi se nastoupit nedařilo, neboť teď před sebou neměl
-  přední dveře. Začal holí oťukávat bok trolejbusu. Milada na něj proto
-  zavolala, kudy se dostane ke dveřím a Karel úspěšně nastoupil. Řidič na něj
-  ale zavolal: „Sakra, chlape, nevíš, že máš stát u označníku?“ Karel se
-  omlouval, že si prý myslel, že u označníku, neboť z autobusu 44 vystoupil
-  předními dveřmi jako vždy a neviděl, že je jinde.
+  Paní Milada si povšimla, že Karel vystoupí předními dveřmi a čeká u označníku
+  zastávky. Když přijede trolejbus, Karel aktivuje jeho hlasový majáček, aby se
+  dozvěděl, je-li to číslo 25, a nastoupí předními dveřmi. Jednou ale tato
+  rutina proběhla jinak. Karlův autobus zastavil na zastávce jako druhý v
+  pořadí. Karel vystoupil předními dveřmi, ale nepopošel se postavit k
+  označníku. Když přijel trolejbus, Milada nastoupila, nicméně Karlovi se
+  nastoupit nedařilo, neboť teď před sebou neměl přední dveře. Začal holí
+  oťukávat bok trolejbusu. Milada na něj proto zavolala, kudy se dostane ke
+  dveřím a Karel úspěšně nastoupil. Řidič na něj ale zavolal: „Sakra, chlape,
+  nevíš, že máš stát u označníku?“ Karel se omlouval, že si prý myslel, že u
+  označníku stál, neboť z autobusu vystoupil předními dveřmi a neviděl, že je
+  jinde.
 
 
-  Jiný den při podobné příležitosti Karel u označníku stál správně a znovu čekal
-  na trolejbus 25. Když přijel, Milada nastoupila, nicméně Karel zůstal stát
-  venku. Řidič trolejbusu se na něj zmateně díval, a když Karel stále
-  nenastupoval, začal zavírat dveře. Milada zastavila řidiče a zavolala ven na
-  Karla, že je tu jeho trolejbus 25. Karel urychleně nastoupil a poté Miladě
-  velmi děkoval, že ho upozornila. Ale že prý trolejbusy jsou dnes tak tiché, že
-  v tom okolním hluku vůbec neslyšel, jak trolejbus přijel.
-analysis: >+
-  1) Lidé nevidomí čekající na MHD mají legislativou doporučeno, aby stáli u
+  Jiný den Karel u označníku stál správně. Když přijel trolejbus, Milada
+  nastoupila, nicméně Karel zůstal stát venku. Řidič se na něj zmateně díval, a
+  když Karel stále nenastupoval, začal zavírat dveře. Milada zastavila řidiče a
+  zavolala ven na Karla, že je tu jeho trolejbus 25. Karel urychleně nastoupil a
+  poté Miladě velmi děkoval za upozornění. Ale že prý trolejbusy jsou dnes tak
+  tiché, že v tom okolním hluku vůbec neslyšel, jak trolejbus přijel.
+analysis: >-
+  1. Lidé nevidomí čekající na MHD mají legislativou doporučeno, aby stáli u
   označníku zastávky a nastupovali předními dveřmi.
 
-  2) Mohou si mylně myslet, že vystoupili k označníku zastávky, i když vystoupí
+
+
+  2. Mohou si mylně myslet, že vystoupili k označníku zastávky, i když vystoupí
   z vozidla MHD, které přijede jako druhé v pořadí.
 
-  4) Lidé nevidomí nemusejí slyšet přijet tichá vozidla MHD. 
 
-  5) Vidící lidé nevědí, jaké problémy mohou nastat nevidomým cestujícím v MHD.
 
-  6) Mezi tyto vidící lidi patří i řidiči MHD, kteří nemusejí vždy rozumět
+  3. Lidé nevidomí nemusejí slyšet přijet tichá vozidla MHD. 
+
+
+
+  4. Vidící lidé nevědí, jaké problémy mohou nastat nevidomým cestujícím v MHD.
+
+
+
+  5. Mezi tyto vidící lidi patří i řidiči MHD, kteří nemusejí vždy rozumět
   počínání nevidomého cestujícího.
 
-  7) Vidící cestující ne vždy potkají nevidomého cestujícího v MHD, ale řidiči
+
+
+  6. Vidící cestující ne vždy potkají nevidomého cestujícího v MHD, ale řidiči
   je potkávají pravidelně.
+design: >-
+  1. Mít nějaké základní ponětí o tom, jak nevidomí cestující v MHD fungují.
 
-design: >
-  1) Mít nějaké základní ponětí o tom, jak nevidomí cestující v MHD fungují.
 
-  2) Přesvědčit zodpovědné osoby v dopravním podniku, že k vyřešení této
+
+  2. Přesvědčit zodpovědné osoby v dopravním podniku, že k vyřešení této
   bariérové problematiky stačí tak málo.
 
-  3) Vymyslet nějaký způsob osvětové činnosti, aby řidiči MHD měli základní
+
+
+  3. Vymyslet nějaký způsob osvětové činnosti, aby řidiči MHD měli základní
   ponětí o tom, jak si lidé nevidomí počínají s MHD.
 
-  4) Uspořádat například krátká školení pro řidiče, kde se toto dozvědí. 
+
+
+  4. Uspořádat například krátká školení pro řidiče, kde se toto dozvědí.
 solution: >-
   Odborník na bezbariérovost z Tyflocentra se několik let snažil dostat na
   Dopravní podnik města Brna, kde podniku nabízel, že bude řidičům MHD
