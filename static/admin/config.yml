@@ -29,7 +29,7 @@ collections:
         name: title2
         required: false
         widget: string
-      - label: Podtitulek
+      - label: Podtitulková otázka
         name: subtitle
         required: false
         widget: string
