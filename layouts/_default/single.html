@@ -3,7 +3,7 @@
 {{ partial "typo.html" .Params.title }}
 {{- with .Params.title2 }}: <span class="more">{{ . }}</span> {{ end }}
 
-{{ partial "length.html" (dict "len" 4250 "text" (print .Params.story .Params.analysis .Params.design .Params.solution .Params.constraints .Params.conclusion)) }}
+{{ partial "length.html" (dict "len" 4400 "text" (print .Params.story .Params.analysis .Params.design .Params.solution .Params.constraints .Params.conclusion)) }}
 
 </h1>
 <p class="subtitle">{{ partial "typo.html" .Params.subtitle }}</p>
@@ -21,7 +21,7 @@
 </section>
 
 <section class="design">
-	<h2>Návrh {{ partial "length.html" (dict "len" 150 "text" .Params.design) }}</h2>
+	<h2>Návrh {{ partial "length.html" (dict "len" 300 "text" .Params.design) }}</h2>
 	{{ partial "typo.html" .Params.design }}
 </section>
 
