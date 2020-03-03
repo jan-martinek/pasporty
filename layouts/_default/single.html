@@ -2,27 +2,31 @@
 <h1 class="title">
 {{ partial "typo.html" .Params.title }}
 {{- with .Params.title2 }}: <span class="more">{{ . }}</span> {{ end }}
+
+{{ partial "length.html" (dict "len" 4250 "text" (print .Params.story .Params.analysis .Params.design .Params.solution .Params.constraints .Params.conclusion)) }}
+
 </h1>
 <p class="subtitle">{{ partial "typo.html" .Params.subtitle }}</p>
 
 <section class="story">
-	<h2>Ilustrační příběh</h2>
+	<h2>Ilustrační příběh {{ partial "length.html" (dict "len" 1100 "text" .Params.story) }}</h2>
 	{{ partial "typo.html" .Params.story }}
 	<img src="./{{ .Params.before.name }}" alt="{{ .Params.before.alt }}">
 </section>
 
 <section class="analysis">
-	<h2>Analýza</h2>
+	<h2>Analýza {{ partial "length.html" (dict "len" 500 "text" .Params.analysis) }}</h2>
 	{{ partial "typo.html" .Params.analysis }}
+
 </section>
 
 <section class="design">
-	<h2>Návrh</h2>
+	<h2>Návrh {{ partial "length.html" (dict "len" 150 "text" .Params.design) }}</h2>
 	{{ partial "typo.html" .Params.design }}
 </section>
 
 <section class="solution">
-	<h2>Konkrétní realizace v Brně</h2>
+	<h2>Konkrétní realizace v Brně {{ partial "length.html" (dict "len" 1300 "text" .Params.solution) }}</h2>
 	{{ partial "typo.html" .Params.solution }}
 	<img src="./{{ .Params.after.name }}" alt="{{ .Params.after.alt }}">
 </section>
@@ -41,12 +45,12 @@
 {{ end }}
 
 <section class="constraints">
-	<h2>Omezení řešení</h2>
+	<h2>Omezení řešení {{ partial "length.html" (dict "len" 700 "text" .Params.constraints) }}</h2>
 	{{ partial "typo.html" .Params.constraints }}
 </section>
 
 <section class="conclusion">
-	<h2>Závěry</h2>
+	<h2>Závěry {{ partial "length.html" (dict "len" 600 "text" .Params.conclusion) }}</h2>
 	{{ partial "typo.html" .Params.conclusion }}
 </section>
 
@@ -55,8 +59,10 @@
   <h2>Slovníček</h2>
   <dl>
     {{ range . }}
-      <dt>{{ . }}</dt>
-      <dd>{{ partial "typo.html" "Slovníček je v přípravě." }}</dd>
+      {{ range where $.Site.Pages "Title" . }}
+        <dt>{{ .Title }}</dt>
+        <dd>{{ .RawContent | markdownify }}</dd>
+      {{ end }}
     {{ end }}
   </dl>
 </section>

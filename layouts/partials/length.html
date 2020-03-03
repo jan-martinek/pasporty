@@ -1,0 +1,17 @@
+{{ $len := .len }}
+
+{{ with .text }}
+  {{ $sub := sub (len .) $len }}
+  {{ if lt $sub 0 }}{{ $sub = mul $sub -1 }}{{ end }}
+  {{ $mul := div (float $sub) $len }}
+
+  {{ $warning := "" }}
+  {{ if lt 0.15 $mul }}{{ $warning = "mild" }}{{ end }}
+  {{ if lt 0.25 $mul }}{{ $warning = "medium" }}{{ end }}
+  {{ if lt 0.4 $mul }}{{ $warning = "strong" }}{{ end }}
+
+  <span class="length {{ $warning }}">
+    {{ len . }} / {{ string $len }}
+    {{ if ne $warning "" }}({{ int (mul $mul 100) }} %){{ end }}
+  </span>
+{{ end }}

@@ -108,33 +108,23 @@ collections:
       - label: Slovníček
         name: dictionary
         required: false
-        widget: select
+        widget: relation
         multiple: true
-        options:
-          - oprava
-          - rekonstrukce
-          - indukční smyčka
-          - reliéfní dlažba
-          - naváděcí dlažba
-          - signální dlažba
-          - vodicí pes
-          - asistenční pes
-          - označník
-          - bezbariérové nástupiště
-        hint: Slovníček zatím není provázaný se stránkami.
-  - label: Seznamy
-    name: lists
-    editor: { preview: false }
-    files:
-      - label: Slovníčková hesla
-        name: dictionary
-        required: false
-        editor: { preview: false }
-        file: data/dictionary.yml
-        fields:
-          - label: Heslo
-            name: dict
-            widget: list
-            fields:
-              - { label: Název hesla, name: name, widget: string }
-              - { label: Definice, name: definition, widget: markdown }
+        collection: dictionary
+        searchFields: [title]
+        valueField: title
+  - name: dictionary
+    label: Slovníček
+    label_singular: "Heslo"
+    folder: content/dict
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
+    preview_path: "dict/{{slug}}"
+    extension: md
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: Název hesla, name: title, widget: string }
+      - { label: Definice, name: body, widget: markdown }
