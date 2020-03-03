@@ -25,14 +25,16 @@ story: >-
   přepážkou přes lomoz stejně neslyší. Kdyby tak věděl, zda jde koupit lístky
   jinde, třeba u přepážky s indukční smyčkou, kde by mu okolní hluk nevadil.
 analysis: >-
-  1. Pro osoby nedoslýchavé jsou značně problematické hlučné prostory, a to i v
+  1) Pro osoby nedoslýchavé jsou značně problematické hlučné prostory, a to i v
   případě, že jsou vybaveni naslouchátkem.
 
-  2. Lidé nedoslýchaví nevědí, kde se nachází budovy s indukční smyčkou. V
+
+  2) Lidé nedoslýchaví nevědí, kde se nachází budovy s indukční smyčkou. V
   případě, že indukční smyčka není označena, nemusí si jí všimnout a nepoužijí
   ji.
 
-  3. Lidé neslyšící nemají informace o tom, kde se všude znakuje. V případě, že
+
+  3) Lidé neslyšící nemají informace o tom, kde se všude znakuje. V případě, že
   se nachází na místě, které službu poskytuje, nevědí, že ji mohou využít.
 design: >-
   1) Vytvoření mapy shrnující místa, kde se znakuje a kde je k dispozici
