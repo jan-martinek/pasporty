@@ -1,0 +1,4 @@
+---
+title: indukční smyčka
+---
+smyčkuje
