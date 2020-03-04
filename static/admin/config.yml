@@ -83,6 +83,9 @@ collections:
             name: "name"
             required: false
             widget: "image"
+          - label: "Zdroj obrázku"
+            name: source
+            widget: string
           - label: "Popis obsahu obrázku"
             name: alt
             required: false
