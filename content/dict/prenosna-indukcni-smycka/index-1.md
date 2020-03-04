@@ -1,4 +1,4 @@
 ---
-title: Přenosná indukční smyčka
+title: zabudovaná indukční smyčka
 ---
 text
