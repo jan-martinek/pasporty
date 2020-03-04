@@ -1,5 +1,5 @@
 ---
-title: "Název pasportu: Městská policie Brno modernizuje vybavení: Rychlé zlepšení komunikace s\_nedoslýchavými"
+title: "Městská policie Brno modernizuje vybavení: Rychlé zlepšení komunikace s\_nedoslýchavými"
 subtitle: >-
   Proč je jistější instalace zabudované indukční smyčky (dále IS) oproti mobilní
   variantě?
