@@ -1,6 +1,6 @@
 ---
 title: Bezbariérová nástupiště tramvajové smyčky
-title2: 'Obřany, '
+title2: 'Obřany, Babická'
 subtitle: "Jakým způsobem lze vyřešit, aby i\_tramvajová smyčka mohla být bezbariérová?"
 story: >
   Je horké léto a Milan sedí na zahrádce své oblíbené Hospody Na konečné v
