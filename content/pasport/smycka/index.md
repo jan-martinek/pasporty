@@ -82,6 +82,19 @@ after:
   name: after.jpg
   alt: Nástupiště před rozdvojením kolejí
   source: vlastní foto
+timeline:
+  - parts: 3
+    time: '2010'
+    name: začátek rekonstrukce tramvajových zastávek do bezbariérové podoby
+  - parts: 1
+    time: květen 2018
+    name: přípravné práce na rekonstrukci tramvajové smyčky Obřany
+  - parts: 1
+    time: červen 2018
+    name: začátek rekonstrukce tramvajové smyčky Obřany
+  - parts: 1
+    time: září 2018
+    name: konec rekonstrukce tramvajové smyčky Obřany
 dictionary:
   - bezbariérové nástupiště
 ---
