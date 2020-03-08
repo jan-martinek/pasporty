@@ -1,5 +1,6 @@
 ---
-title: "Městská policie Brno modernizuje vybavení: Rychlé zlepšení komunikace s\_nedoslýchavými"
+title: 'Městská policie Brno modernizuje vybavení:'
+title2: "Rychlé zlepšení komunikace s\_nedoslýchavými"
 subtitle: >-
   Proč je jistější instalace zabudované indukční smyčky (dále IS) oproti mobilní
   variantě?
@@ -35,4 +36,7 @@ after:
   source: Simona Surmařová
 timeline:
   - parts: 1
+dictionary:
+  - zabudovaná indukční smyčka
+  - přenosná indukční smyčka
 ---
