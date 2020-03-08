@@ -1,5 +1,5 @@
 ---
-title: "První indukční smyčka v\_tramvaji v\_Česku:"
+title: "První indukční smyčka v\_tramvaji v\_Česku"
 title2: Pilotní projekt Unie neslyšících a DPMB
 subtitle: "Jak zamezit neinformovanosti nedoslýchavých cestujících v\_tramvajích MHD Brno?"
 story: "Lenka letos začala studovat v\_Brně. Ještě se tam moc nevyzná a neví, kde leží jaké zastávky. Jelikož je nedoslýchavá, nemá kvůli okolnímu hluku šanci rozpoznat hlášení v\_MHD. Když je v\_tramvaji velký hluk, raději své sluchadlo vypíná, protože je nad rámec zařízení, aby rozpoznalo hluk, mluvené slovo a\_reprodukované hlášení. Nedávno jí vůz nezastavil na zastávce na znamení, jelikož neslyšela hlášení a\_nestihla dát řidiči signál, že potřebuje vystoupit. V\_nočním rozjezdu přejela o zastávku dál, jelikož byla venku tma a nepoznala, že její zastávka už byla. Minulý týden jela zpracovávat protokol za kamarádem do Líšně. Jelikož jí tam jel přímý trolejbus 25, sedla si a cestou četla poznámky z\_hodiny. Až když trolejbus zastavil na konečné, zmateně vystoupila a zjistila, že je v\_Husovicích. Kvůli tomu, že neslyšela hlášení o změně konečné stanice, přijela za kamarádem o půl hodiny pozdě."
