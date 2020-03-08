@@ -1,5 +1,6 @@
 ---
-title: "První indukční smyčka v\_tramvaji v\_Česku: Pilotní projekt Unie neslyšících a DPMB"
+title: "První indukční smyčka v\_tramvaji v\_Česku:"
+title2: Pilotní projekt Unie neslyšících a DPMB
 subtitle: "Jak zamezit neinformovanosti nedoslýchavých cestujících v\_tramvajích MHD Brno?"
 story: "Lenka letos začala studovat v\_Brně. Ještě se tam moc nevyzná a neví, kde leží jaké zastávky. Jelikož je nedoslýchavá, nemá kvůli okolnímu hluku šanci rozpoznat hlášení v\_MHD. Když je v\_tramvaji velký hluk, raději své sluchadlo vypíná, protože je nad rámec zařízení, aby rozpoznalo hluk, mluvené slovo a\_reprodukované hlášení. Nedávno jí vůz nezastavil na zastávce na znamení, jelikož neslyšela hlášení a\_nestihla dát řidiči signál, že potřebuje vystoupit. V\_nočním rozjezdu přejela o zastávku dál, jelikož byla venku tma a nepoznala, že její zastávka už byla. Minulý týden jela zpracovávat protokol za kamarádem do Líšně. Jelikož jí tam jel přímý trolejbus 25, sedla si a cestou četla poznámky z\_hodiny. Až když trolejbus zastavil na konečné, zmateně vystoupila a zjistila, že je v\_Husovicích. Kvůli tomu, že neslyšela hlášení o změně konečné stanice, přijela za kamarádem o půl hodiny pozdě."
 analysis: "1. Běžná sluchadla a kochleární implantáty nedokáží v hlučném prostředí zesilovat reprodukovaný zvuk, což v dopravních prostředcích staví neslyšící osoby do „informační hluchoty“.\n2. Na světelné tabule nemusí být vždy vidět a zejména přeslechnutí hlášení o výlukách či mimořádných událostech může způsobit značnou dezorientaci nedoslýchavých.\n3. Nedoslýchaví se sluchadly či kochleárním implantátem mohou využívat indukční smyčky. Indukční smyčka v\_tramvaji či jiném dopravním prostředku dokáže vysílat do sluchadla pouze hlášení, takže nedoslýchaví cestující slyší kvalitně."
@@ -16,7 +17,27 @@ after:
   alt: Stav po
   name: dpmb-po3.jpg
 timeline:
+  - parts: 4
+    time: únor 2018
+    name: "Unie neslyšících informuje PSpBB o projektu, který vznikl ve spolupráci s\_DPMB."
   - parts: 1
+    time: květen 2018
+    name: Unie neslyšících podává žádost o dotaci.
+  - parts: 4
+    time: červen 2018
+    name: >-
+      Je schválena dotace pro Unii neslyšících z rozpočtu města Brna ve výši
+      26.000,- Kč na „Pilotní projekt umístění indukční smyčky do vozu městské
+      hromadné dopravy v Brně“.
+  - parts: 3
+    time: září 2018
+    name: povolení od drážního úřadu pro instalaci indukční smyčky do tramvaje
+  - parts: 2
+    time: listopad 2018
+    name: spuštění testovacího provozu
+  - parts: 1
+    time: leden 2019
+    name: 'konec testovacího období, vyhodnocení pilotáže'
 dictionary:
   - homologace
 ---
