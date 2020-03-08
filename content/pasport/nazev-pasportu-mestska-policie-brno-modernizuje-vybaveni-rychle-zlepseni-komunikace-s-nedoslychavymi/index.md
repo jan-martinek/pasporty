@@ -1,5 +1,5 @@
 ---
-title: 'Městská policie Brno modernizuje vybavení:'
+title: Městská policie Brno modernizuje vybavení
 title2: "Rychlé zlepšení komunikace s\_nedoslýchavými"
 subtitle: >-
   Proč je jistější instalace zabudované indukční smyčky (dále IS) oproti mobilní
