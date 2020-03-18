@@ -39,22 +39,7 @@ analysis: >
 
   4) Řada tramvajových smyček je tak problematická tím, že umožňuje nástup z
   úrovně vozovky nebo výstup na úroveň vozovky, což je pro lidi s pohybovým
-  omezením značně problematické či nemožné. 
-
-
-  5) Tramvajové smyčky se mnohdy nachází na okrajích města. Navazují na ně další
-  spoje MHD a často u nich také začínají atraktivní oblasti pro trávení volného
-  času.
-
-
-  6) Cesta tramvají až na její konečnou umožňuje vozíčkářům a dalším lidem s
-  pohybovým omezením překonat spoustu bariér, které se ve městě nacházejí.
-
-
-  7) Mezi alternativní možnosti k cestě do míst bez bezbariérových nástupišť
-  patří nástup či výstup na jiné zastávce a následná doprava po silnicích či
-  chodnících; dále pak zajištění cesty autem včetně parkování či neuskutečnění
-  cesty.
+  omezením značně problematické či nemožné.
 design: "Vytvořit dlouhodobý plán rekonstrukcí tramvajových nástupišť (včetně smyček) tak, aby na jeho konci byla všechna tramvajová nástupiště bezbariérová.\r\n\nV případě tramvajových smyček se pokusit najít rovný úsek ještě před rozdvojením kolejí pro výstup, resp. až po spojení kolejí pro nástup, tak aby mohlo nové bezbariérové nástupiště složit pro všechny spoje. Hledání rovného úseku je možné uzpůsobit aktuálním terénním podmínkám.\r\n\n"
 solution: "Dopravní podnik města Brna (DPMB) provádí společně s městem Brnem už několik let modernizaci jednotlivých úseků tramvajových tratí, jejichž součástí je také budování bezbariérových nástupišť na zastávkách. Provádí se většinou modernizace větších úseků, je totiž výhodnější dělat „vše při jednom“. Snahou také je udělat co nejvíce úprav v režimu „oprav“, protože při nutnosti řešení stavebního povolení trvá celý proces průměrně asi 2 roky.\r\n\nV případě tramvajové smyčky Obřany, Babická byla v létě 2018 provedena rekonstrukce, která umožnila vybudování dvou bezbariérových nástupišť (pro výstup a nástup). Jedná se o nástupiště s nájezdovými rampami, kdy výška nástupní hrany odpovídá normě a vysunutá plošina z tramvaje má předepsaný sklon. Důležitost této rekonstrukce spočívá v tom, že se jedná také o jednu z prvních tramvajových smyček, kde se podařilo vybudovat bezbariérové nástupiště pro výstup v místě před rozdvojením kolejí, resp. bezbariérové nástupiště pro nástup v místě po spojení dvou kolejí. Toto řešení umožňuje využití bezbariérových nástupišť pro všechny spoje, které do smyčky přijíždějí, resp. z ní vyjíždějí (toto například neumožňuje řešení u smyček Bystrc, Ečerova či Lesná, Čertova rokle, kde tak v bezbariérovém režimu funguje pouze pravá kolej).\r\n\n"
 constraints: "V případě tramvajové smyčky může být (téměř) nemožné vzhledem k terénu, vedení dopravní infrastruktury a dalším okolnostem vybudovat bezbariérová nástupiště před rozdvojením kolejí pro výstup či před spojením dvou kolejí pro nástup. \r\n\nNěkterá tramvajová nástupiště nejsou rekonstruována do podoby zcela bezbariérových nástupišť, ale do podoby nástupišť s nájezdovými rampami. Nástup a výstup je tak pouze na vlastní nebezpečí a doporučuje se využít služeb průvodce. Nástupiště v tomto stavu navíc nemají vysokou prioritu pro odstranění bariér, protože se pozornost zaměřuje spíše na ostatní zcela bariérová nástupiště.\r\n\n"
