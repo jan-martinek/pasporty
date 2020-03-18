@@ -6,14 +6,16 @@ subtitle: >-
 story: >-
   Stejně jako každý pátek se Mirek vypravil do obchodu s potravinami, aby si
   udělal větší víkendový nákup. Mirek je sice nevidomý, ale cestu do obchodu již
-  za ty roky dobře zná, takže ji za pomoci bílé hole zvládá bez větších
-  problémů. Zhruba v polovině cesty si však uvědomil, že si možná doma na stole
-  zapomněl peněženku. Zastavil se, aby si mohl prohledat bundu a batoh a své
-  nepříjemné tušení si tak ověřit. K jeho smůle se však zastavil těsně před
-  přechodem pro chodce, takže to mohlo vypadat, že chce přejít přes silnici.
-  Najednou ho někdo chytl za pravou ruku a se slovy: „Pojďte se mnou, já Vám
-  pomůžu,“ odvedl Mirka z jeho naučené trasy, na druhou stranu ulice neznámo
-  kam. 
+  za ty čtyři roky, co na nynější adrese bydlí, dobře zná, takže ji za pomoci
+  bílé hole zvládá bez větších problémů. Zhruba v polovině cesty si však
+  uvědomil, že si možná doma na stole, jak se vypravoval, zapomněl peněženku.
+  Zastavil se, aby si mohl prohledat kapsy u bundy a batoh a své nepříjemné
+  tušení si tak ověřit. K jeho smůle se však zastavil těsně před přechodem pro
+  chodce, takže to mohlo pro kolemjdoucí vypadat i tak, že chce přejít přes
+  silnici a potřebuje pomoc. Mirek však přemýšlel, kde by ještě mohl peněženku
+  mít, aby se nevracel domů zbytečně. Najednou ho někdo chytl za pravou ruku a
+  se slovy: „Pojďte se mnou, já Vám pomůžu,“ odvedl Mirka z jeho naučené trasy,
+  na druhou stranu ulice neznámo kam. 
 analysis: >+
   Lidé pohybující se ve veřejném prostoru často chtějí osobám se zrakovým
   postižením pomoci. Obzvláště pokud si myslí, že se dostaly do situace, kdy
