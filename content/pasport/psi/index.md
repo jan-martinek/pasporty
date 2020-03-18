@@ -29,7 +29,7 @@ constraints: >
   informační a propagační kampaně vždy pozvolna opadá. Je třeba kampaň opakovat,
   aby provozovatelé věděli, že něco takového existuje a mohou si o samolepky a
   Desatero žádat.    
-conclusion: "Odbor zdraví Magistrátu města Brna ukázal vznikem a distribucí samolepek a Desatera, že i malé a nenáročné kroky na čas, finance a organizaci mohou mít velký přínos a mají svůj smysl.\r\n\nZlepšení stavu může přinést i „pouhé“ informování a apel na vzájemnou občanskou solidaritu a společenskou odpovědnost firem.\r\n\nPokud má být osvěta efektivní, nemůže se jednat jen o jednorázovou informační kampaň. Je třeba kontinuální akce.\r\n\n"
+conclusion: "Odbor zdraví Magistrátu města Brna ukázal vznikem a distribucí samolepek a Desatera k psům se speciálním výcvikem, že i malé a nenáročné kroky na čas, finance a organizaci mohou mít velký přínos a mají svůj smysl.\r\n\nZlepšení stavu může přinést i „pouhé“ informování a apel na vzájemnou občanskou solidaritu a společenskou odpovědnost firem.\r\n\nPokud má být osvěta efektivní, nemůže se jednat jen o jednorázovou informační kampaň. Je třeba kontinuální akce.\r\n\n"
 before:
   name: before.jpg
   alt: Nálepka s nápisem Zákaz vstupu se psy
