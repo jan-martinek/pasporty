@@ -14,7 +14,8 @@ story: >-
   naučené trasy, na druhou stranu ulice. 
 analysis: >+
   Lidé pohybující se ve veřejném prostoru často chtějí osobám se zrakovým
-  postižením pomoci.
+  postižením pomoci. Obzvláště pokud si myslí, že se dostaly do situace, kdy
+  pomoc potřebují.
 
 
   Pomoc však nemusí být z jejich strany osobám se zrakovým postižením vhodně
