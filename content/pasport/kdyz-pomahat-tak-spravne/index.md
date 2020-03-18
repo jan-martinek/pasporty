@@ -43,9 +43,28 @@ conclusion: >-
 before:
   name: pred.jpg
   source: DVD „Pomáhejme správně“
+  alt: Ukázka špatného způsobu pomoci z DVD „Pomáhejme správně“.
 after:
   name: po.jpg
   source: DVD „Pomáhejme správně“
+  alt: Ukázka správného způsobu pomoci z DVD „Pomáhejme správně“.
 timeline:
   - parts: 1
+    time: leden až červen 2017
+    name: vznik scénáře videospotů a jejich natočení
+  - parts: 1
+    time: červenec až prosinec 2017
+    name: 'připomínkování videospotů, jejich úprava, finalizace DVD'
+  - parts: 1
+    time: září 2017 až březen 2018
+    name: vznik textů a fotografií do brožury
+  - parts: 1
+    time: březen až červen 2018
+    name: 'první vydání brožury, první vlna distribuce'
+  - parts: 1
+    time: 'listopad až prosinec 2018 '
+    name: 'druhé vydání brožury, druhá vlna distribuce'
+  - parts: 1
+    time: leden až březen 2020
+    name: 'dotisk aktualizovaného vydání brožury, třetí vlna distribuce'
 ---
