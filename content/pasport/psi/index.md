@@ -25,10 +25,10 @@ analysis: "Mezi psy se speciálním výcvikem patří vodicí psi, kteří pomá
 design: "Zvýšit osvětu o psech se speciálním výcvikem a příslušné legislativě mezi provozovateli různých zařízení a úřady.\r\n\nVytvoření a realizace informační kampaně o psech se speciálním výcvikem.\r\n\nApelování na solidaritu a odpovědnost občanů a ekonomických subjektů i nad rámec legislativy.\r\n\n"
 solution: "Odbor zdraví Magistrátu města Brna se v roce 2016 rozhodl na základě podnětu veřejnosti k vytvoření informační kampaně a materiálů ohledně psů se speciálním výcvikem. Ve spolupráci se Školou pro výcvik vodicích psů a spolkem Vodicí pes vznikla samolepka s nápisem „Vítáme vodicího a asistenčního psa“, která slouží zejména pro provozovatele obchodů a stravovacích zařízení, ale též pro školy a úřady k označení vstupu do svých budov, kdy dotyční dávají najevo, že nemají problém s přítomností těchto psů ve svých budovách. Samolepka tak jde nad rámec příslušné legislativy (tj. mohou si ji vylepit i provozovatelé, kteří by ze zákona nemuseli psa se speciálním výcvikem do svých prostor vpustit). Zároveň vznikl též dvoustránkový informační leták s názvem „Desatero k psům se speciálním výcvikem“, který popisuje, jak se ke psům se speciálním výcvikem chovat.\r\n\nNásledně proběhla informační kampaň, která zahrnovala propagační články, reportáže v televizi a rozhlase či reklamu ve vozidlech MHD. Materiály byly rozeslány vytipovaným provozovatelům. Poptávka těsně po informační kampani byla značná, dokonce si o samolepky a Desatero zažádala i jiná města.\r\n\nBylo vytištěno 7 000 ks samolepek a Desater. Grafický návrh realizoval magistrát, takže náklady tvořily jen tisk a distribuci – jednalo se o zhruba 50 000 Kč (včetně DPH).\r\n\n"
 constraints: >
-  Zájem provozovatelů zařízení (uživatelů samolepky a Desatera) po ukončení
-  informační a propagační kampaně vždy pozvolna opadá. Je třeba kampaň opakovat,
-  aby provozovatelé věděli, že něco takového existuje a mohou si o samolepky a
-  Desatero žádat.  
+  Zájem provozovatelů zařízení (uživatelů samolepky a Desatera k psům se
+  speciálním výcvikem) po ukončení informační a propagační kampaně vždy pozvolna
+  opadá. Je třeba kampaň opakovat, aby provozovatelé věděli, že něco takového
+  existuje a mohou magistrát o informační materiály požádat.  
 
 
   Do kampaně je ochotna se zapojit jen určitá část provozovatelů, obzvláště u
