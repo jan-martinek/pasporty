@@ -3,25 +3,20 @@ title: Bezbariérová nástupiště tramvajové smyčky
 title2: 'Obřany, Babická'
 subtitle: "Jakým způsobem lze vyřešit, aby i\_tramvajová smyčka mohla být bezbariérová?"
 story: >
-  Je horké léto a Milan sedí na zahrádce své oblíbené Hospody Na konečné v
-  Obřanech. Má za sebou projížďku na zříceninu Nový hrad, a tak si dopřává pivo
-  jakožto zaslouženou odměnu. Je sám, jeho pozornost upoutají dva vozíčkáři,
-  kteří sedí u protějšího stolu. V poslední době totiž na úseku cyklostezky mezi
-  Obřany a Bílovicemi nad Svitavou začal vídat více vozíčkářů, než tomu bylo
-  dříve. Navíc právě zaslechl, jak se mezi sebou baví o rekonstrukci nedaleké
-  tramvajové smyčky linky číslo 4. Milan se tedy osmělil a zeptal se vozíčkářů,
-  kteří se představili jako Radek a Alena, zda si může přisednout. Ti mu
-  následně popsali, jak si užívají toho, že už zhruba rok mohou do Obřan dorazit
-  tramvají a projet se na cyklostezce. To dříve možné nebylo, jelikož nástupiště
-  nebyla bezbariérová a vystupovalo se a nastupovalo se přímo z úrovně vozovky,
-  což pro vozíčkáře nepřipadalo v úvahu. Původně se jim vlastně nabízely tři
-  možnosti: za první vystoupit na některé z dřívějších bezbariérových zastávek,
-  za druhé dorazit do Obřan autem (je však nutné mít k autu přístup a na místě
-  pak ještě vyřešit parkování) a za třetí se na projížďku vůbec nevydávat, což
-  je ale nejméně radostná varianta. Radek s Alenou se také shodli na tom, že
-  možnost dojet až na konečnou je skvělá také v tom, že dostanou až na okraj
-  města a mohou tak vyrazit do přírody, kde je menší provoz než na městských
-  ulicích a nemusí řešit, jak překonat jednotlivé „nástrahy“ města.     
+  Je horké léto, Milan sedí na zahrádce své oblíbené hospody v brněnských
+  Obřanech a popíjí pivo. Jeho pozornost upoutají dva vozíčkáři, kteří sedí u
+  protějšího stolu. V poslední době totiž na místní cyklostezce začal vídat více
+  vozíčkářů, než tomu bylo dříve. Navíc právě zaslechl, jak se mezi sebou baví o
+  rekonstrukci nedaleké tramvajové smyčky linky číslo 4. Milan se tedy osmělil a
+  zeptal se vozíčkářů, kteří se představili jako Radek a Alena, zda si může
+  přisednout. Ti mu následně popsali, jak si užívají toho, že už zhruba rok
+  mohou do Obřan dorazit tramvají a projet se na cyklostezce. To dříve možné
+  nebylo, jelikož nástupiště nebyla bezbariérová a vystupovalo se a nastupovalo
+  se přímo z úrovně vozovky, což pro vozíčkáře nepřipadalo v úvahu. Původně se
+  jim vlastně nabízely tři možnosti: za první vystoupit na některé z dřívějších
+  bezbariérových zastávek, za druhé dorazit do Obřan autem (je však nutné mít k
+  autu přístup a na místě pak ještě vyřešit parkování) a za třetí se na
+  projížďku vůbec nevydávat, což je ale nejméně radostná varianta.     
 analysis: >
   Výrazná většina tramvajových smyček není bezbariérová.
 
