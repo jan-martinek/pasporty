@@ -32,10 +32,11 @@ constraints: >
 
 
   Do kampaně je ochotna se zapojit jen určitá část provozovatelů, obzvláště u
-  soukromých subjektů není možné vynutit si zapojení do kampaně.  
+  soukromých subjektů není možné vynutit si jejich zapojení.   
 
 
-  Po vyčerpání samolepek a dalších materiálů je třeba realizovat jejich dotisk.
+  Po vyčerpání samolepek a dalších materiálů je třeba realizovat jejich dotisk,
+  což samozřejmě znamená i další finanční náklady.
 conclusion: "Odbor zdraví Magistrátu města Brna ukázal vznikem a distribucí samolepek a Desatera k psům se speciálním výcvikem, že i malé a nenáročné kroky na čas, finance a organizaci mohou mít velký přínos a mají svůj smysl.\r\n\nZlepšení stavu může přinést i „pouhé“ informování, osvěta a apel na vzájemnou občanskou solidaritu a společenskou odpovědnost firem.\r\n\nPokud má být osvěta efektivní, nemůže se jednat jen o jednorázovou informační kampaň. Je třeba kontinuální akce.\r\n\n"
 before:
   name: before.jpg
