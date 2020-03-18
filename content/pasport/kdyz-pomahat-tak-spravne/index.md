@@ -17,11 +17,12 @@ analysis: >+
   postižením pomoci.
 
 
-  Pomoc však nemusí být vhodně nabídnutá či vhodně provedená.
+  Pomoc však nemusí být z jejich strany osobám se zrakovým postižením vhodně
+  nabídnutá či vhodně provedená.
 
 
   Nevhodná pomoc může dostat osoby se zrakovým postižením do horší situace, než
-  ve které původně byly.
+  ve které se původně nacházely.
 
 
 design: >-
