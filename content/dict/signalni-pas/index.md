@@ -1,0 +1,4 @@
+---
+title: signální pás
+---
+signáluje
