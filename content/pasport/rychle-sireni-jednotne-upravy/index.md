@@ -5,29 +5,25 @@ subtitle: >-
   Jak mohou na poštách s lístkovým vyvolávacím systém lidé nevidomí vědět, kdy
   jsou vyvoláni?
 story: >-
-  Na jaře roku 2007 jde pan Jaroslav odeslat balík na poštu na brněnském
-  Mojmírově náměstí. Pan Jaroslav má zrakové znevýhodnění, disponuje jen velmi
-  nepatrnými zbytky zraku a k pohybu po městě potřebuje bílou hůl. Poštu již
-  nějakou dobu nepotřeboval navštívit, a tak byl překvapen, když sem po delší
-  době dorazil, že na poště byl zaveden nový systém. Chtěl se postavit do řady,
-  kde stojí lidé čekající na přepážku, nicméně když se zeptal jiného zákazníka
-  pošty, kde konči řada a kde si má tedy stoupnout, bylo mu sděleno, že se musí
+  Na jaře roku 2007 jde nevidomý pan Jaroslav odeslat balík na poštu na
+  brněnském Mojmírově náměstí. Poštu již nějakou dobu nepotřeboval navštívit, a
+  tak byl překvapen, že zde byl zaveden nový systém. Chtěl se postavit do řady,
+  kde stojí lidé čekající na přepážku, nicméně bylo mu sděleno, že se musí
   vrátit ke vchodu a zmáčknout tlačítko na přístroji, z něhož mu vyjede lístek s
   pořadovým číslem. Pan Jaroslav se vrátil ke vchodu a podařilo se mu nahmatat
-  onen nový přístroj i tlačítko na něm. Po zmáčknutí tlačítka z přístroje vyjel
-  lístek. Pan Jaroslav si však nedokázal přečíst, co je na lístku napsané, a tak
-  se zeptal dalšího zákazníka pošty. Dozvěděl se, že má pořadové číslo 47, a má
-  proto čekat, dokud nebude jeho číslo vyvoláno, a že je zatím obsluhováno číslo
-  41. Pan Jaroslav si tedy sedl a čekal na své číslo. Čekal notnou dobu a bylo
-  mu divné, že zatím nebylo vyvoláno žádné další číslo po onom 41. Když nabyl
-  pocitu, že čeká již snad dvacet minut, zeptal se dalšího z návštěvníků pošty,
-  proč to vše tak dlouho trvá. Tento zákazník pošty si všiml Jaroslavova čísla
-  47 a řekl mu, že toto číslo bylo vyvoláno již před deseti minutami. Pan
-  Jaroslav se divil, vždyť nic nehlásili. Pán mu kolegiálně ukázal, že to není
-  hlášeno, ale zobrazeno na obrazovce u přepážek. Donesl panu Jaroslavovi nové
-  číslo a upozornil ho, že se musí vyptávat ostatních lidí, co za číslo jde
-  zrovna na přepážku. Pan Jaroslav tedy začal čekat znovu a doufat, že tentokrát
-  nepromešká své „vyvolání“. 
+  onen nový přístroj i tlačítko na něm. Byl mu vydán lístek, pan Jaroslav si
+  však nedokázal přečíst, co je na lístku napsané. Od jiného zákazníka pošty se
+  dozvěděl, že má pořadové číslo 47, a má proto počkat, dokud nebude jeho číslo
+  vyvoláno. Že zatím je na řadě číslo 41. Pan Jaroslav si tedy sedl a čekal.
+  Čekal notnou dobu a bylo mu divné, že dosud nebylo vyvoláno žádné další číslo
+  po onom 41. Když čekal již velmi dlouho, zeptal se dalšího z návštěvníků
+  pošty, proč to vše tak dlouho trvá. Tento návštěvník mu ale sdělil, že číslo
+  47 bylo vyvoláno již před deseti minutami. Pan Jaroslav se divil, vždyť nic
+  nehlásili. Pán mu vysvětlil, že číslo není doslova vyvoláno, ale je zobrazeno
+  na obrazovce u přepážek. Donesl panu Jaroslavovi nové číslo a upozornil ho, že
+  se musí vyptávat ostatních lidí, co za číslo má jít zrovna na přepážku. Pan
+  Jaroslav tedy začal čekat znovu a doufat, že tentokrát nepromešká své
+  „vyvolání“.
 analysis: >-
   Přístroj, která vydává lístky s čísly, je uzpůsoben pro vidící lidi.
 
@@ -71,23 +67,20 @@ solution: >-
   nového tisíciletí všímat, že neustále přibývá pošt, které jsou vybaveny
   lístkovými vyvolávacími systémy pro přístup k přepážkám. Ředitel SONS proto
   započal komunikaci s generálním ředitelstvím České pošty o této problematice.
-  Bylo třeba nejprve podrobně vysvětlit České poště, v čem spočívá problém a jak
-  je ho možné řešit, ale nakonec Česká pošta souhlasila, že podpoří vytvoření
-  technologie upraveného ozvučeného vyvolávacího systému pro osoby nevidomé.
-  SONS se proto zkontaktoval s brněnským Tyfloservisem a TyfloCentrem a společně
-  vytvořili originální úpravu vyvolávacího systému, kdy nevidomý zákazník pošty
-  bude u vstupu do pošty ihned zaregistrován do pořadníku a poté, až na něj
-  přijde řada, hlasovými informacemi naveden k pro něj vyhrazené přepážce, k niž
-  navíc přímo povede kovová vodící linie. Pilotní testování technologie proběhlo
-  na poště v Brně na Lesné (Haškova 17), neboť byla vybrána jako pošta nejvíce
-  navštěvovaná nevidomými zákazníky. Po úspěšné pilotáži byl upravený vyvolávací
-  systém nainstalován ještě na poštách Brno-Mojmírovo náměstí a Brno-Křížová.
-  SONS nicméně od začátku koncipoval technologii tak, aby šla nainstalovat na
-  jakoukoli poštu s vyvolávacím lístkovým systémem, aby se tedy jednalo o
-  jednotný celostátní systém. Proto byl společně s Českou poštou odsouhlasen
-  seznam pošt po celé České republice, kde bude technologie zavedena, a
-  Tyfloservis vytvořil i jednotné instrukce pro zaměstnance pošt, jak se
-  systémem pracovat. Technologie upraveného vyvolávacího systému pro osoby
+  Česká pošta nakonec souhlasila, že podpoří vytvoření technologie upraveného
+  ozvučeného vyvolávacího systému pro osoby nevidomé. SONS se proto zkontaktoval
+  s brněnským Tyfloservisem a TyfloCentrem a společně vytvořili originální
+  úpravu vyvolávacího systému, kdy nevidomý zákazník pošty bude u vstupu do
+  pošty ihned zaregistrován do pořadníku a poté, až na něj přijde řada,
+  hlasovými informacemi naveden k pro něj vyhrazené přepážce, k níž navíc přímo
+  povede kovová vodící linie. Pilotní testování technologie proběhlo na poště v
+  Brně na Lesné, neboť byla vybrána jako pošta nejvíce navštěvovaná nevidomými
+  zákazníky. Poté byl upravený vyvolávací systém nainstalován ještě na poštách
+  Brno-Mojmírovo náměstí a Brno-Křížová. SONS nicméně od začátku koncipoval
+  technologii tak, aby šla nainstalovat na jakoukoli poštu s vyvolávacím
+  lístkovým systémem, aby se tedy jednalo o jednotný celostátní systém. Proto
+  byl společně s Českou poštou odsouhlasen seznam pošt po celé ČR, kde bude
+  technologie zavedena. Technologie upraveného vyvolávacího systému pro osoby
   nevidomé je tak nakonec zavedena na 18 poštách po České republice.
 constraints: >-
   Úprava vyvolávacího systému je finančně nákladná.
