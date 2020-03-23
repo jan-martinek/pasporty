@@ -111,10 +111,10 @@ timeline:
   - parts: 2
     time: duben 2017
     name: Na místě jsou konzultována možná řešení
-  - parts: 1
+  - parts: 10
     time: červen 2017
     name: Je hotova úprava s obrubníkem
-  - parts: 10
+  - parts: 1
     time: září 2018
     name: Jsou instalovány nové značky na jednom sloupku
 dictionary:
