@@ -115,10 +115,10 @@ timeline:
   - parts: 1
     time: '2016'
     name: Začíná se hovořit o celkové rekonstrukci nádraží
-  - parts: 1
+  - parts: 2
     time: '2017'
     name: Díky podnětům různých skupin se začíná tvořit projekt rekonstrukce
-  - parts: 2
+  - parts: 1
     time: '2019'
     name: 'Probíhá rekonstrukce, na konci roku se nádraží znovu otevírá'
   - parts: 1
