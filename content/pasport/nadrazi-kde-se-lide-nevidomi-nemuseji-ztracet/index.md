@@ -124,4 +124,7 @@ timeline:
   - parts: 1
     time: '2020'
     name: Jsou dokončeny poslední bezbariérové úpravy
+dictionary:
+  - Braillovo písmo
+  - 3D hmatový model / haptická mapa
 ---
