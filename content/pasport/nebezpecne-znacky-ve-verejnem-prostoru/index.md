@@ -111,7 +111,7 @@ timeline:
   - parts: 2
     time: duben 2017
     name: Na místě jsou konzultována možná řešení
-  - parts: 10
+  - parts: 8
     time: červen 2017
     name: Je hotova úprava s obrubníkem
   - parts: 1
