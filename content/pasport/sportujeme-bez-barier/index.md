@@ -29,9 +29,7 @@ analysis: >-
   * Chybí plány a strategie, které by podporovaly budování bezbariérových
   veřejných prostorů.
 design: >-
-
-
-  * Realizace bezbariérových hřišť rovnoměrně na území Brna.
+  * Realizace bezbariérových hřišť rovnoměrně na celém území Brna.
 
   * Navázat spolupráci s jinými samosprávnými celky při řešení bezbariérovosti a
   vyhledávat dobré příklady.
@@ -54,12 +52,10 @@ solution: >-
   přístupové cesty ke hřišti. PSpBB provedl audit a zmapování přístupnosti MHD v
   rámci projektu.
 constraints: >-
-
-
   * Jednotlivé územní celky se vnímají jako konkurenční subjekty.
 
   * Veřejná správa se příliš nevěnuje otázkám přístupnosti specifických
-  veřejných prostorů, například hřišť.
+  veřejných prostorů, například sportovních areálů.
 
   * Nelze zcela přenést řešení z jednoho případu na druhé, každá realizace bude
   mít svá specifika.
