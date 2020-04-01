@@ -58,8 +58,6 @@ solution: >-
   smyček na dalších pracovištích. Za rok 2019 bylo na tento projekt vyčleněno
   200 000,- Kč  z rozpočtu Odboru zdraví MMB.
 constraints: >-
-
-
   * Instalované indukční smyčky vyžadují údržbu a správné ovládání.
 
   * Indukční smyčky nejsou instalovány na všech pracovištích MMB, kde dochází ke
@@ -67,9 +65,9 @@ constraints: >-
 
   * Je nutné dobře označit místa s indukční smyčkou a informovat uživatele
   naslouchadla.
+
+    Indukční smyčka pomáhá pouze nedoslýchavým lidem nikoliv neslyšícím
 conclusion: >-
-
-
   * Odbor zdraví ve spolupráci s PSpBB nainstaloval indukční smyčky na vybrané
   místa v rámci prostorů MMB.
 
