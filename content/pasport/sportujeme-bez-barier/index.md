@@ -101,4 +101,6 @@ timeline:
   - parts: 1
     time: Jaro 2019
     name: Realizace projektu a slavnostní otevření hřiště
+dictionary:
+  - workoutové hřiště
 ---
