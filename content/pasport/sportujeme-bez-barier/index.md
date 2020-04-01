@@ -57,7 +57,7 @@ constraints: >-
   * Veřejná správa se příliš nevěnuje otázkám přístupnosti specifických
   veřejných prostorů, například sportovních areálů.
 
-  * Nelze zcela přenést řešení z jednoho případu na druhé, každá realizace bude
+  * Nelze zcela přenést řešení z jednoho případu na druhý, každá realizace bude
   mít svá specifika.
 conclusion: >-
 
@@ -91,7 +91,7 @@ timeline:
   - parts: 2
     time: Jaro 2018
     name: Žádost o dotaci na realizaci bezbariérového hřiště
-  - parts: 6
+  - parts: 2
     time: Podzim 2018
     name: Podání investičního záměru
   - parts: 1
