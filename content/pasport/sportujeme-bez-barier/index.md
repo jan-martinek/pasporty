@@ -29,7 +29,8 @@ analysis: >-
   * Chybí plány a strategie, které by podporovaly budování bezbariérových
   veřejných prostorů.
 design: >-
-  * Realizace bezbariérových hřišť rovnoměrně na celém území Brna.
+  * Realizace bezbariérových hřišť rovnoměrně na celém území Brna a zpřístupnění
+  stávajících sportovních hřišť pro uživatele vozíku.
 
   * Navázat spolupráci s jinými samosprávnými celky při řešení bezbariérovosti a
   vyhledávat dobré příklady.
@@ -59,6 +60,9 @@ constraints: >-
 
   * Nelze zcela přenést řešení z jednoho případu na druhý, každá realizace bude
   mít svá specifika.
+
+  * Je důležité, aby na bezbariérová workoutová hřiště navazovala i další
+  bezbariérová řešení např. MHD.
 conclusion: >-
 
 
