@@ -99,4 +99,5 @@ timeline:
     name: Schválena realizace indukčních smyček.
 dictionary:
   - indukční smyčka
+  - naslouchadlo
 ---
