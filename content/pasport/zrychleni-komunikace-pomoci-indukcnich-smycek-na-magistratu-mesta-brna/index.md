@@ -66,13 +66,14 @@ constraints: >-
   * Je nutné dobře označit místa s indukční smyčkou a informovat uživatele
   naslouchadla.
 
-    Indukční smyčka pomáhá pouze nedoslýchavým lidem nikoliv neslyšícím
+  * Indukční smyčka pomáhá pouze nedoslýchavým lidem nikoliv neslyšícím
 conclusion: >-
   * Odbor zdraví ve spolupráci s PSpBB nainstaloval indukční smyčky na vybrané
   místa v rámci prostorů MMB.
 
-  * Instalované indukční smyčky zlepší a zrychlí komunikaci mezi úředníky a
-  uživateli naslouchadla.
+  * Instalované indukční smyčky usnadní komunikaci mezi úředníky a uživateli
+  naslouchadla, díky čemuž bude vyřizování administrativních záležitostí
+  rychlejší.
 before:
   alt: Vyřizování administrativních záležitostí na úřadě bez indukční smyčky
   source: 'https://www.youtube.com/watch?v=mfCITdcIbxA '
