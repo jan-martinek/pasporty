@@ -103,6 +103,7 @@ timeline:
     name: Realizace projektu a slavnostní otevření hřiště
 dictionary:
   - workoutové hřiště
+  - nadace Emil
 links:
   - link: 'https://www.areal-hluboka.cz/atrakce/7-venkovni-posilovna'
     description: Sportovní areál v Hluboké nad Vltavou
