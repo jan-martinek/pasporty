@@ -1,4 +1,4 @@
 ---
-title: Workoutové hřiště
+title: workoutové hřiště
 ---
 text
