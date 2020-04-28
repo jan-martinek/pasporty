@@ -1,4 +1,4 @@
-baseURL = "https://pasporty.netlify.com"
+baseURL = "https://pasporty.netlify.app"
 defaultContentLanguage = "cs"
 title = "Příklady dobré praxe"
 disableKinds = ["taxonomyTerm", "taxonomy"]
