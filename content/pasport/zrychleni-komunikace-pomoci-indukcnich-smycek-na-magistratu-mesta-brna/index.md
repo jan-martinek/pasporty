@@ -1,7 +1,8 @@
 ---
-title: Zpříjemnění komunikace pomocí indukčních smyček na Magistrátu města Brna
-title2: ((Asi by bylo dobré kdyby, název byl údernější a v podnázvu bylo něco
-  jako indukční smyčka))
+title: ""
+title2: "Zpříjemnění komunikace pomocí indukčních smyček na Magistrátu města
+  Brna ((Asi by bylo dobré kdyby, název byl údernější a v podnázvu bylo něco
+  jako indukční smyčka)) "
 subtitle: Jak zjednodušit komunikaci s uživateli naslouchadel za přepážkami na
   Magistrátu města Brna?
 story: Novomanželé Martin a Lenka mají krátce po svatbě a jsou nedoslýchaví. Pro
@@ -62,7 +63,7 @@ conclusion: >-
   * Odbor zdraví ve spolupráci s PSpBB nainstaloval indukční smyčky na vybrané
   místa v rámci prostorů MMB.
 
-  * Instalované indukční smyčky usnadní komunikaci mezi úředníky a uživateli naslouchadla, díky čemuž bude vyřizování administrativních záležitostí rychlejší. ((doporučoval bych opravdu něco jako "snadnější", "komfortnější", "přístupnější"))
+  * Instalované indukční smyčky usnadní komunikaci mezi úředníky a uživateli naslouchadla, díky čemuž bude vyřizování administrativních záležitostí snadnější
 before:
   alt: Vyřizování administrativních záležitostí na úřadě bez indukční smyčky
   source: "https://www.youtube.com/watch?v=mfCITdcIbxA "
@@ -74,13 +75,11 @@ after:
 timeline:
   - parts: 1
     time: Jaro 2019
-    name: Byl schválen Akční plán, kde byla vybrán jako jeden z projektů právě
-      instalace indukčních smyček pro zvýšení bezbariérovosti MMB ((dlouhé,
-      zkrátit, to se tam nevejde))
+    name: Schválen Akční plán - instalace indukčních smyček pro zvýšení
+      bezbariérovosti MMB.
   - parts: 1
     time: Léto 2019
-    name: Oslovení odborů s pomocí při vytipovávání vhodných míst pro instalaci
-      indukčních smyček ((dlouhé, zkrátit, to se tam nevejde))
+    name: Vytipovávání vhodných míst pro instalaci indukčních smyček na odborech MMB.
   - parts: 1
     time: Podzim 2019
     name: Schválena realizace indukčních smyček
