@@ -25,6 +25,10 @@ collections:
         name: title
         required: false
         widget: string
+      - label: Pořadové číslo
+        name: number
+        required: false
+        widget: number
       - label: Lokalita
         name: title2
         required: false

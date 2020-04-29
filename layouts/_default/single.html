@@ -12,6 +12,8 @@
 	<h2>Ilustrační příběh {{ partial "length.html" (dict "len" 1100 "text" .Params.story) }}</h2>
 	{{ partial "typo.html" .Params.story }}
 	<img src="./{{ .Params.before.name }}" alt="{{ .Params.before.alt }}">
+  <b>Zdroj obrázku:</b> {{ partial "typo.html" .Params.before.source }}<br>
+  <b>Popis obsahu obrázku pro čtečky (je nutno popsat, co je na obrázku vidět):</b> {{ partial "typo.html" .Params.before.alt }}
 </section>
 
 <section class="analysis">
@@ -29,6 +31,8 @@
 	<h2>Konkrétní realizace v Brně {{ partial "length.html" (dict "len" 1300 "text" .Params.solution) }}</h2>
 	{{ partial "typo.html" .Params.solution }}
 	<img src="./{{ .Params.after.name }}" alt="{{ .Params.after.alt }}">
+  <b>Zdroj obrázku:</b> {{ partial "typo.html" .Params.after.source }}<br>
+  <b>Popis obsahu obrázku pro čtečky (je nutno popsat, co je na obrázku vidět):</b> {{ partial "typo.html" .Params.after.alt }}
 </section>
 
 {{ with .Params.timeline }}

@@ -1,7 +1,7 @@
 {{ define "main" }}
-    {{ range where (where .Site.Pages "Section" "pasport") "Kind" "page" }}
+    {{ range sort (where (where .Site.Pages "Section" "pasport") "Kind" "page") "Params.number" }}
       <h2>
-        <a href="{{ .RelPermalink }}">{{ .Title }}{{- with .Params.title2 }}:<br> <span class="more">{{ . }}</span> {{ end }}</a>
+        <a href="{{ .RelPermalink }}">{{ .Params.number }} {{ .Title }}{{- with .Params.title2 }}:<br> <span class="more">{{ . }}</span> {{ end }}</a>
       </h2>
       <p>{{ .Params.subtitle }}</p>
     {{ end }}

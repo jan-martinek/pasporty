@@ -1,7 +1,7 @@
 {{- $raw := replaceRE " - " " &mdash; " . -}}
 {{- $raw = replaceRE "§ " "§&nbsp;" $raw -}}
 {{- $raw = replaceRE " Kč" "&nbsp;Kč" $raw -}}
-{{- $raw = replaceRE "\\(\\(" "<span style='background: yellow'>(<span title='Robert mluví'>😠</span> " $raw -}}
+{{- $raw = replaceRE "\\(\\(" "<span style='background: yellow'>(<span title='Robert mluví'>⚠️</span> " $raw -}}
 {{- $raw = replaceRE "\\)\\)" ")</span>" $raw -}}
 {{- $raw = replaceRE "https://domek.netlify.com" "" $raw -}}
 {{- $raw = replaceRE "(\\s[AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž][AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž]?) " "$1&nbsp;" $raw -}}

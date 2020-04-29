@@ -1,6 +1,7 @@
 ---
 title: Část versus celek
 title2: 'Křenová, Brno'
+number: 1
 subtitle: Proč to trvalo 10 let? Z jakého důvodu to nebylo možné realizovat rychleji?
 story: >
   Píše se rok 2009, vozíčkář vyjíždí z domu, přijíždí k zastávce MHD Vlhká a
