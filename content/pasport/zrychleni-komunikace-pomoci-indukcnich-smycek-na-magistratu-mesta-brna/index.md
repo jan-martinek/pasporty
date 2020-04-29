@@ -27,9 +27,7 @@ analysis: >-
 
   * Personál na většině pracovištích je proškolen v komunikaci s nedoslýchavým člověkem, ale komunikace trvá zbytečně dlouho.
 
-  * Nedoslýchavý člověk si sebou na magistrát musí pozvat překladatele do znakového jazyka. ((pozor s timhle opatrně, děláš pasport o indukční smyčce, to je něco úplně jiného než český znakový jazyk, většina lidí, co mají naslouchadlo neumí český znakový jazyk, tohle bych sem vůbec nepletl))
-
-  * Některé oddělení, kde dochází ke komunikaci s lidmi mají přepážky s instalovanými plexiskly, které brání bezproblémové komunikaci. ((to pdstatné je že snižují slyšitelnost a možnost odezírání, na tom bych to stavěl))
+  * Některé oddělení, kde dochází ke komunikaci s lidmi mají přepážky s instalovanými plexiskly, které brání odezírání a lepší slyšitelnosti zvuku.
 design: >-
   * Vytipování nejvytíženějších přepážkových míst MMB, kde může docházet k
   častému kontaktu mezi úředníky a nedoslýchavými.
@@ -63,7 +61,7 @@ conclusion: >-
   * Odbor zdraví ve spolupráci s PSpBB nainstaloval indukční smyčky na vybrané
   místa v rámci prostorů MMB.
 
-  * Instalované indukční smyčky usnadní komunikaci mezi úředníky a uživateli naslouchadla, díky čemuž bude vyřizování administrativních záležitostí snadnější
+  * Instalované indukční smyčky usnadní komunikaci mezi úředníky a uživateli naslouchadla, díky čemuž bude vyřizování administrativních záležitostí snadnější.
 before:
   alt: Vyřizování administrativních záležitostí na úřadě bez indukční smyčky
   source: "https://www.youtube.com/watch?v=mfCITdcIbxA "
