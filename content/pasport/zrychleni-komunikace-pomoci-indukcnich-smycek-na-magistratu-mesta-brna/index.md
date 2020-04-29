@@ -1,17 +1,15 @@
 ---
-title: Zrychlení ((ten imerativ rychlosti mi trochu vadí, volil bych raději
-  slovo "zjednodušil", "zpříjemnil")) komunikace pomocí indukčních smyček na
-  Magistrátu města Brna
+title: Zpříjemnění komunikace pomocí indukčních smyček na Magistrátu města Brna
 title2: ((Asi by bylo dobré kdyby, název byl údernější a v podnázvu bylo něco
   jako indukční smyčka))
-subtitle: Jak zrychlit ((zjednodušit)) komunikaci s uživateli naslouchadel za
-  přepážkami na Magistrátu města Brna?
+subtitle: Jak zjednodušit komunikaci s uživateli naslouchadel za přepážkami na
+  Magistrátu města Brna?
 story: Novomanželé Martin a Lenka mají krátce po svatbě a jsou nedoslýchaví. Pro
   komunikaci s ostatními používají naslouchadlo. Žijí mimo Brno, ale chtějí se
-  tam ((do Brna)) přistěhovat za lepším pracovním uplatněním. Byt si už našli a
-  chtějí si přihlásit trvalý pobyt do Brna, aby mohli užívat výhod spojených s
-  bydlením v Brně. Rozhodnou se tedy, že vyrazí na MMB na Husovu ulici, kde
-  odbor evidence obyvatel sídlí, aby tak učinili.  Dojdou na oddělení evidence
+  do Brna přistěhovat za lepším pracovním uplatněním. Byt si už našli a chtějí
+  si přihlásit trvalý pobyt do Brna, aby mohli užívat výhod spojených s bydlením
+  v Brně. Rozhodnou se tedy, že vyrazí na MMB na Husovu ulici, kde odbor
+  evidence obyvatel sídlí, aby tak učinili.  Dojdou na oddělení evidence
   obyvatel, tam sedí pracovnice oddělení za přepážkou se silným plexisklem a
   několika otvory na papíry a průchod zvuku. Pár by přehlášení chtěl vyřídit
   rychle, protože spěchají na vlak do Prahy. Považovali to za rychlou
@@ -22,7 +20,7 @@ story: Novomanželé Martin a Lenka mají krátce po svatbě a jsou nedoslýchav
   písemnou komunikaci, která byla ale zdlouhavá v porovnání s běžnou komunikací.
   Po každé neúspěšné větě jim předala lístek s požadavkem nebo otázkou. Celá
   konverzace trvala déle, než očekávali. Po návštěvě magistrátu Martin s Lenkou
-  vyrazili na nádraží. Spěchali, aby to stihli, ale vlak jim bohužel ujel.
+  vyrazili na nádraží. Spěchají, aby to stihli, ale vlak jim už bohužel ujel.
 analysis: >-
   * Na většině přepážek a pracovišť MMB chybí indukční smyčky.
 
