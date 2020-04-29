@@ -2,8 +2,8 @@
 title: Zrychlení ((ten imerativ rychlosti mi trochu vadí, volil bych raději
   slovo "zjednodušil", "zpříjemnil")) komunikace pomocí indukčních smyček na
   Magistrátu města Brna
-title2: ((Asi by bylo dobré kdyby v názvu nebo podnázvu bylo něco jako indukční
-  smyčka))
+title2: ((Asi by bylo dobré kdyby, název byl údernější a v podnázvu bylo něco
+  jako indukční smyčka))
 subtitle: Jak zrychlit ((zjednodušit)) komunikaci s uživateli naslouchadel za
   přepážkami na Magistrátu města Brna?
 story: Novomanželé Martin a Lenka mají krátce po svatbě a jsou nedoslýchaví. Pro
