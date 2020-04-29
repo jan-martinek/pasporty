@@ -4,5 +4,5 @@ title = "Příklady dobré praxe"
 disableKinds = ["taxonomyTerm", "taxonomy"]
 relativeurls = true
 
-[blackfriday]
-  fractions = false
+[markup.goldmark.renderer]
+unsafe = true

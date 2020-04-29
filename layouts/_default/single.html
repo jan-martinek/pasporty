@@ -37,7 +37,7 @@
   <ul>
     {{ range . }}
       <li class="parts-{{ .parts }}">
-        <strong>{{ .time }}:</strong> {{ .name }}
+        <strong>{{ .time }}:</strong> {{ partial "typo.html" .name }}
       </li>
     {{ end }}
   </ul>
@@ -61,7 +61,7 @@
     {{ range . }}
       {{ range where $.Site.Pages "Title" . }}
         <dt>{{ .Title }}</dt>
-        <dd>{{ .RawContent | markdownify }}</dd>
+        <dd>{{ partial "typo.html" .RawContent }}</dd>
       {{ end }}
     {{ end }}
   </dl>
