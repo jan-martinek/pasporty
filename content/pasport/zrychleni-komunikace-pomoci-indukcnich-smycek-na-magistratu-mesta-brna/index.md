@@ -1,8 +1,6 @@
 ---
-title: ""
-title2: "Zpříjemnění komunikace pomocí indukčních smyček na Magistrátu města
-  Brna ((Asi by bylo dobré kdyby, název byl údernější a v podnázvu bylo něco
-  jako indukční smyčka)) "
+title: Pro novou občanku bez problémů
+title2: Zpříjemnění komunikace pomocí indukčních smyček na Magistrátu města Brna
 subtitle: Jak zjednodušit komunikaci s uživateli naslouchadel za přepážkami na
   Magistrátu města Brna?
 story: Novomanželé Martin a Lenka mají krátce po svatbě a jsou nedoslýchaví. Pro
@@ -10,18 +8,17 @@ story: Novomanželé Martin a Lenka mají krátce po svatbě a jsou nedoslýchav
   do Brna přistěhovat za lepším pracovním uplatněním. Byt si už našli a chtějí
   si přihlásit trvalý pobyt do Brna, aby mohli užívat výhod spojených s bydlením
   v Brně. Rozhodnou se tedy, že vyrazí na MMB na Husovu ulici, kde odbor
-  evidence obyvatel sídlí, aby tak učinili.  Dojdou na oddělení evidence
+  evidence obyvatel sídlí, aby tak učinili. Dojdou na oddělení evidence
   obyvatel, tam sedí pracovnice oddělení za přepážkou se silným plexisklem a
   několika otvory na papíry a průchod zvuku. Pár by přehlášení chtěl vyřídit
-  rychle, protože spěchají na vlak do Prahy. Považovali to za rychlou
-  záležitost, bohužel opak byl pravdou. Komunikace přes plexisklo vázla ((zase
-  máš problém s časy, ilustrační příběh bych doporučoval psát co nejvíce v
-  přírtomném čase)), Lenka ani Martin úřednici nerozuměli každé druhé slovo.
-  Když pracovnice zjistila, že se jedná o nedoslýchavé klienty, přešla na
-  písemnou komunikaci, která byla ale zdlouhavá v porovnání s běžnou komunikací.
-  Po každé neúspěšné větě jim předala lístek s požadavkem nebo otázkou. Celá
-  konverzace trvala déle, než očekávali. Po návštěvě magistrátu Martin s Lenkou
-  vyrazili na nádraží. Spěchají, aby to stihli, ale vlak jim už bohužel ujel.
+  rychle, protože spěchají na vlak do Prahy. Považují to za rychlou záležitost,
+  bohužel opak je pravdou. Komunikace přes plexisklo vázne. Lenka ani Martin
+  úřednici nerozumějí každé druhé slovo. Když pracovnice zjistí, že se jedná o
+  nedoslýchavé klienty, přejde na písemnou komunikaci, která je ale zdlouhavá v
+  porovnání s běžnou komunikací. Po každé neúspěšné větě jim předává lístek s
+  požadavkem nebo otázkou. Celá konverzace trvá déle, než očekávali. Po návštěvě
+  magistrátu Martin s Lenkou vyrážejí na nádraží. Spěchají, aby to stihli, ale
+  vlak jim už bohužel ujel.
 analysis: >-
   * Na většině přepážek a pracovišť MMB chybí indukční smyčky.
 
