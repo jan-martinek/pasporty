@@ -1,5 +1,5 @@
 ---
-title: Levné rychlé řešení místo pomalého nákladného
+title: Rychlé levné řešení místo pomalého nákladného
 title2: Dvojí ozvučení semaforů pro chodce
 subtitle: Jak zajistit lidem nevidomým bezpečný přechod vozovky na křižovatkách
   s více ozvučenými semafory?
@@ -80,9 +80,11 @@ conclusion: >-
 
   Lze se však také nejdříve poohlédnout, zdali nejsou k dispozici jednoduchá a levná řešení.
 before:
-  source: w
+  source: Archiv P. Doboše
+  name: semafory_foto_pred.jpg
 after:
-  source: w
+  source: Archiv P. Doboše
+  name: semafory_foto_po.jpg
 timeline:
   - parts: 5
     time: březen 2012
