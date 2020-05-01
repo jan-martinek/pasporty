@@ -26,6 +26,20 @@ analysis: >-
   * Studenti se mohou zúčastnit přednášek mimo VUT nebo si zapsat předměty z jiných univerzit.
 
   * V praxi nejsou často architekti schopni reflektovat potřeby znevýhodněných skupin jakou jsou například uživatelé vozíku nebo osoby s postižením zraku.
+design: >-
+  
+
+  * Pravidelná výuka o řešení bezbariérovosti architektury
+
+  * Koordinace a vyšší komunikace mezi členy PSpBB v případech, aby se zamezilo možným a zbytečným překryvům v náplni přednášky 
+
+  * Povinný předmět pro všechny studenty
+
+  * Navázat koordinovanou spolupráci mezi PSpBB a VUT
+conclusion: >-
+  
+
+  * Díky přednáškám a předmětům na VUT v Brně se mezi studenty potažmo architekty zvýší orientace v problematice bezbariérovosti
 before:
   source: internet
 after:
