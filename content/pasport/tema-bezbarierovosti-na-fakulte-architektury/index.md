@@ -41,9 +41,11 @@ conclusion: >-
 
   * Díky přednáškám a předmětům na VUT v Brně se mezi studenty potažmo architekty zvýší orientace v problematice bezbariérovosti
 before:
-  source: internet
+  source: https://www.trainingjournal.com/
+  alt: Příprava projektu před hlubším seznámením s problematikou
 after:
-  source: internet
+  source: https://www.shutterstock.com/
+  alt: Příprava projektu po hlubším seznámením s problematikou
 timeline:
   - parts: 1
 ---
