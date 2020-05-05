@@ -63,6 +63,8 @@ conclusion: >-
   * Výuka je vedena zážitkovou formou, čímž lze lépe přiblížit potíže handicapovaných lidí při pohybu ve veřejném prostoru. 
 
   * Výsledky a výstup z workshopů a hodin mohou pomoci handicapovaným lidem v běžném životě.
+
+  * Vzhledem k povinnosti předmět Typologie II absolvovat se s bezbariérovostí seznámí všichni studenti oboru (cca 70 studentů).
 before:
   source: https://www.trainingjournal.com/
   alt: Příprava projektu před hlubším seznámením s problematikou
