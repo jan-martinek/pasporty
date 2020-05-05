@@ -38,6 +38,17 @@ design: >-
   * Koordinace a vyšší komunikace mezi členy PSpBB v případech, aby se zamezilo možným a zbytečným překryvům v náplni přednášky.
 
   * Navázat koordinovanou spolupráci mezi PSpBB a VUT.
+solution: >-
+  Bezbariérovosti je na VUT věnována určitá pozornost již od 90. let, kdy se za
+  toto téma zasazoval Jiří Šindler. S touto snahou potom vznikl i první předmět,
+  který se bezbariérovosti věnoval, resp. problematika bezbariérovosti byla
+  implementována do jednoho z předmětů. Na tento předmět potom navázal vznik
+  dalších předmětů, které měly prohloubit znalosti v oblasti bezbariérovosti a
+  také získat potřebnou praxi a zpětnou vazbu od expertů, kteří se této
+  problematice věnují.  
+
+
+  Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se datuje od roku 2008. Tehdy je Josef Konečný, člen PSpBB, požádán Janem Foretníkem o spolupráci na projektu studentů 4. ročníku architektury Neviděné město, který studenti řešili v rámci volitelného předmětu. Cílem těchto přednášek je polidštění strohého znění paragrafů různých vyhlášek a norem. Od té doby je pan Konečný stálým účastníkem tohoto volitelného předmětu. Na tuto spolupráci navázala pravidelná účast na přednáškách předmětu Typologie (povinný předmět) v roce 2011, kde se řeší především legislativní záležitosti spojené s tělesně znevýhodněnými osobami. Postupně se do spolupráce na obou těchto předmětech zapojuje i Karel Sobol, člen PSpBB, který přibližuje pohyb uživatele vozíčku po Brně. Většina přednášek je zaměřena na zprostředkovanou zkušenost studentů s daným handicapem. Zatím poslední pravidelnou aktivitou je přednáška Roberta Osmana. člen PSpBB, v rámci předmětu Sociální vědy a vybrané problémy architektury a prostoru, kde se věnuje analýze prostoru skrze možnosti našeho těla.
 constraints: >-
   
 
@@ -67,10 +78,14 @@ timeline:
       města
   - parts: 2
     time: "2011"
+    name: První přednáška Josefa Konečného v rámci výuky povinného předmětu Typologie
   - parts: 1
     time: "2013"
+    name: "Zapojení Karla Sobola do výuky předmětu Typologie  "
   - parts: 7
     time: "2020"
+    name: "Účast Roberta Osmana ve výuce nového předmětu Sociální vědy a vybrané
+      problémy architektury a prostoru   "
 dictionary:
   - vyhláška č. 398/2009 Sb.
 ---
