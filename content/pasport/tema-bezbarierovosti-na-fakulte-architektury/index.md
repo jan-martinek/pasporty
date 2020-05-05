@@ -39,7 +39,9 @@ design: >-
 conclusion: >-
   
 
-  * Díky přednáškám a předmětům na VUT v Brně se mezi studenty potažmo architekty zvýší orientace v problematice bezbariérovosti
+  * Díky přednáškám a předmětům od odborníků PSpBB na VUT v Brně se mezi studenty potažmo absolventy architekty zvýší orientace v problematice bezbariérovosti.
+
+  * Výsledky a výstup z workshopů a hodin mohou pomoci handicapovaným lidem v běžném životě.
 before:
   source: https://www.trainingjournal.com/
   alt: Příprava projektu před hlubším seznámením s problematikou
@@ -48,4 +50,7 @@ after:
   alt: Příprava projektu po hlubším seznámením s problematikou
 timeline:
   - parts: 1
+    time: "2008"
+    name: Navázání spolupráce s Josefem Konečným – účast na projektu Neviditelné
+      města
 ---
