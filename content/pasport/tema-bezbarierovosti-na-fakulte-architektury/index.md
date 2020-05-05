@@ -6,15 +6,15 @@ subtitle: Jak mohou odborníci z Poradního sboru pro Bezbariérové Brno docíl
 story: >-
   Ivan je projektant – architekt rok po škole. Během studia se soustředil
   především na získání praxe v oboru, což se mu dařilo, na druhou stranu
-  nevěnoval tolik času předmětům na univerzitě. V současné době pracuje v jedné
-  větší brněnské projekční kanceláři, která se mimo jiné zabývá tvorbou
-  veřejného prostoru. Tentokrát jeho tým dostává za úkol navrhnout rekonstrukci
-  tramvajové zastávky – dopravní uzel v Brně. Práce na návrhu probíhá tradičně a
-  podle plánu. Za dva měsíce mají návrh připravený. Následně se chystá jako člen
-  týmu na prezentaci projektu před schvalovací komisí. Cítí se celkem
-  sebevědomě. Nad návrhem se zamýšlel ze spousty pohledů, které ho jenom mohly
-  napadnout. Zároveň se mohl spolehnout na své nabyté vzdělání z univerzity, kde
-  takových projektů řešili opravdu hodně. 
+  nevěnoval tolik času předmětům na univerzitě. V současné době pracuje v
+  brněnské projekční kanceláři, která se mimo jiné zabývá tvorbou veřejného
+  prostoru. Tentokrát jeho tým dostává za úkol navrhnout rekonstrukci tramvajové
+  zastávky – dopravní uzel v Brně. Práce na návrhu probíhá tradičně a podle
+  plánu. Za dva měsíce mají návrh připravený. Následně se chystá jako člen týmu
+  na prezentaci projektu před schvalovací komisí. Cítí se sebevědomě. Nad
+  návrhem se zamýšlel ze spousty pohledů, které ho jenom mohly napadnout.
+  Zároveň se mohl spolehnout na své nabyté vzdělání z univerzity, kde takových
+  projektů řešili opravdu hodně. 
 
 
   Otázky a připomínky přicházejí od odborníků na dopravu, zeleň, energetické sítě, přičemž na všechny dokáže odpovědět a reagovat, tak aby uspokojil požadavky jednotlivých expertů. Náhle ale přichází dotaz na bezbariérový přístup pro uživatele vozíku a nevidomé osoby. Ivan najednou ztrácí půdu pod nohama a neví, co má říct. Na bezbariérovost se zaměřil pouze snížením obrubníku, což podle přítomných expertů na bezbariérovost není dostatečné. O příslušné vyhlášce slyšel už někdy, ale nedokáže její znalost dobře aplikovat do praxe. Chybí vodící linie, sklon na přechodu je příliš strmý a itinerář je umístěn chaoticky. Celý projekt se musí předělat. Kdyby se tak o tuto problematiku více zajímal již na univerzitě...
@@ -29,14 +29,17 @@ analysis: >-
 
   * V praxi nejsou často architekti schopni reflektovat potřeby znevýhodněných skupin, jakou jsou například uživatelé vozíku nebo osoby s postižením zraku.
 design: >-
-  •	Pravidelná výuka s účastí odborníků z PSpBB na přednáškách. 
+  
 
+  * Navázat koordinovanou spolupráci mezi PSpBB a VUT.
 
-  •	Neomezit se pouze na strohý výklad vyhlášek a zákonů v rámci předmětů, ale přejít k zážitkové výuce.
+  * Pravidelná výuka s účastí odborníků z PSpBB na přednáškách.
 
-  •	Koordinace mezi členy PSpBB v případech, aby se zamezilo možným překryvům v náplni přednášky.
+  * Neomezit se pouze na strohý výklad vyhlášek a zákonů v rámci předmětů, ale přejít k zážitkové výuce. 
 
-  •	Vytvořit rámci PSpBB studijní materiály, které by mohly být nabízeny i jiným univerzitám
+  * Koordinace mezi členy PSpBB v případech, aby se zamezilo možným překryvům v náplni přednášky.
+
+  * Vytvořit rámci PSpBB studijní materiály, které by mohly být nabízeny i jiným univerzitám.
 solution: Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se datuje
   od roku 2008. Tehdy je Josef Konečný, člen PSpBB, požádán Janem Foretníkem o
   spolupráci na projektu studentů 4. ročníku architektury Neviděné město, který
@@ -53,7 +56,7 @@ solution: Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se da
   architektury a prostoru, kde se věnuje analýze prostoru skrze možnosti našeho
   těla.
 constraints: >-
-  
+  * •	Navázat koordinovanou spolupráci mezi PSpBB a VUT.
 
   * Většina přednášek je zajištěna pouze na ústní dohodě mezi vyučujícím a přednášejícím. Bylo by lepší mít jasně stanovený program.
 
