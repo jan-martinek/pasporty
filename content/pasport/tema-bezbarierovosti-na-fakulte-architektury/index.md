@@ -54,12 +54,18 @@ conclusion: >-
 before:
   source: https://www.trainingjournal.com/
   alt: Příprava projektu před hlubším seznámením s problematikou
+  name: po.png
 after:
   source: https://www.shutterstock.com/
   alt: Příprava projektu po hlubším seznámením s problematikou
+  name: pred.png
 timeline:
-  - parts: 1
+  - parts: 3
     time: "2008"
     name: Navázání spolupráce s Josefem Konečným – účast na projektu Neviditelné
       města
+  - parts: 2
+    time: "2011"
+  - parts: 1
+    time: "2013"
 ---
