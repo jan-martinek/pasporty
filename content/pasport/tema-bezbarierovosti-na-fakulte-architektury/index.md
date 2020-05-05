@@ -13,8 +13,8 @@ story: >-
   plánu. Za dva měsíce mají návrh připravený. Následně se chystá jako člen týmu
   na prezentaci projektu před schvalovací komisí. Cítí se sebevědomě. Nad
   návrhem se zamýšlel ze spousty pohledů, které ho jenom mohly napadnout.
-  Zároveň se mohl spolehnout na své nabyté vzdělání z univerzity, kde takových
-  projektů řešili opravdu hodně. 
+  Zároveň se mohl spolehnout na své nabyté vzdělání z univerzity, kde takové
+  projekty řešili. 
 
 
   Otázky a připomínky přicházejí od odborníků na dopravu, zeleň, energetické sítě, přičemž na všechny dokáže odpovědět a reagovat, tak aby uspokojil požadavky jednotlivých expertů. Náhle ale přichází dotaz na bezbariérový přístup pro uživatele vozíku a nevidomé osoby. Ivan najednou ztrácí půdu pod nohama a neví, co má říct. Na bezbariérovost se zaměřil pouze snížením obrubníku, což podle přítomných expertů na bezbariérovost není dostatečné. O příslušné vyhlášce slyšel už někdy, ale nedokáže její znalost dobře aplikovat do praxe. Chybí vodící linie, sklon na přechodu je příliš strmý a itinerář je umístěn chaoticky. Celý projekt se musí předělat. Kdyby se tak o tuto problematiku více zajímal již na univerzitě...
@@ -31,8 +31,6 @@ analysis: >-
 design: >-
   
 
-  * Navázat koordinovanou spolupráci mezi PSpBB a VUT.
-
   * Pravidelná výuka s účastí odborníků z PSpBB na přednáškách.
 
   * Neomezit se pouze na strohý výklad vyhlášek a zákonů v rámci předmětů, ale přejít k zážitkové výuce. 
@@ -46,21 +44,21 @@ solution: Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se da
   studenti řešili v rámci volitelného předmětu. Cílem těchto přednášek je
   polidštění strohého znění paragrafů různých vyhlášek a norem. Od té doby je
   pan Konečný stálým účastníkem tohoto volitelného předmětu. Na tuto spolupráci
-  navázala pravidelná účast na přednáškách předmětu Typologie (povinný předmět)
-  v roce 2011, kde se řeší především legislativní záležitosti spojené s tělesně
-  znevýhodněnými osobami. Postupně se do spolupráce na obou těchto předmětech
-  zapojuje i Karel Sobol, člen PSpBB, který přibližuje pohyb uživatele vozíčku
-  po Brně. Většina přednášek je zaměřena na zprostředkovanou zkušenost studentů
-  s daným handicapem. Zatím poslední pravidelnou aktivitou je přednáška Roberta
-  Osmana. člen PSpBB, v rámci předmětu Sociální vědy a vybrané problémy
-  architektury a prostoru, kde se věnuje analýze prostoru skrze možnosti našeho
-  těla.
+  navázala pravidelná účast na přednáškách předmětu Typologie II (povinný
+  předmět) v roce 2011, kde se řeší především legislativní záležitosti spojené s
+  tělesně znevýhodněnými osobami. Postupně se do spolupráce na obou těchto
+  předmětech zapojuje i Karel Sobol, člen PSpBB, který přibližuje pohyb
+  uživatele vozíčku po Brně. Většina přednášek je zaměřena na zprostředkovanou
+  zkušenost studentů s daným handicapem. Zatím poslední pravidelnou aktivitou je
+  přednáška Roberta Osmana. člen PSpBB, v rámci předmětu Sociální vědy a vybrané
+  problémy architektury a prostoru, kde se věnuje analýze prostoru skrze
+  možnosti našeho těla.
 constraints: >-
-  * •	Navázat koordinovanou spolupráci mezi PSpBB a VUT.
+  
 
   * Většina přednášek je zajištěna pouze na ústní dohodě mezi vyučujícím a přednášejícím. Bylo by lepší mít jasně stanovený program.
 
-  * V praxi jsou architekti často pod velkým vlivem zadavatele, který nemusí bezbariérovosti věnovat takovou pozornost.
+  * V praxi jsou architekti často pod velkým vlivem zadavatele, který nemusí bezbariérovosti věnovat takovou pozornost a četnost a kvalita výuky je řešením problému pouze z jedné strany.
 conclusion: >-
   
 
@@ -86,10 +84,11 @@ timeline:
       města
   - parts: 2
     time: "2011"
-    name: První přednáška Josefa Konečného v rámci výuky povinného předmětu Typologie
+    name: První přednáška Josefa Konečného v rámci výuky povinného předmětu
+      Typologie II
   - parts: 7
     time: "2013"
-    name: "Zapojení Karla Sobola do výuky předmětu Typologie  "
+    name: Zapojení Karla Sobola do výuky předmětu Typologie II
   - parts: 1
     time: "2020"
     name: "Účast Roberta Osmana ve výuce nového předmětu Sociální vědy a vybrané
