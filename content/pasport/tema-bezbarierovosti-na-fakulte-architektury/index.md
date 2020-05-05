@@ -8,13 +8,13 @@ story: >-
   především na získání praxe v oboru, což se mu dařilo, na druhou stranu
   nevěnoval tolik času předmětům na univerzitě. V současné době pracuje v jedné
   větší brněnské projekční kanceláři, která se mimo jiné zabývá tvorbou
-  veřejného prostoru a pravidelně řeší různé zakázky z Brna. Tentokrát jeho tým
-  dostává za úkol navrhnout rekonstrukci tramvajové zastávky – dopravní uzel v
-  Brně. Práce na návrhu probíhá tradičně a podle plánu. Za dva měsíce mají návrh
-  připravený. Následně se chystá jako člen týmu na prezentaci projektu před
-  schvalovací komisí. Cítí se celkem sebevědomě. Nad návrhem se zamýšlel ze
-  spousty pohledů, které je jenom mohli napadnout. Zároveň se mohl spolehnout na
-  své nabyté vzdělání z univerzity, kde takových projektů řešili opravdu hodně. 
+  veřejného prostoru. Tentokrát jeho tým dostává za úkol navrhnout rekonstrukci
+  tramvajové zastávky – dopravní uzel v Brně. Práce na návrhu probíhá tradičně a
+  podle plánu. Za dva měsíce mají návrh připravený. Následně se chystá jako člen
+  týmu na prezentaci projektu před schvalovací komisí. Cítí se celkem
+  sebevědomě. Nad návrhem se zamýšlel ze spousty pohledů, které ho jenom mohly
+  napadnout. Zároveň se mohl spolehnout na své nabyté vzdělání z univerzity, kde
+  takových projektů řešili opravdu hodně. 
 
 
   Otázky a připomínky přicházejí od odborníků na dopravu, zeleň, energetické sítě, přičemž na všechny dokáže odpovědět a reagovat, tak aby uspokojil požadavky jednotlivých expertů. Náhle ale přichází dotaz na bezbariérový přístup pro uživatele vozíku a nevidomé osoby. Ivan najednou ztrácí půdu pod nohama a neví, co má říct. Na bezbariérovost se zaměřil pouze snížením obrubníku, což podle přítomných expertů na bezbariérovost není dostatečné. O příslušné vyhlášce slyšel už někdy, ale nedokáže její znalost dobře aplikovat do praxe. Chybí vodící linie, sklon na přechodu je příliš strmý a itinerář je umístěn chaoticky. Celý projekt se musí předělat. Kdyby se tak o tuto problematiku více zajímal již na univerzitě...
@@ -29,26 +29,29 @@ analysis: >-
 
   * V praxi nejsou často architekti schopni reflektovat potřeby znevýhodněných skupin, jakou jsou například uživatelé vozíku nebo osoby s postižením zraku.
 design: >-
-  
-
-  * Pravidelná výuka s účastí odborníků z PSpBB na přednáškách.
-
-  * Neomezit se pouze na strohý výklad vyhlášek a zákonů v rámci předmětů, ale přejít k zážitkové výuce.
-
-  * Koordinace a vyšší komunikace mezi členy PSpBB v případech, aby se zamezilo možným a zbytečným překryvům v náplni přednášky.
-
-  * Navázat koordinovanou spolupráci mezi PSpBB a VUT.
-solution: >-
-  Bezbariérovosti je na VUT věnována určitá pozornost již od 90. let, kdy se za
-  toto téma zasazoval Jiří Šindler. S touto snahou potom vznikl i první předmět,
-  který se bezbariérovosti věnoval, resp. problematika bezbariérovosti byla
-  implementována do jednoho z předmětů. Na tento předmět potom navázal vznik
-  dalších předmětů, které měly prohloubit znalosti v oblasti bezbariérovosti a
-  také získat potřebnou praxi a zpětnou vazbu od expertů, kteří se této
-  problematice věnují.  
+  •	Pravidelná výuka s účastí odborníků z PSpBB na přednáškách. 
 
 
-  Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se datuje od roku 2008. Tehdy je Josef Konečný, člen PSpBB, požádán Janem Foretníkem o spolupráci na projektu studentů 4. ročníku architektury Neviděné město, který studenti řešili v rámci volitelného předmětu. Cílem těchto přednášek je polidštění strohého znění paragrafů různých vyhlášek a norem. Od té doby je pan Konečný stálým účastníkem tohoto volitelného předmětu. Na tuto spolupráci navázala pravidelná účast na přednáškách předmětu Typologie (povinný předmět) v roce 2011, kde se řeší především legislativní záležitosti spojené s tělesně znevýhodněnými osobami. Postupně se do spolupráce na obou těchto předmětech zapojuje i Karel Sobol, člen PSpBB, který přibližuje pohyb uživatele vozíčku po Brně. Většina přednášek je zaměřena na zprostředkovanou zkušenost studentů s daným handicapem. Zatím poslední pravidelnou aktivitou je přednáška Roberta Osmana. člen PSpBB, v rámci předmětu Sociální vědy a vybrané problémy architektury a prostoru, kde se věnuje analýze prostoru skrze možnosti našeho těla.
+  •	Neomezit se pouze na strohý výklad vyhlášek a zákonů v rámci předmětů, ale přejít k zážitkové výuce.
+
+  •	Koordinace mezi členy PSpBB v případech, aby se zamezilo možným překryvům v náplni přednášky.
+
+  •	Vytvořit rámci PSpBB studijní materiály, které by mohly být nabízeny i jiným univerzitám
+solution: Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se datuje
+  od roku 2008. Tehdy je Josef Konečný, člen PSpBB, požádán Janem Foretníkem o
+  spolupráci na projektu studentů 4. ročníku architektury Neviděné město, který
+  studenti řešili v rámci volitelného předmětu. Cílem těchto přednášek je
+  polidštění strohého znění paragrafů různých vyhlášek a norem. Od té doby je
+  pan Konečný stálým účastníkem tohoto volitelného předmětu. Na tuto spolupráci
+  navázala pravidelná účast na přednáškách předmětu Typologie (povinný předmět)
+  v roce 2011, kde se řeší především legislativní záležitosti spojené s tělesně
+  znevýhodněnými osobami. Postupně se do spolupráce na obou těchto předmětech
+  zapojuje i Karel Sobol, člen PSpBB, který přibližuje pohyb uživatele vozíčku
+  po Brně. Většina přednášek je zaměřena na zprostředkovanou zkušenost studentů
+  s daným handicapem. Zatím poslední pravidelnou aktivitou je přednáška Roberta
+  Osmana. člen PSpBB, v rámci předmětu Sociální vědy a vybrané problémy
+  architektury a prostoru, kde se věnuje analýze prostoru skrze možnosti našeho
+  těla.
 constraints: >-
   
 
