@@ -18,28 +18,37 @@ story: >-
 
   Otázky a připomínky přicházejí od odborníků na dopravu, zeleň, energetické sítě a na všechny dokáže odpovědět a reagovat, tak aby uspokojil požadavky jednotlivých expertů. Náhle ale přichází dotaz na bezbariérový přístup pro uživatele vozíku a nevidomé osoby. Ivan najednou ztrácí půdu pod nohama a neví co má říct na bezbariérovost se zaměřil pouze snížením obrubníku a podle přítomných expertů na bezbariérovost to není dostatečné. Chybí vodící linie, sklon na přechodu je příliš strmý a itinerář je umístěn chaoticky. Celý projekt se musí předělat. Kdyby tam byl v této problematice informovanější.
 analysis: >-
-  * Na Vysokém Učení Technickém se žádný předmět o bezbariérovosti nevyučuje
-  pravidelně.
+  
+
+  * Studenti VUT znají vyhlášky a zákony týkající se bezbariérovosti, nicméně nemají kontakt s experty z praxe, kteří se o tyto zákony zasazují.
 
   * Studenti mohou získat povědomí o bezbariérovosti pouze pomocí expertů na různých přednáškách. 
 
-  * Studenti se mohou zúčastnit přednášek mimo VUT nebo si zapsat předměty z jiných univerzit.
+  * Studenti se mohou zúčastnit přednášek mimo VUT nebo si zapsat předměty z jiných univerzit, což je administrativní zátěž.
 
   * V praxi nejsou často architekti schopni reflektovat potřeby znevýhodněných skupin jakou jsou například uživatelé vozíku nebo osoby s postižením zraku.
 design: >-
   
 
-  * Pravidelná výuka o řešení bezbariérovosti architektury
+  * Pravidelná výuka účast odborníků z PSpBB na přednáškách.
 
-  * Koordinace a vyšší komunikace mezi členy PSpBB v případech, aby se zamezilo možným a zbytečným překryvům v náplni přednášky 
+  * Neomezit se pouze na strohý výklad vyhlášek a zákonů v rámci předmětů, ale přejít k zážitkové výuce.
 
-  * Povinný předmět pro všechny studenty
+  * Koordinace a vyšší komunikace mezi členy PSpBB v případech, aby se zamezilo možným a zbytečným překryvům v náplni přednášky.
 
-  * Navázat koordinovanou spolupráci mezi PSpBB a VUT
+  * Navázat koordinovanou spolupráci mezi PSpBB a VUT.
+constraints: >-
+  
+
+  * Většina přednášek je zajištěna pouze na ústní dohodě mezi vyučujícím a přednášejícím. Bylo by lepší mít jasně stanovený program.
+
+  * V praxi jsou architekti často pod velkým vlivem zadavatele, který nemusí bezbariérovosti věnovat takovou pozornost.
 conclusion: >-
   
 
   * Díky přednáškám a předmětům od odborníků PSpBB na VUT v Brně se mezi studenty potažmo absolventy architekty zvýší orientace v problematice bezbariérovosti.
+
+  * Výuka je vedena zážitkovou formou, čímž lze lépe přiblížit potíže handicapovaných lidí při pohybu ve veřejném prostoru. 
 
   * Výsledky a výstup z workshopů a hodin mohou pomoci handicapovaným lidem v běžném životě.
 before:
