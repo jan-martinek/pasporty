@@ -81,10 +81,10 @@ timeline:
   - parts: 2
     time: "2011"
     name: První přednáška Josefa Konečného v rámci výuky povinného předmětu Typologie
-  - parts: 1
+  - parts: 7
     time: "2013"
     name: "Zapojení Karla Sobola do výuky předmětu Typologie  "
-  - parts: 7
+  - parts: 1
     time: "2020"
     name: "Účast Roberta Osmana ve výuce nového předmětu Sociální vědy a vybrané
       problémy architektury a prostoru   "
