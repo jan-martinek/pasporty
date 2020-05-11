@@ -32,29 +32,26 @@ design: >-
 solution: "Na podzim roku 2017 se na podnět nadace Emil představitelé
   statutárního města Brna Jaroslav Suchý a PSpBB Eva Rossi jeli podívat do
   Hluboké nad Vltavou, kde se nachází jedno z mála bezbariérových workoutových
-  hřišť v České republice. Zde zjišťují všechny nezbytné informace (financování,
-  realizace, materiály…), které mohou pomoci, při realizaci workoutového hřiště
-  v Brně. V zimě 2017 PSpBB rozeslalo dotazníky do organizace Liga vozíčkářů s
-  otázkou: „Kde by se měla vybudovat bezbariérové venkovní posilovny?“. Z této
-  ankety vzešlo několik míst, nicméně žádné z nich nebylo možné realizovat v
-  nejbližší době.  Následně se ozval sportovní areál Hroch, který si na podzim
-  2018 podal žádost na dotační projekt na bezbariérové sportovní hřiště v rámci
-  dotačního programu Odboru školství na MMB. Workoutové hřiště bude inspirováno
-  realizací z Hluboké nad Vltavou, a navíc bude budováno ve spolupráci s PSpBB.
-  Stavba byla realizována v roce 2019, kdy 3.4.2019 došlo k slavnostnímu
-  otevření hřiště. Realizace projektu vyšla na 998 250 Kč, z toho statutární
-  město Brno přispělo na vybudování hřiště 990 000,- Kč. V druhé fázi realizace
-  byly ještě dodělány přístupové cesty ke hřišti. PSpBB provedl audit a
-  zmapování přístupnosti MHD v rámci projektu. ((Dost se ti tam motají časy,
-  někdy píšeš bude, někdy bylo, bylo by to dobré všechno sjednotit do minulosti,
-  je to případ, který už se stal.))"
+  hřišť v České republice. Zde zjistili všechny nezbytné informace (financování,
+  realizace, materiály…), které by mohli pomoci, při realizaci workoutového
+  hřiště v Brně. V zimě 2017 PSpBB rozeslal dotazníky do organizace Liga
+  vozíčkářů s otázkou: „Kde by se měla vybudovat bezbariérové venkovní
+  posilovny?“. Z této ankety vzešlo několik míst, nicméně žádné z nich nebylo
+  možné realizovat v nejbližší době.  Následně se ozval sportovní areál Hroch,
+  který si na podzim 2018 poslal žádost na dotační projekt na bezbariérové
+  sportovní hřiště v rámci dotačního programu Odboru školství na MMB. Workoutové
+  hřiště bylo inspirováno realizací z Hluboké nad Vltavou, a navíc bylo budováno
+  ve spolupráci s PSpBB. Stavba byla následně realizována v roce 2019, kdy
+  3.4.2019 došlo k slavnostnímu otevření hřiště. Realizace projektu vyšel na 998
+  250 Kč, z toho statutární město Brno přispělo na vybudování hřiště 990 000,-
+  Kč. V druhé fázi realizace byly ještě dodělány přístupové cesty ke hřišti.
+  PSpBB provedl audit a zmapování přístupnosti MHD v rámci projektu."
 constraints: >-
-  * Jednotlivé územní celky ((pišt o jednodužším jazykem, klidně obce nebo
-  města, nemá to být odborný text)) se vnímají jako konkurenční subjekty.
+  * Jednotlivé obce nebo města se vnímají jako konkurenční subjekty.
 
   * Veřejná správa se příliš nevěnuje otázkám přístupnosti specifických veřejných prostorů, například sportovních areálů.
 
-  * Nelze zcela přenést řešení z jednoho případu ((případu nebo místa? Mně by přišlo logičtější místa)) na druhý, každá realizace má svá specifika.
+  * Nelze zcela přenést řešení z jednoho místa na druhý, každá realizace má svá specifika.
 
   * Je důležité, aby bezbariérová workoutová hřiště byla řešena společně s bezbariérovým přístupem (bezbariérová parkovací místa, zastávka MHD, přístupové cesty). ((tohle není omezení, to je spíš do závěru))
 conclusion: >-
@@ -76,16 +73,13 @@ after:
 timeline:
   - parts: 1
     time: Podzim 2017
-    name: Oslovení města Brna s návrhem a následná návštěva Hluboké nad Vltavou
-      ((kratší popisky, tohle se tam nevejde))
+    name: Návštěva Hluboké nad Vltavou
   - parts: 1
     time: Zima 2017
-    name: Rozeslání dotazníků ohledně umístění workoutového hřiště a jeho následné
-      vyhodnocení ((kratší popisky, tohle se tam nevejde))
+    name: Rozeslání dotazníků
   - parts: 2
     time: Jaro 2018
-    name: Žádost o dotaci na realizaci bezbariérového hřiště ((kratší popisky, tohle
-      se tam nevejde))
+    name: Žádost o dotaci
   - parts: 2
     time: Podzim 2018
     name: Podání investičního záměru
