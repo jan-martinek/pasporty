@@ -52,8 +52,6 @@ constraints: >-
   * Veřejná správa se příliš nevěnuje otázkám přístupnosti specifických veřejných prostorů, například sportovních areálů.
 
   * Nelze zcela přenést řešení z jednoho místa na druhý, každá realizace má svá specifika.
-
-  * Je důležité, aby bezbariérová workoutová hřiště byla řešena společně s bezbariérovým přístupem (bezbariérová parkovací místa, zastávka MHD, přístupové cesty). ((tohle není omezení, to je spíš do závěru))
 conclusion: >-
   * Statutární město Brno vytvořilo workoutové hřiště, které mohou využívat i
   uživatelů vozíku.
@@ -61,6 +59,8 @@ conclusion: >-
   * Hřiště je sice speciálně upraveno pro lidi s tělesným postižením, ale nic nebrání tomu, aby bylo využíváno širokou veřejností.
 
   * Inspirace realizací v Hluboké nad Vltavou pomohla MMB a PSpBB při realizaci workoutových hřišť pro získání informací o realizaci projektu, jeho financování a volbu vhodných materiálů. ((Tohle bych víc rozpracoval, byl bych v tomto bodě podrobnější, vlastně zde neodpovídáš na otázku "jak se lze inspirovat", ale "že se lze inspirovat" a to je poměrně málo))
+
+  * Je důležité, aby bezbariérová workoutová hřiště byla řešena společně s bezbariérovým přístupem (bezbariérová parkovací místa, zastávka MHD, přístupové cesty).
 before:
   source: Daniel Kaplan
   alt: Příklad workoutového hřiště nevhodného pro uživatele vozíku
