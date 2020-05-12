@@ -4,9 +4,7 @@ title2: Účast členů poradního sboru na výuce architektů.
 subtitle: Jak mohou odborníci z Poradního sboru pro Bezbariérové Brno docílit
   vyššího povědomí o bezbariérovosti prostoru mezi studenty architektury v Brně?
 story: >-
-  Ivan je architekt rok po škole. Během studia se soustředil především na
-  získání praxe v oboru, což se mu dařilo, na druhou stranu nevěnoval tolik času
-  předmětům na univerzitě. V současné době pracuje v brněnské projekční
+  Ivan je architekt rok po škole. V současné době pracuje v brněnské projekční
   kanceláři, která se mimo jiné zabývá tvorbou veřejného prostoru. V tuto chvíli
   jeho tým zpracovává návrh rekonstrukce tramvajové zastávky v Brně. Práce na
   návrhu probíhá tradičně a podle plánu. Za dva měsíce mají návrh připravený.
