@@ -4,17 +4,16 @@ title2: Účast členů poradního sboru na výuce architektů.
 subtitle: Jak mohou odborníci z Poradního sboru pro Bezbariérové Brno docílit
   vyššího povědomí o bezbariérovosti prostoru mezi studenty architektury v Brně?
 story: >-
-  Ivan je projektant – architekt rok po škole. Během studia se soustředil
-  především na získání praxe v oboru, což se mu dařilo, na druhou stranu
-  nevěnoval tolik času předmětům na univerzitě. V současné době pracuje v
-  brněnské projekční kanceláři, která se mimo jiné zabývá tvorbou veřejného
-  prostoru. Tentokrát jeho tým dostává za úkol navrhnout rekonstrukci tramvajové
-  zastávky – dopravní uzel v Brně. Práce na návrhu probíhá tradičně a podle
-  plánu. Za dva měsíce mají návrh připravený. Následně se chystá jako člen týmu
-  na prezentaci projektu před schvalovací komisí. Cítí se sebevědomě. Nad
-  návrhem se zamýšlel ze spousty pohledů, které ho jenom mohly napadnout.
-  Zároveň se mohl spolehnout na své nabyté vzdělání z univerzity, kde takové
-  projekty řešili. 
+  Ivan je architekt rok po škole. Během studia se soustředil především na
+  získání praxe v oboru, což se mu dařilo, na druhou stranu nevěnoval tolik času
+  předmětům na univerzitě. V současné době pracuje v brněnské projekční
+  kanceláři, která se mimo jiné zabývá tvorbou veřejného prostoru. V tuto chvíli
+  jeho tým zpracovává návrh rekonstrukce tramvajové zastávky v Brně. Práce na
+  návrhu probíhá tradičně a podle plánu. Za dva měsíce mají návrh připravený.
+  Následně se chystá jako člen týmu na prezentaci projektu před schvalovací
+  komisí. Cítí se sebevědomě. Nad návrhem se zamýšlel ze spousty pohledů, které
+  ho jenom mohly napadnout. Zároveň se mohl spolehnout na své nabyté vzdělání z
+  univerzity, kde takové projekty řešili. 
 
 
   Otázky a připomínky přicházejí od odborníků na dopravu, zeleň, energetické sítě, přičemž na všechny dokáže odpovědět a reagovat, tak aby uspokojil požadavky jednotlivých expertů. Náhle ale přichází dotaz na bezbariérový přístup pro uživatele vozíku a nevidomé osoby. Ivan najednou ztrácí půdu pod nohama a neví, co má říct. Na bezbariérovost se zaměřil pouze snížením obrubníku, což podle přítomných expertů na bezbariérovost není dostatečné. O příslušné vyhlášce slyšel už někdy, ale nedokáže její znalost dobře aplikovat do praxe. Chybí vodící linie, sklon na přechodu je příliš strmý a itinerář je umístěn chaoticky. Celý projekt se musí předělat. Kdyby se tak o tuto problematiku více zajímal již na univerzitě...
