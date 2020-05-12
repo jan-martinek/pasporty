@@ -51,11 +51,12 @@ solution: Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se da
   problémy architektury a prostoru, kde se věnuje analýze prostoru skrze
   možnosti našeho těla.
 constraints: >-
-  
-
-  * Většina přednášek je zajištěna pouze na ústní dohodě mezi vyučujícím a přednášejícím. Bylo by lepší mít jasně stanovený program.
+  * Většina přednášek je zajištěna pouze na ústní dohodě mezi vyučujícím a
+  přednášejícím. Bylo by lepší mít jasně stanovený program. 
 
   * V praxi jsou architekti často pod velkým vlivem zadavatele, který nemusí bezbariérovosti věnovat takovou pozornost a četnost a kvalita výuky je řešením problému pouze z jedné strany.
+
+  * Členové PSpBB jsou časově vytíženi a nový předmět pro studenty by pro ně znamenal další časovou zátěž.
 conclusion: >-
   
 
