@@ -67,13 +67,13 @@ conclusion: >-
 
   * Vzhledem k povinnosti předmět Typologie II absolvovat se s bezbariérovostí seznámí všichni studenti oboru (cca 70 studentů).
 before:
-  source: https://www.trainingjournal.com/
-  alt: Příprava projektu před hlubším seznámením s problematikou
-  name: po.png
-after:
-  source: https://www.shutterstock.com/
-  alt: Příprava projektu po hlubším seznámením s problematikou
+  source: Milena Antonovičová
+  alt: ""
   name: pred.png
+after:
+  source: Josef Konečný
+  alt: ""
+  name: po.jpg
 timeline:
   - parts: 3
     time: "2008"
