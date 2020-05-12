@@ -80,19 +80,16 @@ after:
 timeline:
   - parts: 3
     time: "2008"
-    name: Navázání spolupráce s Josefem Konečným – účast na projektu Neviditelné
-      města
+    name: Účast Josefa Konečného na projektu Neviditelné města
   - parts: 2
     time: "2011"
-    name: První přednáška Josefa Konečného v rámci výuky povinného předmětu
-      Typologie II
+    name: První přednáška Josefa Konečného v rámci předmětu Typologie II
   - parts: 7
     time: "2013"
     name: Zapojení Karla Sobola do výuky předmětu Typologie II
   - parts: 1
     time: "2020"
-    name: "Účast Roberta Osmana ve výuce nového předmětu Sociální vědy a vybrané
-      problémy architektury a prostoru   "
+    name: Účast Roberta Osmana ve výuce nového předmětu
 dictionary:
   - vyhláška č. 398/2009 Sb.
 ---
