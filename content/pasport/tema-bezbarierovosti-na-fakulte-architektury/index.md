@@ -36,7 +36,7 @@ design: >-
 
   * Vytvořit rámci PSpBB studijní materiály, které by mohly být nabízeny i jiným univerzitám.
 solution: Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se datuje
-  od roku 2008. Tehdy je Josef Konečný, člen PSpBB, požádán Janem Foretníkem o
+  od roku 2008. Tehdy je Josef Konečný, člen PSpBB, požádán zástupcem VUT o
   spolupráci na projektu studentů 4. ročníku architektury Neviděné město, který
   studenti řešili v rámci volitelného předmětu. Cílem těchto přednášek je
   polidštění strohého znění paragrafů různých vyhlášek a norem. Od té doby je
