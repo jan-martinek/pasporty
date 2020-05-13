@@ -36,20 +36,20 @@ design: >-
 
   * Vytvořit rámci PSpBB studijní materiály, které by mohly být nabízeny i jiným univerzitám.
 solution: Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se datuje
-  od roku 2008. Tehdy je Josef Konečný, člen PSpBB, požádán zástupcem VUT o
-  spolupráci na projektu studentů 4. ročníku architektury Neviděné město, který
-  studenti řešili v rámci volitelného předmětu. Cílem těchto přednášek je
-  polidštění strohého znění paragrafů různých vyhlášek a norem. Od té doby je
-  pan Konečný stálým účastníkem tohoto volitelného předmětu. Na tuto spolupráci
-  navázala pravidelná účast na přednáškách předmětu Typologie II (povinný
-  předmět) v roce 2011, kde se řeší především legislativní záležitosti spojené s
-  tělesně znevýhodněnými osobami. Postupně se do spolupráce na obou těchto
-  předmětech zapojuje i Karel Sobol, člen PSpBB, který přibližuje pohyb
-  uživatele vozíčku po Brně. Většina přednášek je zaměřena na zprostředkovanou
-  zkušenost studentů s daným handicapem. Zatím poslední pravidelnou aktivitou je
-  přednáška Roberta Osmana. člen PSpBB, v rámci předmětu Sociální vědy a vybrané
-  problémy architektury a prostoru, kde se věnuje analýze prostoru skrze
-  možnosti našeho těla.
+  od roku 2008. Tehdy je první člen PSpBB, odborník na veřejný prostor pro
+  nevidomé, požádán zástupcem VUT o spolupráci na projektu studentů 4. ročníku
+  architektury Neviděné město, který studenti řešili v rámci volitelného
+  předmětu. Cílem těchto přednášek je polidštění strohého znění paragrafů
+  různých vyhlášek a norem. Od té doby je pan Konečný stálým účastníkem tohoto
+  volitelného předmětu. Na tuto spolupráci navázala pravidelná účast na
+  přednáškách předmětu Typologie II (povinný předmět) v roce 2011, kde se řeší
+  především legislativní záležitosti spojené s tělesně znevýhodněnými osobami.
+  Postupně se do spolupráce na obou těchto předmětech zapojuje i další člen
+  PSpBB, který přibližuje pohyb uživatele vozíku po Brně. Většina přednášek je
+  zaměřena na zprostředkovanou zkušenost studentů s daným handicapem. Zatím
+  poslední pravidelnou aktivitou je přednáška člena PSpBB, odborníka na
+  bezbariérovost, v rámci předmětu Sociální vědy a vybrané problémy architektury
+  a prostoru, kde se věnuje analýze prostoru skrze možnosti našeho těla.
 constraints: >-
   * Většina přednášek je zajištěna pouze na ústní dohodě mezi vyučujícím a
   přednášejícím. Bylo by lepší mít jasně stanovený program. 
@@ -78,16 +78,19 @@ after:
 timeline:
   - parts: 3
     time: "2008"
-    name: Účast Josefa Konečného na projektu Neviditelné města
+    name: Účast odborníka PSpBB na veřejný prostor pro nevidomé na projektu
+      Neviditelné města
   - parts: 2
     time: "2011"
-    name: První přednáška Josefa Konečného v rámci předmětu Typologie II
-  - parts: 7
+    name: První odborníka PSpBB na veřejný prostor pro nevidomé v rámci předmětu
+      Typologie II
+  - parts: 4
     time: "2013"
-    name: Zapojení Karla Sobola do výuky předmětu Typologie II
+    name: Zapojení odborníka PSpBB na veřejný prostor pro uživatele vozíku do výuky
+      předmětu Typologie II
   - parts: 1
     time: "2020"
-    name: Účast Roberta Osmana ve výuce nového předmětu
+    name: Účast odborníka PSpBB na bezbariérovost ve výuce nového předmětu
 dictionary:
   - vyhláška č. 398/2009 Sb.
 ---
