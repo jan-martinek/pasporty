@@ -40,16 +40,20 @@ solution: Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se da
   nevidomé, požádán zástupcem VUT o spolupráci na projektu studentů 4. ročníku
   architektury Neviděné město, který studenti řešili v rámci volitelného
   předmětu. Cílem těchto přednášek je polidštění strohého znění paragrafů
-  různých vyhlášek a norem. Od té doby je pan Konečný stálým účastníkem tohoto
-  volitelného předmětu. Na tuto spolupráci navázala pravidelná účast na
+  různých vyhlášek a norem. Od té doby je tento člen PSpBB stálým účastníkem
+  tohoto volitelného předmětu. Na tuto spolupráci navázala pravidelná účast na
   přednáškách předmětu Typologie II (povinný předmět) v roce 2011, kde se řeší
   především legislativní záležitosti spojené s tělesně znevýhodněnými osobami.
   Postupně se do spolupráce na obou těchto předmětech zapojuje i další člen
   PSpBB, který přibližuje pohyb uživatele vozíku po Brně. Většina přednášek je
-  zaměřena na zprostředkovanou zkušenost studentů s daným handicapem. Zatím
-  poslední pravidelnou aktivitou je přednáška člena PSpBB, odborníka na
-  bezbariérovost, v rámci předmětu Sociální vědy a vybrané problémy architektury
-  a prostoru, kde se věnuje analýze prostoru skrze možnosti našeho těla.
+  zaměřena na zprostředkovanou zkušenost studentů s daným handicapem. Další
+  jednorázová akce proběhla v roce 2018, kdy na akci s názvem Dvojí metr –
+  stejní lidé, stejné potřeby, různá řešení členka PSpBB představila odlišnosti
+  přístupnosti prostředí ve Švédsku a České republice. Přednášky se zúčastnila
+  také expertka ze Švédska. Zatím poslední pravidelnou aktivitou je přednáška
+  člena PSpBB, odborníka na bezbariérovost, v rámci předmětu Sociální vědy a
+  vybrané problémy architektury a prostoru, kde se věnuje analýze prostoru skrze
+  možnosti našeho těla.
 constraints: >-
   * Většina přednášek je zajištěna pouze na ústní dohodě mezi vyučujícím a
   přednášejícím. Bylo by lepší mít jasně stanovený program. 
