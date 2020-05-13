@@ -88,10 +88,13 @@ timeline:
     time: "2011"
     name: První odborníka PSpBB na veřejný prostor pro nevidomé v rámci předmětu
       Typologie II
-  - parts: 4
+  - parts: 6
     time: "2013"
     name: Zapojení odborníka PSpBB na veřejný prostor pro uživatele vozíku do výuky
       předmětu Typologie II
+  - parts: 2
+    time: "2018"
+    name: Dvojí metr – stejní lidé, stejné potřeby, různá řešení
   - parts: 1
     time: "2020"
     name: Účast odborníka PSpBB na bezbariérovost ve výuce nového předmětu
