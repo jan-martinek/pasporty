@@ -31,8 +31,6 @@ analysis: >-
 design: >-
   * Změnit značku podle skutečné dostupnosti konkrétní zastávky MHD.
 
-  * Proškolit řidiče MHD o klasifikaci přístupnosti zastávek.
-
   * Navrhnout bezbariérové řešení, které bude reflektovat kolísání vodní hladiny.
 
   * Navrhnout transparentní klasifikaci pro roztřídění zastávek MHD na bezbariérové s asistencí a bezbariérové bez asistence.
@@ -51,4 +49,6 @@ timeline:
 links:
   - link: https://www.dpmb.cz/cs/download/1106
     description: Bezbariérové tramvajové zastávky DPMB
+  - link: https://www.vozejkmap.cz/79968-pristaviste-lodni-dopravy-brno
+    description: mapa pro navigaci a informace o bezbariérových místech nejen v Brně
 ---
