@@ -21,19 +21,31 @@ story: "Je tu léto 2019. Celou republikou zmítají tropická vedra, téměř n
 analysis: >-
   
 
-  * nevhodné značení zastávek na Brněnské přehradě
+  * Nevhodné značení zastávek na Brněnské přehradě.
 
-  * nedostatečné znalosti řidičů pro poskytnutí výstupu/nástupu uživatelům vozíku, viz pasport (XY)
+  * Nedostatečné znalosti řidičů pro poskytnutí výstupu/nástupu uživatelům vozíku, viz pasport (XY).
 
-  * DPMB není schopen garantovat výšku vodní hladiny v Brněnské přehradě
+  * DPMB není schopen garantovat výšku vodní hladiny v Brněnské přehradě.
 
-  * Výstup po schodech není možný
+  * Výstup po schodech není pro uživatele vozíku možný.
 design: >-
   * Změnit značku podle skutečné dostupnosti konkrétní zastávky MHD.
 
   * Navrhnout bezbariérové řešení, které bude reflektovat kolísání vodní hladiny.
 
   * Navrhnout transparentní klasifikaci pro roztřídění zastávek MHD na bezbariérové s asistencí a bezbariérové bez asistence.
+constraints: >-
+  
+
+  * Časté renovace zastávek MHD a změna jejich přístupnosti.
+
+  * Specifické geografické podmínky jednotlivých zastávek např. kolísavá hladina.
+conclusion: >-
+  
+
+  * Doplnění příjezdové lávky o plovoucí plošinu, která reflektuje výšku vodní hladiny.
+
+  * V budoucnu budou zastávky lodní dopravy řešeny stejným nebo podobným způsobem.
 
   * Je lepší označovat zastávky tak, aby byl uživatel vozíku připraven na horší variantu (vyšší/nižší nástupiště).
 before:
