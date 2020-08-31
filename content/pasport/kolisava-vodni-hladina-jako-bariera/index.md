@@ -1,6 +1,7 @@
 ---
 title: Kolísavá vodní hladina jako bariéra
 title2: Nutnost správného označení zastávek lodní dopravy pro uživatele vozíku
+subtitle: "Jak lze přizpůsobit prostor nepříznivým klimatickým podmínkám? "
 story: "Je tu léto 2019. Celou republikou zmítají tropická vedra, téměř neprší –
   je sucho. Petr jako spousta dalších obyvatel Brna se vydává zchladit se k
   nějaké vodní ploše. Vybírá si brněnskou přehradu. Už ví, že se na přehradu
@@ -17,22 +18,37 @@ story: "Je tu léto 2019. Celou republikou zmítají tropická vedra, téměř n
   hladiny. Nicméně rozhodne se zkusit vyjet. Přece se nebude vracet. Navíc má
   jít o zastávku, kde není potřeba asistence. Aby nepřekážel nechává nejdříve
   vyjít ostatní pasažéry."
-design: >-
+analysis: >-
   
 
-  * změnit značku podle skutečné dostupnosti zastávky MHD.
+  * nevhodné značení zastávek na Brněnské přehradě
 
-  * proškolit řidiče MHD o klasifikaci přístupnosti zastávek.
+  * nedostatečné znalosti řidičů pro poskytnutí výstupu/nástupu uživatelům vozíku, viz pasport (XY)
 
-  * navrhnout bezbariérové řešení, které bude reflektovat kolísání vodní hladiny.
+  * DPMB není schopen garantovat výšku vodní hladiny v Brněnské přehradě
 
-  * navrhnout transparentní klasifikaci pro roztřídění zastávek MHD na bezbariérové s asistencí a bezbariérové bez asistence.
+  * Výstup po schodech není možný
+design: >-
+  * Změnit značku podle skutečné dostupnosti zastávky MHD.
+
+  * Proškolit řidiče MHD o klasifikaci přístupnosti zastávek.
+
+  * Navrhnout bezbariérové řešení, které bude reflektovat kolísání vodní hladiny.
+
+  * Navrhnout transparentní klasifikaci pro roztřídění zastávek MHD na bezbariérové s asistencí a bezbariérové bez asistence.
 
   * Je lepší označovat zastávky tak, aby byl uživatel vozíku připraven na horší variantu (vyšší/nižší nástupiště).
 before:
-  source: ..
+  source: deník.cz Attila Racek
+  name: lavka-bez.png
+  alt: Příjezdová lávka před instalací bezbariérové plošiny
 after:
-  source: ..
+  source: Deník, Attila Racek
+  name: brno-podnik.jpg
+  alt: Příjezdová lávka po instalaci bezbariérové plošiny
 timeline:
   - parts: 1
+links:
+  - link: https://www.dpmb.cz/cs/download/1106
+    description: Bezbariérové tramvajové zastávky DPMB
 ---
