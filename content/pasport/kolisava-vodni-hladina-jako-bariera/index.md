@@ -39,7 +39,11 @@ constraints: >-
 
   * Časté renovace zastávek MHD a změna jejich přístupnosti.
 
-  * Specifické geografické podmínky jednotlivých zastávek např. kolísavá hladina.
+  * Specifické geografické podmínky jednotlivých zastávek např. kolísavá hladina, výška břehu
+
+  * Na zastávce bude vždy lepší mít sebou asistenta
+
+  * Sklon plošiny se může lišit v závislosti na výšce hladiny
 conclusion: >-
   
 
