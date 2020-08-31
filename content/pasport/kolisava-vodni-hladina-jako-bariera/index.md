@@ -37,6 +37,17 @@ design: >-
   * Navrhnout transparentní klasifikaci pro roztřídění zastávek MHD na bezbariérové s asistencí a bezbariérové bez asistence.
 
   *
+solution: >-
+  Dopravní podnik města Brna rozlišuje několik kategorií bezbariérových zastávek
+  (nástupišť) ve vztahu k tělesně postiženým osobám. První kategorií jsou
+  bezbariérová nástupiště, kde vysunutá plošina má předepsaný sklon a uživatel
+  vozíčku může bezpečně sjet a vyjet sám. Druhou kategorií jsou tzv. nízké
+  nástupiště, kde sklon vysunuté plošiny je větší a je doporučena pomoc při
+  nástupu a výstupu. Podobně tomu je i u třetí kategorie tzv. vyšších nástupišť.
+  Tyto kategorie DPMB využil i pro označení zastávek lodní na Brněnské přehradě.
+
+
+  V roce 2017 přichází DPMB s novým designem zastávky MHD hrad Veveří. Jedná se o dřevěnou lávku, která je vystrčená až nad koryto řeky, takže lodě mohou připlouvat i za nízkého stavu vody. Za nízkého stavu vody mohli lidé využít schodů na konci mola, kterými mohli vyjít/sejít. Projektanti počítali s naplněním přehrady tak, že schody nebude v podstatě nutné použít.
 constraints: >-
   
 
