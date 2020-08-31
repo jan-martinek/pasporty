@@ -1,7 +1,8 @@
 ---
 title: Kolísavá vodní hladina jako bariéra
 title2: Lodní zastávka MHD Hrad veveří
-subtitle: "Jak lze přizpůsobit prostor nepříznivým klimatickým podmínkám? "
+subtitle: "Jak lépe označovat bezbariérové zastávky MHD vzhledem nepříznivým
+  klimatickým podmínkám? "
 story: "Je tu léto 2019. Celou republikou zmítají tropická vedra, téměř neprší –
   je sucho. Petr jako spousta dalších obyvatel Brna se vydává zchladit se k
   nějaké vodní ploše. Vybírá si brněnskou přehradu. Už ví, že se na přehradu
@@ -27,13 +28,15 @@ analysis: >-
 
   * DPMB není schopen garantovat výšku vodní hladiny v Brněnské přehradě.
 
-  * Výstup po schodech není pro uživatele vozíku možný.
+  * Výjezd do velkého sklonu není možný ani pro uživatele vozíku s pomocí asistenta
 design: >-
   * Změnit značku podle skutečné dostupnosti konkrétní zastávky MHD.
 
-  * Navrhnout bezbariérové řešení, které bude reflektovat kolísání vodní hladiny.
+  * Instalovat bezbariérové řešení, které bude reflektovat kolísání vodní hladiny.
 
   * Navrhnout transparentní klasifikaci pro roztřídění zastávek MHD na bezbariérové s asistencí a bezbariérové bez asistence.
+
+  *
 constraints: >-
   
 
