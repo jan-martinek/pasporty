@@ -1,6 +1,6 @@
 ---
 title: Kolísavá vodní hladina jako bariéra
-title2: Nutnost správného označení zastávek lodní dopravy pro uživatele vozíku
+title2: Lodní zastávka MHD Hrad veveří
 subtitle: "Jak lze přizpůsobit prostor nepříznivým klimatickým podmínkám? "
 story: "Je tu léto 2019. Celou republikou zmítají tropická vedra, téměř neprší –
   je sucho. Petr jako spousta dalších obyvatel Brna se vydává zchladit se k
@@ -29,7 +29,7 @@ analysis: >-
 
   * Výstup po schodech není možný
 design: >-
-  * Změnit značku podle skutečné dostupnosti zastávky MHD.
+  * Změnit značku podle skutečné dostupnosti konkrétní zastávky MHD.
 
   * Proškolit řidiče MHD o klasifikaci přístupnosti zastávek.
 
