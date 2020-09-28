@@ -1,4 +1,4 @@
 ---
-title: nadace Emil
+title: Nadační fond Emil
 ---
 text
