@@ -23,8 +23,8 @@ story: Na jaře roku 2007 jde nevidomý pan Jaroslav odeslat balík na poštu na
   Jaroslav tedy začal čekat znovu a doufat, že tentokrát nepromešká své
   „vyvolání“.
 analysis: >-
-  Terminály na výdej lístků s čísly, jsou dnes převážně dotykové a bez dalších
-  úprav jsou pro osoby nevidomé nepoužitelné.
+  Terminály na výdej lístků s čísly, jsou bez dalších úprav pro osoby nevidomé
+  nepoužitelné.
 
 
   Terminál je potřeba na poště najít, což je naslepo bez vodicích nebo akustických prvků velice obtížné.
@@ -33,16 +33,16 @@ analysis: >-
   Také k navolení požadované služby na terminálu je nezbytný zrak a na vydaném lístku je číslo jen natištěné.
 
 
-  Displeje zobrazující vyvolávané číslo viditelné jen zrakem, a tak se nevidomý člověk nedozví, kdy má se svým lístkem jít na kterou přepážku.
+  Displeje zobrazující vyvolávané číslo viditelné jen zrakem, a tak se nevidomý člověk nedozví, kdy má jít na kterou přepážku.
 
 
-  Tuto přepážku sám nenajde, protože jejich čísla jsou zobrazena opět jen vizuálně. 
+  Přepážku sám nenajde, protože jejich čísla jsou zobrazena opět jen vizuálně. 
 
 
   Vyvolávací lístkový systém na poštách nefunguje tak, aby s ním mohla samostatně pracovat osoba nevidomá.
 design: >-
-  Pokud provozovatel trvá na použití vyvolávacích lístkových systémů, pak tyto
-  musejí být doplněny o zvukové prvky.
+  Pokud provozovatel využívá vyvolávací lístkové systémy, pak musejí být
+  doplněny o zvukové prvky.
 
 
   Přístroj k vydávání lístků musí být umístěn a uzpůsoben tak, aby ho lidé nevidomí mohli najít a použít.
@@ -51,10 +51,10 @@ design: >-
   Vydávané lístky s tištěným číslem musí být doplněny něčím, co není potřeba číst zrakem.
 
 
-  Technologie vyvolávacích lístkových systémů je jednotná pro mnoho pošt, ale také i pro mnoho organizací, které poskytují služby (komunikační, energetické, zdravotní apod.).
+  Technologie vyvolávacích lístkových systémů je jednotná pro mnoho pošt.
 
 
-  Pokud by se vytvořila jednotná úprava této technologie, mohla by být zavedena pro všechny pošty i další organizace, které lístkové systémy využívají.
+  Pokud by se vytvořila jednotná úprava této technologie, mohla by být zavedena pro všechny pošty.
 solution: >-
   Sjednocenná organizace nevidomých a slabozrakých (SONS) si začala na počátku
   nového tisíciletí všímat, že neustále přibývá pošt, které jsou vybaveny
