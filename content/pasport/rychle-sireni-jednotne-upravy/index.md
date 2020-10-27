@@ -1,11 +1,9 @@
 ---
 title: Rychlé šíření jednotné úpravy
 title2: Ozvučené vyvolávací systémy na poštách
-subtitle: >-
-  Jak mohou na poštách s lístkovým vyvolávacím systém lidé nevidomí vědět, kdy
-  jsou vyvoláni?
-story: >-
-  Na jaře roku 2007 jde nevidomý pan Jaroslav odeslat balík na poštu na
+subtitle: Jak mohou na poštách s lístkovým vyvolávacím systém lidé nevidomí
+  vědět, kdy jsou vyvoláni?
+story: Na jaře roku 2007 jde nevidomý pan Jaroslav odeslat balík na poštu na
   brněnském Mojmírově náměstí. Poštu již nějakou dobu nepotřeboval navštívit, a
   tak byl překvapen, že zde byl zaveden nový systém. Chtěl se postavit do řady,
   kde stojí lidé čekající na přepážku, nicméně bylo mu sděleno, že se musí
@@ -25,111 +23,102 @@ story: >-
   Jaroslav tedy začal čekat znovu a doufat, že tentokrát nepromešká své
   „vyvolání“.
 analysis: >-
-  Přístroj, která vydává lístky s čísly, je uzpůsoben pro vidící lidi.
+  Terminály na výdej lístků s čísly, jsou dnes převážně dotykové a bez dalších
+  úprav jsou pro osoby nevidomé nepoužitelné.
 
 
-  Přístroj je potřeba na poště najít, včetně tlačítka něm, které je třeba
-  zmáčknout. K tomu je ideální zrak.
+  Terminál je potřeba na poště najít, což je naslepo bez vodicích nebo akustických prvků velice obtížné.
 
 
-  Na samotných lístcích je číslo tištěné. K jeho přečtení je také potřeba zrak.
+  Také k navolení požadované služby na terminálu je nezbytný zrak a na vydaném lístku je číslo jen natištěné.
 
 
-  Obrazovky, které zobrazují, které číslo má jít na kterou přepážku, jsou také
-  viditelné jen zrakem.
+  Displeje zobrazující vyvolávané číslo viditelné jen zrakem, a tak se nevidomý člověk nedozví, kdy má se svým lístkem jít na kterou přepážku.
 
 
-  Osoba nevidomá se obtížně dozví, kdy má se svým lístkem dojít na kterou
-  přepážku.
+  Tuto přepážku sám nenajde, protože jejich čísla jsou zobrazena opět jen vizuálně. 
 
 
-  Vyvolávací lístkový systém na poštách nefunguje tak, aby s ním mohla
-  samostatně pracovat osoba nevidomá.
+  Vyvolávací lístkový systém na poštách nefunguje tak, aby s ním mohla samostatně pracovat osoba nevidomá.
 design: >-
-  Lístkové vyvolávací systémy potřebují doplnit o akustický prvek.
+  Pokud provozovatel trvá na použití vyvolávacích lístkových systémů, pak tyto
+  musejí být doplněny o zvukové prvky.
 
 
-  Přístroj k vydávání lístků musí být uzpůsoben tak, aby ho lidé nevidomí
-  nemuseli složitě hledat.
+  Přístroj k vydávání lístků musí být umístěn a uzpůsoben tak, aby ho lidé nevidomí mohli najít a použít.
 
 
-  Vydávané lístky s tištěným číslem musí být doplněny něčím, co není potřeba
-  číst zrakem.
+  Vydávané lístky s tištěným číslem musí být doplněny něčím, co není potřeba číst zrakem.
 
 
-  Technologie vyvolávacích lístkových systémů je jednotná pro mnoho pošt.
+  Technologie vyvolávacích lístkových systémů je jednotná pro mnoho pošt, ale také i pro mnoho organizací, které poskytují služby (komunikační, energetické, zdravotní apod.).
 
 
-  Pokud se vytvoří úprava této technologie, může být zavedena pro všechny pošty,
-  které lístkové systémy využívají.
+  Pokud by se vytvořila jednotná úprava této technologie, mohla by být zavedena pro všechny pošty i další organizace, které lístkové systémy využívají.
 solution: >-
   Sjednocenná organizace nevidomých a slabozrakých (SONS) si začala na počátku
   nového tisíciletí všímat, že neustále přibývá pošt, které jsou vybaveny
-  lístkovými vyvolávacími systémy pro přístup k přepážkám. Ředitel SONS proto
-  započal komunikaci s generálním ředitelstvím České pošty o této problematice.
-  Česká pošta nakonec souhlasila, že podpoří vytvoření technologie upraveného
-  ozvučeného vyvolávacího systému pro osoby nevidomé. SONS se proto zkontaktoval
-  s brněnským Tyfloservisem a TyfloCentrem a společně vytvořili originální
-  úpravu vyvolávacího systému, kdy nevidomý zákazník pošty bude u vstupu do
-  pošty ihned zaregistrován do pořadníku a poté, až na něj přijde řada,
-  hlasovými informacemi naveden k pro něj vyhrazené přepážce, k níž navíc přímo
-  povede kovová vodící linie. Pilotní testování technologie proběhlo na poště v
-  Brně na Lesné, neboť byla vybrána jako pošta nejvíce navštěvovaná nevidomými
-  zákazníky. Poté byl upravený vyvolávací systém nainstalován ještě na poštách
-  Brno-Mojmírovo náměstí a Brno-Křížová. SONS nicméně od začátku koncipoval
-  technologii tak, aby šla nainstalovat na jakoukoli poštu s vyvolávacím
-  lístkovým systémem, aby se tedy jednalo o jednotný celostátní systém. Proto
-  byl společně s Českou poštou odsouhlasen seznam pošt po celé ČR, kde bude
-  technologie zavedena. Technologie upraveného vyvolávacího systému pro osoby
-  nevidomé je tak nakonec zavedena na 18 poštách po České republice.
+  lístkovými vyvolávacími systémy pro přístup k přepážkám. Vedoucí metodického
+  centra pro odstraňování bariér SONS proto započal komunikaci s generálním
+  ředitelstvím České pošty o této problematice. Česká pošta nakonec souhlasila,
+  že podpoří vytvoření technologie upraveného ozvučeného vyvolávacího systému
+  pro nevidomé osoby. SONS se proto zkontaktovala s brněnským Tyfloservisem a
+  TyfloCentrem a společně vytvořily návrh řešení použití vyvolávacího systému. 
+
+  Pracuje tak, že si nevidomý zákazník pošty u vstupu, pomocí dálkového vysílače povelů aktivuje hlasový majáček, díky němuž dohledá vchod do budovy. Ze druhé fráze majáčku se dozví, jak se dostane k vyhrazené přepážce pomocí umělé vodící linie. Tam se vysláním povelu z vysílače, zaregistruje do lístkového systému. Ve chvíli, kdy se vyhrazená přepážka uvolní, tak jej na to akustický signál  upozorní a navede jej přímo k přepážce. 
+
+  Pilotní testování technologie proběhlo na poště v Brně na Lesné, protože tato byla vybrána jako pošta nejvíce navštěvovaná nevidomými zákazníky. Poté byl upravený vyvolávací systém nainstalován ještě na dvou poštách v Brně. SONS nicméně od začátku koncipoval technologii tak, aby šla nainstalovat na jakoukoli poštu s vyvolávacím lístkovým systémem, aby se tedy jednalo o jednotný celostátní systém. Proto byl společně s Českou poštou odsouhlasen seznam pošt po celé ČR, kde bude technologie zavedena. Technologie upraveného vyvolávacího systému pro osoby nevidomé je tak nakonec zavedena na 18 poštách po České republice.
 constraints: >-
-  Úprava vyvolávacího systému je finančně nákladná.
+  Úprava vyvolávacího systému je neúměrně finančně nákladná.
 
 
-  Mezi lidmi nevidomými je nutné šířit informaci, které konkrétní pošty mají
-  upravený vyvolávací systém.
+  Mezi lidmi nevidomými je nutné šířit informaci, které konkrétní pošty mají upravený vyvolávací systém.
 
 
-  K bezproblémovému fungování je potřeba proškolený personál, jenže České poště
-  se střídají zaměstnanci.
+  K bezproblémovému fungování je potřeba proškolený personál, jenže České poště se střídají zaměstnanci.
+
+
+  Také lidé nevidomí musejí být dostatečně seznámeni s tím, jak tento systém užívat.
 conclusion: >-
   Pro vyvolávací lístkové systémy, které jsou závislé na užívání zraku, lze
   vyvinout bezbariérovou technologii jejich upravením a ozvučením.
 
 
-  Iniciativa vyvíjet technologii upravených ozvučených vyvolávacích systémů
-  jednotnou a celostátně aplikovatelnou byla užitečná.
+  Iniciativa vyvíjet technologii upravených ozvučených vyvolávacích systémů jednotnou a celostátně aplikovatelnou byla užitečná.
 
 
-  Díky tomu byla i Česká pošta ochotna zavést technologii stejným způsobem na
-  více místech.
+  Díky tomu byla i Česká pošta ochotna zavést technologii stejným způsobem na více místech.
 
 
-  Když se užívá jednotný způsob bezbariérových úprav, jednodušeji se rozšíří na
-  více podobných míst.
+  Když se užívá jednotný způsob bezbariérových úprav, jednodušeji se rozšíří na více podobných míst.
 before:
   name: posty-foto-pred_b.jpg
-  source: 'https://1gr.cz/fotky/idnes/15/103/org/EVS5edd2b_posta.jpg'
+  source: https://1gr.cz/fotky/idnes/15/103/org/EVS5edd2b_posta.jpg
+  alt: Na obrázku je terminál pro vydávání lístků bez úpravy přístupné pro osoby
+    nevidomé.
 after:
   name: posty-foto-po.jpg
-  source: >-
-    https://fastly.4sqi.net/img/general/600x600/30928169_cVtszRy4cTEeATTiFryPxhgvOHAm9ND966eDjcNn7oM.jpg   
-    <dočasné, bude vytvořena nová fotka>
+  source: https://fastly.4sqi.net/img/general/600x600/30928169_cVtszRy4cTEeATTiFryPxhgvOHAm9ND966eDjcNn7oM.jpg    <dočasné,
+    bude vytvořena nová fotka>
+  alt: "Na obrázku je umělá vodicí linie vedoucí k vyhrazené poštovní přepážce.
+    Lavičky s čekajícími zákazníky průchod podél linie nijak neomezují. "
 timeline:
   - parts: 1
-    time: '2005'
+    time: "2005"
     name: SONS zahajuje komunikaci s generálním ředitelstvím České pošty
   - parts: 1
-    time: '2006'
-    name: 'Vytváří se technologie a jsou vybrány brněnské pošty, kde by byla zavedena'
+    time: "2006"
+    name: Vytváří se technologie a jsou vybrány brněnské pošty, kde by byla zavedena
   - parts: 1
-    time: '2007'
-    name: >-
-      Po úspěšném pilotním testování v Brně se technologie zavádí na dalších
+    time: "2007"
+    name: Po úspěšném pilotním testování v Brně se technologie zavádí na dalších
       poštách
   - parts: 1
-    time: '2008'
+    time: "2008"
     name: Ozvučené upravené vyvolávací systémy jsou na 18 poštách v ČR
+  - parts: 1
+    time: "2009"
+    name: Zavedení organizačních opatření
 dictionary:
   - vodící linie
 ---
