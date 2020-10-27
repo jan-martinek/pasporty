@@ -62,12 +62,12 @@ solution: >-
   centra pro odstraňování bariér SONS proto započal komunikaci s generálním
   ředitelstvím České pošty o této problematice. Česká pošta nakonec souhlasila,
   že podpoří vytvoření technologie upraveného ozvučeného vyvolávacího systému
-  pro nevidomé osoby. SONS se proto zkontaktovala s brněnským Tyfloservisem a
+  pro nevidomé osoby. SONS se zkontaktovala s brněnským Tyfloservisem a
   TyfloCentrem a společně vytvořily návrh řešení použití vyvolávacího systému. 
 
-  Pracuje tak, že si nevidomý zákazník pošty u vstupu, pomocí dálkového vysílače povelů aktivuje hlasový majáček, díky němuž dohledá vchod do budovy. Ze druhé fráze majáčku se dozví, jak se dostane k vyhrazené přepážce pomocí umělé vodící linie. Tam se vysláním povelu z vysílače, zaregistruje do lístkového systému. Ve chvíli, kdy se vyhrazená přepážka uvolní, tak jej na to akustický signál  upozorní a navede jej přímo k přepážce. 
+  Pracuje tak, že si nevidomý zákazník pošty u vstupu pomocí dálkového vysílače povelů aktivuje hlasový majáček, díky němuž dohledá vchod do budovy. Ze druhé fráze majáčku se dozví, jak se dostane k vyhrazené přepážce pomocí umělé vodící linie. Tam se vysláním povelu z vysílače, zaregistruje do lístkového systému. Ve chvíli, kdy se vyhrazená přepážka uvolní, tak jej na to akustický signál upozorní. 
 
-  Pilotní testování technologie proběhlo na poště v Brně na Lesné, protože tato byla vybrána jako pošta nejvíce navštěvovaná nevidomými zákazníky. Poté byl upravený vyvolávací systém nainstalován ještě na dvou poštách v Brně. SONS nicméně od začátku koncipoval technologii tak, aby šla nainstalovat na jakoukoli poštu s vyvolávacím lístkovým systémem, aby se tedy jednalo o jednotný celostátní systém. Proto byl společně s Českou poštou odsouhlasen seznam pošt po celé ČR, kde bude technologie zavedena. Technologie upraveného vyvolávacího systému pro osoby nevidomé je tak nakonec zavedena na 18 poštách po České republice.
+  Pilotní testování technologie proběhlo na poště v Brně na Lesné,. Ta byla vybrána jako pošta nejvíce navštěvovaná nevidomými zákazníky. Poté byl upravený vyvolávací systém nainstalován ještě na dvou poštách v Brně. SONS nicméně od začátku koncipoval technologii tak, aby šla nainstalovat na jakoukoli poštu s vyvolávacím lístkovým systémem. Proto byl společně s Českou poštou odsouhlasen seznam pošt, kde bude technologie zavedena. Technologie je tak nakonec zavedena na 18 poštách po České republice.
 constraints: >-
   Úprava vyvolávacího systému je neúměrně finančně nákladná.
 
