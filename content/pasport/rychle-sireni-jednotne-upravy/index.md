@@ -4,24 +4,22 @@ title2: Ozvučené vyvolávací systémy na poštách
 subtitle: Jak mohou na poštách s lístkovým vyvolávacím systém lidé nevidomí
   vědět, kdy jsou vyvoláni?
 story: Na jaře roku 2007 jde nevidomý pan Jaroslav odeslat balík na poštu na
-  brněnském Mojmírově náměstí. Poštu již nějakou dobu nepotřeboval navštívit, a
-  tak byl překvapen, že zde byl zaveden nový systém. Chtěl se postavit do řady,
-  kde stojí lidé čekající na přepážku, nicméně bylo mu sděleno, že se musí
-  vrátit ke vchodu a zmáčknout tlačítko na přístroji, z něhož mu vyjede lístek s
-  pořadovým číslem. Pan Jaroslav se vrátil ke vchodu a podařilo se mu nahmatat
-  onen nový přístroj i tlačítko na něm. Byl mu vydán lístek, pan Jaroslav si
-  však nedokázal přečíst, co je na lístku napsané. Od jiného zákazníka pošty se
-  dozvěděl, že má pořadové číslo 47, a má proto počkat, dokud nebude jeho číslo
-  vyvoláno. Že zatím je na řadě číslo 41. Pan Jaroslav si tedy sedl a čekal.
-  Čekal notnou dobu a bylo mu divné, že dosud nebylo vyvoláno žádné další číslo
-  po onom 41. Když čekal již velmi dlouho, zeptal se dalšího z návštěvníků
-  pošty, proč to vše tak dlouho trvá. Tento návštěvník mu ale sdělil, že číslo
-  47 bylo vyvoláno již před deseti minutami. Pan Jaroslav se divil, vždyť nic
-  nehlásili. Pán mu vysvětlil, že číslo není doslova vyvoláno, ale je zobrazeno
-  na obrazovce u přepážek. Donesl panu Jaroslavovi nové číslo a upozornil ho, že
-  se musí vyptávat ostatních lidí, co za číslo má jít zrovna na přepážku. Pan
-  Jaroslav tedy začal čekat znovu a doufat, že tentokrát nepromešká své
-  „vyvolání“.
+  brněnském Mojmírově náměstí. Poštu již nějakou dobu nenavštívil, a tak byl
+  překvapen tamním novým systémem. Chtěl se postavit do řady, kde stojí lidé
+  čekající na přepážku, nicméně bylo mu sděleno, že se musí vrátit ke vchodu a
+  zmáčknout tlačítko na terminálu, z něhož mu vyjede lístek s pořadovým číslem.
+  Panu Jaroslavovi se u vchodu podařilo po chvíli nahmatat onen nový terminál i
+  tlačítko na něm. Byl mu vydán lístek, pan Jaroslav si ho však nedokázal
+  přečíst. Od jiného zákazníka pošty se dozvěděl, že má pořadové číslo 47, a má
+  proto počkat, dokud nebude jeho číslo vyvoláno. Že zatím je na řadě číslo 41.
+  Pan Jaroslav tedy čekal a bylo mu divné, že dlouho nebylo vyvoláno žádné další
+  číslo po onom 41. Zeptal se dalšího z návštěvníků pošty, proč vše tak dlouho
+  trvá. Tento návštěvník mu sdělil, že číslo 47 bylo vyvoláno již před deseti
+  minutami. Pan Jaroslav se divil, vždyť nic nehlásili. Bylo mu vysvětleno, že
+  číslo není doslova vyvoláno, ale je zobrazeno na displeji u přepážek. Ostatní
+  donesli panu Jaroslavovi nové číslo a upozornili ho, že se musí neustále
+  vyptávat, kdy má jít zrovna na přepážku. Pan Jaroslav tedy čekal znovu a
+  doufal, že tentokrát nepromešká své „vyvolání“.
 analysis: >-
   Terminály na výdej lístků s čísly, jsou bez dalších úprav pro osoby nevidomé
   nepoužitelné.
