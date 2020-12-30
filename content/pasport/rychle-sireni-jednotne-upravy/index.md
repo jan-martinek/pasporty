@@ -4,30 +4,28 @@ title2: Ozvučené vyvolávací systémy na poštách
 subtitle: Jak mohou na poštách s lístkovým vyvolávacím systém lidé nevidomí
   vědět, kdy jsou vyvoláni?
 story: Na jaře roku 2007 jde nevidomý pan Jaroslav odeslat balík na poštu na
-  brněnském Mojmírově náměstí. Je ale překvapen tamním novým systémem. Chtěl se
-  postavit do řady, kde stojí lidé čekající na přepážku, nicméně bylo mu
-  sděleno, že se musí vrátit ke vchodu a zmáčknout tlačítko na terminálu pro
-  obdržení pořadového čísla. Panu Jaroslavovi se podařilo nahmatat onen nový
-  terminál i tlačítko na něm. Byl mu vydán lístek, pan Jaroslav si ho však
-  nedokázal přečíst. Od jiného zákazníka pošty se dozvěděl, že má pořadové číslo
-  47, a má proto počkat, dokud nebude jeho číslo vyvoláno. Že zatím je na řadě
-  číslo 41. Pan Jaroslav čekal a bylo mu divné, že dlouho nebylo vyvoláno žádné
-  další číslo po onom 41. Zeptal se dalšího ze zákazníků, co se děje. Ten mu
-  sdělil, že číslo 47 bylo vyvoláno již před deseti minutami. Pan Jaroslav se
-  divil, vždyť nic nehlásili. Bylo mu vysvětleno, že číslo není doslova
-  vyvoláno, ale je zobrazeno na displeji u přepážek. Donesl panu Jaroslavovi
-  nové číslo a upozornil ho, že se musí vyptávat, kdy má jít zrovna na přepážku.
-  Pan Jaroslav tedy čekal znovu a doufal, že tentokrát nepromešká své
-  „vyvolání“.
+  brněnském Mojmírově náměstí. Je překvapen tamním novým systémem. Chtěl se
+  postavit do řady na přepážku, ale bylo mu sděleno, že se musí vrátit ke vchodu
+  a zmáčknout tlačítko na terminálu pro obdržení pořadového čísla. Panu
+  Jaroslavovi se podařilo nahmatat onen nový terminál i tlačítko na něm. Byl mu
+  vydán lístek, který pan Jaroslav nepřečetl. Od jiného zákazníka pošty se
+  dozvěděl, že má pořadové číslo 47, a má proto počkat, dokud číslo nevyvolají.
+  Že zatím je na řadě číslo 41. Pan Jaroslav čekal a bylo mu divné, že dlouho
+  nevyvolali žádné číslo po onom 41. Zeptal se dalšího ze zákazníků, co se děje.
+  Ten mu sdělil, že číslo 47 bylo vyvoláno již před deseti minutami. Pan
+  Jaroslav se divil, vždyť nic nehlásili. Vysvětlili mu, že číslo není doslova
+  vyvoláno, ale je zobrazeno na displeji u přepážek. Donesli mu tedy nové číslo
+  a upozornil ho, že se musí vyptávat, kdy má jít zrovna na přepážku. Pan
+  Jaroslav tedy čekal znovu a doufal, že tentokrát nepromešká své „vyvolání“.
 analysis: >-
-  Terminály na výdej lístků s čísly, jsou bez dalších úprav pro osoby nevidomé
+  Terminály na výdej lístků s čísly jsou bez dalších úprav pro osoby nevidomé
   nepoužitelné.
 
 
-  Terminál je potřeba na poště najít, což je naslepo bez vodicích nebo akustických prvků velice obtížné.
+  Terminál je potřeba na poště najít, což je naslepo bez vodicích nebo akustických prvků obtížné.
 
 
-  Také k navolení požadované služby na terminálu je nezbytný zrak a na vydaném lístku je číslo jen natištěné.
+  K navolení požadované služby na terminálu je nezbytný zrak a na vydaném lístku je číslo jen natištěné.
 
 
   Displeje zobrazující vyvolávané číslo jsou viditelné jen zrakem, a tak se nevidomý člověk nedozví, kdy má jít na kterou přepážku.
@@ -56,26 +54,26 @@ solution: >-
   Sjednocenná organizace nevidomých a slabozrakých (SONS) si začala na počátku
   nového tisíciletí všímat, že neustále přibývá pošt, které jsou vybaveny
   lístkovými vyvolávacími systémy pro přístup k přepážkám. Vedoucí metodického
-  centra pro odstraňování bariér SONS proto započal komunikaci s generálním
-  ředitelstvím České pošty o této problematice. Česká pošta nakonec souhlasila,
-  že podpoří vytvoření technologie upraveného ozvučeného vyvolávacího systému
-  pro nevidomé osoby. SONS se zkontaktovala s brněnským Tyfloservisem a
-  TyfloCentrem a společně vytvořily návrh řešení použití vyvolávacího systému. 
+  centra pro odstraňování bariér SONS proto o tom započal komunikaci s
+  generálním ředitelstvím České pošty. Česká pošta souhlasila, že podpoří
+  vytvoření technologie upraveného ozvučeného vyvolávacího systému pro nevidomé
+  osoby. SONS se zkontaktovala s brněnským Tyfloservisem a TyfloCentrem a
+  společně vytvořily návrh řešení použití vyvolávacího systému. 
 
-  Pracuje tak, že si nevidomý zákazník pošty u vstupu pomocí dálkového vysílače povelů aktivuje hlasový majáček, díky němuž dohledá vchod do budovy. Ze druhé fráze majáčku se dozví, jak se dostane k vyhrazené přepážce pomocí umělé vodící linie. Tam se vysláním povelu z vysílače, zaregistruje do lístkového systému. Ve chvíli, kdy se vyhrazená přepážka uvolní, tak jej na to akustický signál upozorní. 
+  Pracuje tak, že si nevidomý zákazník pošty u vstupu pomocí dálkového vysílače povelů aktivuje hlasový majáček, díky němuž dohledá vchod do budovy. Ze druhé fráze majáčku se dozví, jak se dostane k vyhrazené přepážce pomocí umělé vodicí linie. Tam se vysláním povelu z vysílače zaregistruje do lístkového systému. Ve chvíli, kdy se vyhrazená přepážka uvolní, tak jej na to akustický signál upozorní. 
 
   Pilotní testování technologie proběhlo na poště v Brně na Lesné,. Ta byla vybrána jako pošta nejvíce navštěvovaná nevidomými zákazníky. Poté byl upravený vyvolávací systém nainstalován ještě na dvou poštách v Brně. SONS nicméně od začátku koncipovala technologii tak, aby šla nainstalovat na jakoukoli poštu s vyvolávacím lístkovým systémem. Proto byl společně s Českou poštou odsouhlasen seznam pošt, kde bude technologie zavedena. Technologie je tak nakonec zavedena na 18 poštách po České republice.
 constraints: >-
   Úprava vyvolávacího systému je neúměrně finančně nákladná.
 
 
-  Mezi lidmi nevidomými je nutné šířit informaci, které konkrétní pošty mají upravený vyvolávací systém.
+  Mezi lidmi nevidomými je nutné šířit informaci, které konkrétní pošty mají tuto úpravu.
 
 
   K bezproblémovému fungování je potřeba proškolený personál, jenže České poště se střídají zaměstnanci.
 
 
-  Také lidé nevidomí musejí být dostatečně seznámeni s tím, jak tento systém užívat.
+  Také lidé nevidomí musejí být seznámeni s tím, jak systém užívat.
 conclusion: >-
   Pro vyvolávací lístkové systémy, které jsou závislé na užívání zraku, lze
   vyvinout bezbariérovou technologii jejich upravením a ozvučením.
