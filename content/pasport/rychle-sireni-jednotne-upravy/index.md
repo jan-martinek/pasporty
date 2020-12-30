@@ -117,5 +117,5 @@ timeline:
     time: "2009"
     name: Zavedení organizačních opatření
 dictionary:
-  - vodící linie
+  - vodicí linie
 ---
