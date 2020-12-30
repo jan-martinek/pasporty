@@ -31,7 +31,7 @@ analysis: >-
   Také k navolení požadované služby na terminálu je nezbytný zrak a na vydaném lístku je číslo jen natištěné.
 
 
-  Displeje zobrazující vyvolávané číslo viditelné jen zrakem, a tak se nevidomý člověk nedozví, kdy má jít na kterou přepážku.
+  Displeje zobrazující vyvolávané číslo jsou viditelné jen zrakem, a tak se nevidomý člověk nedozví, kdy má jít na kterou přepážku.
 
 
   Přepážku sám nenajde, protože jejich čísla jsou zobrazena opět jen vizuálně. 
@@ -65,7 +65,7 @@ solution: >-
 
   Pracuje tak, že si nevidomý zákazník pošty u vstupu pomocí dálkového vysílače povelů aktivuje hlasový majáček, díky němuž dohledá vchod do budovy. Ze druhé fráze majáčku se dozví, jak se dostane k vyhrazené přepážce pomocí umělé vodící linie. Tam se vysláním povelu z vysílače, zaregistruje do lístkového systému. Ve chvíli, kdy se vyhrazená přepážka uvolní, tak jej na to akustický signál upozorní. 
 
-  Pilotní testování technologie proběhlo na poště v Brně na Lesné,. Ta byla vybrána jako pošta nejvíce navštěvovaná nevidomými zákazníky. Poté byl upravený vyvolávací systém nainstalován ještě na dvou poštách v Brně. SONS nicméně od začátku koncipoval technologii tak, aby šla nainstalovat na jakoukoli poštu s vyvolávacím lístkovým systémem. Proto byl společně s Českou poštou odsouhlasen seznam pošt, kde bude technologie zavedena. Technologie je tak nakonec zavedena na 18 poštách po České republice.
+  Pilotní testování technologie proběhlo na poště v Brně na Lesné,. Ta byla vybrána jako pošta nejvíce navštěvovaná nevidomými zákazníky. Poté byl upravený vyvolávací systém nainstalován ještě na dvou poštách v Brně. SONS nicméně od začátku koncipovala technologii tak, aby šla nainstalovat na jakoukoli poštu s vyvolávacím lístkovým systémem. Proto byl společně s Českou poštou odsouhlasen seznam pošt, kde bude technologie zavedena. Technologie je tak nakonec zavedena na 18 poštách po České republice.
 constraints: >-
   Úprava vyvolávacího systému je neúměrně finančně nákladná.
 
