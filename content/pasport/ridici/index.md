@@ -22,14 +22,14 @@ analysis: >-
 
   3. Lidé nevidomí nemusejí slyšet přijet tichá vozidla MHD. 
 
-  4. Vidící lidé by jim i rádi pomohli, ale nevědí, co všechno je pro osoby nevidomé při cestování MHD problémem.
+  4. Vidící lidé by jim i rádi pomohli, ale nevědí, co vše je pro osoby nevidomé při cestování MHD problémem.
 
   5. Mezi tyto vidící lidi patří i řidiči MHD, kteří nemusejí vždy rozumět počínání nevidomého cestujícího.
 
   6. Znalí vidící cestující ne vždy potkají nevidomého cestujícího v MHD, ale řidiči je potkávají pravidelně.
 design: >-
-  1. Řidiči by měli mít základní povědomí o tom, co je pro nevidomí cestující v
-  MHD specifické.
+  1. Řidiči by měli mít základní povědomí o tom, co je pro nevidomého
+  cestujícího v MHD specifické.
 
   2. Je nutné přesvědčit zodpovědné osoby v dopravním podniku, že k tomu stačí tak málo: seznámit řidiče MHD s problematikou samostatného cestování nevidomých cestujících.
 
@@ -39,14 +39,13 @@ solution: >-
   cestujících na řidiče MHD, způsobené nedorozuměními mezi oběma skupinami.
   Proto odborník na bezbariérovost z Tyflocentra Dopravnímu podniku města Brna
   nabízel, že řidiče MHD seznámí s problematikou samostatného cestování
-  nevidomých osob v MHD a se způsobem, jak jim jej mohou usnadnit a
-  nedorozuměním předcházet. Přestože v tom zprvu dopravní podnik neviděl velkou
-  přidanou hodnotu, nakonec svolil a umožnil odborníkovi z TyfloCentra
-  realizovat první školení pro nově přijaté řidiče tramvají. To proběhlo v roce
-  2014.
+  nevidomých osob v MHD i se způsobem, jak jim jej mohou usnadnit a
+  nedorozuměním předcházet. Přestože v tom zprvu dopravní podnik neviděl
+  hodnotu, nakonec svolil a umožnil odborníkovi z TyfloCentra realizovat první
+  školení pro nově přijaté řidiče tramvají.
 
 
-  Školení bylo vyhodnoceno jako úspěšné, a proto se začalo zavádět i pro nové řidiče trolejbusů a autobusů a nakonec i pro všechny stávající řidiče. S využitím ukázek, pomůcek a příhod přímo z reálného života dokázal odborník z TyfloCentra, sám nevidomý, řidičům přiblížit problematiku nevidomého cestujícího v MHD. Školení se ukázalo jako efektivní a řidiči byli překvapeni, jak lze snadno těmto cestujícím ulehčit cestování, když o nich něco vědí. Dopravní podnik proto soudí, že skutečně šlo jen o pochopení problematiky a překonání určité obavy, jak k nevidomým cestujícím přistupovat. Vzhledem k tomu, že potřeby nevidomých cestujících v autobusech a trolejbusech na jedné straně a tramvajích na druhé straně se trochu liší, jsou pořádána školení pro řidiče trolejbusů/autobusů a řidiče tramvají zvlášť.
+  Školení bylo vyhodnoceno jako úspěšné, a proto se začalo zavádět i pro nové řidiče trolejbusů a autobusů a nakonec i pro všechny stávající řidiče. S využitím ukázek, pomůcek a příhod přímo z reálného života dokázal odborník z TyfloCentra, sám nevidomý, řidičům přiblížit problematiku nevidomého cestujícího v MHD. Školení se ukázalo jako efektivní a řidiči byli překvapeni, jak lze snadno těmto cestujícím ulehčit cestování, když o nich něco vědí. Dopravní podnik proto soudí, že skutečně šlo jen o pochopení problematiky a překonání určité obavy, jak k nevidomým cestujícím přistupovat.
 constraints: >-
   Může být složité přesvědčit dopravní podnik, že k vyřešení této bariérové
   situace skutečně stačí tak málo. 
