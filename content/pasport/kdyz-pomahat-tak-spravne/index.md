@@ -1,5 +1,6 @@
 ---
-title: 'Když pomáhat, tak správně'
+ready: true
+title: "Když pomáhat, tak správně"
 subtitle: >-
   Jakým způsobem informovat veřejnost o zásadách správné pomoci osobám se
   zrakovým postižením na veřejnosti?
@@ -15,7 +16,7 @@ story: >-
   silnici a potřebuje pomoc. Mirek však přemýšlel, kde by ještě mohl peněženku
   mít, aby se nevracel domů zbytečně. Najednou ho někdo chytl za pravou ruku a
   se slovy: „Pojďte se mnou, já Vám pomůžu,“ odvedl Mirka z jeho naučené trasy,
-  na druhou stranu ulice neznámo kam. 
+  na druhou stranu ulice neznámo kam.
 analysis: >+
   Lidé pohybující se ve veřejném prostoru často chtějí osobám se zrakovým
   postižením pomoci. Obzvláště pokud si myslí, že se dostaly do situace, kdy
@@ -59,17 +60,17 @@ timeline:
     name: vznik scénáře videospotů a jejich natočení
   - parts: 1
     time: červenec až prosinec 2017
-    name: 'připomínkování videospotů, jejich úprava, finalizace DVD'
+    name: "připomínkování videospotů, jejich úprava, finalizace DVD"
   - parts: 1
     time: září 2017 až březen 2018
     name: vznik textů a fotografií do brožury
   - parts: 1
     time: březen až červen 2018
-    name: 'první vydání brožury, první vlna distribuce'
+    name: "první vydání brožury, první vlna distribuce"
   - parts: 1
-    time: 'listopad až prosinec 2018 '
-    name: 'druhé vydání brožury, druhá vlna distribuce'
+    time: "listopad až prosinec 2018 "
+    name: "druhé vydání brožury, druhá vlna distribuce"
   - parts: 1
     time: leden až březen 2020
-    name: 'dotisk aktualizovaného vydání brožury, třetí vlna distribuce'
+    name: "dotisk aktualizovaného vydání brožury, třetí vlna distribuce"
 ---

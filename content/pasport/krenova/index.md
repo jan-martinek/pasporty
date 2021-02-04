@@ -1,6 +1,7 @@
 ---
+ready: true
 title: Část versus celek
-title2: 'Křenová, Brno'
+title2: "Křenová, Brno"
 number: 1
 subtitle: Proč to trvalo 10 let? Z jakého důvodu to nebylo možné realizovat rychleji?
 story: >
@@ -110,4 +111,3 @@ dictionary:
   - oprava
   - rekonstrukce
 ---
-

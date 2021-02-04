@@ -29,6 +29,9 @@ collections:
         name: number
         required: false
         widget: number
+      - label: Připraveno k publikování
+        name: ready
+        widget: boolean
       - label: Lokalita
         name: title2
         required: false

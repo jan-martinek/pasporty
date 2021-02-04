@@ -1,4 +1,5 @@
 ---
+ready: true
 title: Vítáme vodicího a asistenčního psa
 subtitle: >-
   Jakým způsobem informovat provozovatele služeb o existenci psů se speciálním
@@ -20,7 +21,7 @@ story: >
   podle ní do prodejny prostě nesmí, obchod by měl jinak problémy s hygienou,
   ostatní zákazníci by si stěžovali atd. Radim tak musel s Erniem prodejnu
   opustit a vyrazit hledat jiný obchod, kde mu snad umožní vzít Ernieho s sebou
-  dovnitř.    
+  dovnitř.
 analysis: "Mezi psy se speciálním výcvikem patří vodicí psi, kteří pomáhají osobám se zrakovým postižením (např. orientace v prostoru či označení překážek), a asistenční psi, kteří pomáhají osobám s tělesným postižením (např. podávání předmětů či otevírání dveří).\r\n\nVýrazná část provozovatelů o existenci a významu psů se speciálním výcvikem (téměř) nic neví. \n\nPříslušná legislativa například umožňuje vstup a pohyb psů se speciálním výcvikem ve stravovacích či zdravotnických zařízeních.\r\n\n"
 design: "Zvýšit osvětu o psech se speciálním výcvikem a příslušné legislativě mezi provozovateli různých zařízení a úřady.\r\n\nVytvoření a realizace informační kampaně o psech se speciálním výcvikem.\r\n\nApelování na solidaritu a odpovědnost občanů a ekonomických subjektů i nad rámec legislativy.\r\n\n"
 solution: "Odbor zdraví Magistrátu města Brna se v roce 2016 rozhodl na základě podnětu veřejnosti k vytvoření informační kampaně a materiálů ohledně psů se speciálním výcvikem. Ve spolupráci se Školou pro výcvik vodicích psů a spolkem Vodicí pes vznikla samolepka s nápisem „Vítáme vodicího a asistenčního psa“, která slouží zejména pro provozovatele obchodů a stravovacích zařízení, ale též pro školy a úřady k označení vstupu do svých budov, kdy dotyční dávají najevo, že nemají problém s přítomností těchto psů ve svých budovách. Samolepka tak jde nad rámec příslušné legislativy (tj. mohou si ji vylepit i provozovatelé, kteří by ze zákona nemuseli psa se speciálním výcvikem do svých prostor vpustit). Zároveň vznikl též dvoustránkový informační leták s názvem „Desatero k psům se speciálním výcvikem“, který popisuje, jak se ke psům se speciálním výcvikem chovat.\r\n\nNásledně proběhla informační kampaň, která zahrnovala propagační články, reportáže v televizi a rozhlase či reklamu ve vozidlech MHD. Materiály byly rozeslány vytipovaným provozovatelům. Poptávka těsně po informační kampani byla značná, dokonce si o samolepky a Desatero zažádala i jiná města.\r\n\nBylo vytištěno 7 000 ks samolepek a Desater. Grafický návrh realizoval magistrát, takže náklady tvořily jen tisk a distribuci – jednalo se o zhruba 50 000 Kč (včetně DPH).\r\n\n"
@@ -41,11 +42,11 @@ conclusion: "Odbor zdraví Magistrátu města Brna ukázal vznikem a distribucí
 before:
   name: before.jpg
   alt: Nálepka s nápisem Zákaz vstupu se psy
-  source: 'http://tabulky-shop.de8.cz/zakaz-vstupu-se-psy/z224.htm'
+  source: "http://tabulky-shop.de8.cz/zakaz-vstupu-se-psy/z224.htm"
 after:
   name: nalepka.png
   alt: Nálepka s nápisem Vítáme vodicího a asistenčního psa
-  source: 'http://www.brno-prorodiny.cz/nalepka-vitame-vodiciho-a-asistencniho-psa'
+  source: "http://www.brno-prorodiny.cz/nalepka-vitame-vodiciho-a-asistencniho-psa"
 timeline:
   - time: srpen 2016
     parts: 2
@@ -54,7 +55,7 @@ timeline:
     parts: 4
     name: >-
       spolupráce se Školou pro výcvik vodicích psů a spolkem Vodicí pes na
-      vzniku samolepky a Desatera (návrh piktogramu, přesné znění textu) 
+      vzniku samolepky a Desatera (návrh piktogramu, přesné znění textu)
   - time: celý rok 2017
     parts: 4
     name: informační kampaň (propagace existence samolepky a Desatera) + osvěta

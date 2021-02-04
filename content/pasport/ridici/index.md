@@ -1,4 +1,5 @@
 ---
+ready: true
 title: Vědět, jak se nastupuje do MHD
 title2: Školení řidičů MHD pro jednání s nevidomými cestujícími
 subtitle: Měli bychom se vždy spoléhat na to, že společně s osobou nevidomou
@@ -75,7 +76,8 @@ before:
   source: Archiv J. Konečného
 after:
   name: after.jpg
-  alt: Na obrázku probíhá školení řidičů. Řidič se zaslepovacími brýlemi si zkouší
+  alt:
+    Na obrázku probíhá školení řidičů. Řidič se zaslepovacími brýlemi si zkouší
     orientaci s bílou holí.
   source: Archiv J. Konečného
 timeline:

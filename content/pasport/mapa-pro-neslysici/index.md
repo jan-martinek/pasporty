@@ -1,4 +1,5 @@
 ---
+ready: true
 title: Malou informací k velké pomoci
 title2: Mapa přístupnosti pro sluchově postižené
 subtitle: "Proč a jak informovat neslyšící a nedoslýchavé o tom, kde se nachází místa s\_indukční smyčkou a znakováním?"
@@ -10,7 +11,7 @@ constraints: "Je obtížné získávat data o tom, kde: \n\n* jsou instalované 
 conclusion: "Díky propojení institucí v\_PSpBB došlo k\_přenosu informací o lokalitách znakování a indukčních smyček a jejich zanesení do specifické mapy přístupnosti.\n\nMapa přístupnosti pro sluchově postižené umožňuje nedoslýchavým navštívit primárně instituce, kulturní či zábavní zařízení, která jsou pro ně inkluzivní.\n\nOznačování a informovanost o existenci indukčních smyček je obdobně důležitá jako jejich samotná instalace."
 before:
   name: before.jpg
-  alt: 'Neslyšící muž dumá, zda se v kavárně dorozumí'
+  alt: "Neslyšící muž dumá, zda se v kavárně dorozumí"
   source: Archiv S. Surmařové
 after:
   name: after.jpg
@@ -25,7 +26,7 @@ timeline:
     name: rozhonutí PSpBB o vytvoření Mapy přístupnosti pro sluchově postižené
   - time: zima 2018
     parts: 1
-    name: 'zanesení informací do mapy, návrh piktogramů'
+    name: "zanesení informací do mapy, návrh piktogramů"
   - time: jaro 2019
     parts: 1
     name: mapa v plném provozu

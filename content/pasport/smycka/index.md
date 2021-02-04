@@ -1,6 +1,7 @@
 ---
+ready: true
 title: Bezbariérová nástupiště tramvajové smyčky
-title2: 'Obřany, Babická'
+title2: "Obřany, Babická"
 subtitle: "Jakým způsobem lze vyřešit, aby i\_tramvajová smyčka mohla být bezbariérová?"
 story: >
   Je horké léto, Milan sedí na zahrádce své oblíbené hospody v brněnských
@@ -16,7 +17,7 @@ story: >
   jim vlastně nabízely tři možnosti: za první vystoupit na některé z dřívějších
   bezbariérových zastávek, za druhé dorazit do Obřan autem (je však nutné mít k
   autu přístup a na místě pak ještě vyřešit parkování) a za třetí se na
-  projížďku vůbec nevydávat, což je ale nejméně radostná varianta.     
+  projížďku vůbec nevydávat, což je ale nejméně radostná varianta.
 analysis: >
   Výrazná většina tramvajových smyček není bezbariérová.
 
@@ -56,7 +57,7 @@ after:
   source: vlastní foto
 timeline:
   - parts: 3
-    time: '2010'
+    time: "2010"
     name: začátek rekonstrukce tramvajových zastávek do bezbariérové podoby
   - parts: 1
     time: květen 2018
