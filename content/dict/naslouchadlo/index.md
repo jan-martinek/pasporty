@@ -1,4 +1,4 @@
 ---
-title: naslouchadlo
+title: sluchadlo
 ---
 text
