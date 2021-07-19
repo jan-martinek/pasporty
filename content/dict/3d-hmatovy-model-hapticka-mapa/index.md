@@ -1,4 +1,4 @@
 ---
-title: 3D hmatový model / haptická mapa
+title: 3D hmatový model
 ---
 modeluje a mapuje
