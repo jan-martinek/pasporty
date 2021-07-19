@@ -1,4 +1,4 @@
 ---
 title: zabudovaná indukční smyčka
 ---
-text
+text a text
