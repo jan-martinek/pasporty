@@ -70,5 +70,6 @@ timeline:
   - parts: 1
 dictionary:
   - sluchadlo
+  - přenosná indukční smyčka
   - zabudovaná indukční smyčka
 ---
