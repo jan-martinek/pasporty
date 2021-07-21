@@ -155,7 +155,7 @@ collections:
       - label: Status
         name: status
         default: příprava
-        widget: list
+        widget: select
         options: ["příprava", "napsáno", "hotovo"]
       - {
           label: Velmi krátká definice (uvnitř pasportu),
