@@ -14,6 +14,8 @@
     {{ end }}
 
     <h2 id="slovnicek">Slovníček</h2>
+    <p><a href="{{ "/dict/" | absURL }}">všechna hesla na jedné stránce</a></p>
+
     <ul>
       {{ range sort (where (where .Site.Pages "Section" "dict") "Kind" "page") "Title" }}
         <li><a href="{{ .Permalink }}">{{ .Title }}</a>

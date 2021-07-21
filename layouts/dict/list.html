@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+  <p><a href="/">&larr; zpět na home</a></p>
+
+  <h1>{{ .Title }}</h1>
+
+  {{ range .Pages }}
+
+    <h2>{{ .Title }}
+
+     {{ with .Params.status }}
+        {{ if eq . "příprava" }}<span style="color: red">●</span>{{ end }}
+        {{ if eq . "napsáno" }}<span style="color: orange">●</span>{{ end }}
+        {{ if eq . "hotovo" }}<span style="color: green">●</span>{{ end }}
+
+        <span style="color: gray">{{ . }}</span>
+      {{ end }}
+    </h2>
+
+    {{ with .Params.short }}
+      <h3>Krátká definice ({{ len . }} znaků)</h3>
+
+      {{ partial "md-block.html"  . }}
+    {{ end }}
+
+    <h3>Knižní definice</h3>
+    {{ .Content }}
+    <hr>
+  {{ end }}
+
+{{ end }}
