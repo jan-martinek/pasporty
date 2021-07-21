@@ -5,4 +5,19 @@
       </h2>
       <p>{{ .Params.subtitle }}</p>
     {{ end }}
+
+    <h2 id="slovnicek">Slovníček</h2>
+    <ul>
+      {{ range sort (where (where .Site.Pages "Section" "dict") "Kind" "page") "Title" }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ with .Params.status }}
+          {{ if eq . "příprava" }}<span style="color: red">●</span>{{ end }}
+          {{ if eq . "napsáno" }}<span style="color: orange">●</span>{{ end }}
+          {{ if eq . "hotovo" }}<span style="color: green">●</span>{{ end }}
+
+          <span style="color: gray">{{ . }}</span>
+        {{ end }}
+      </li>
+      {{ end }}
+    </ul>
 {{ end }}

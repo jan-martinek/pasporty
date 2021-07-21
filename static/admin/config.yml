@@ -152,4 +152,14 @@ collections:
       preview: false
     fields:
       - { label: Název hesla, name: title, widget: string }
-      - { label: Definice, name: body, widget: markdown }
+      - label: Status
+        name: status
+        default: příprava
+        widget: list
+        options: ["příprava", "napsáno", "hotovo"]
+      - {
+          label: Velmi krátká definice (uvnitř pasportu),
+          name: short,
+          widget: text,
+        }
+      - { label: Definice (kniha), name: body, widget: markdown }

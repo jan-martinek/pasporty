@@ -1,1 +1,21 @@
-{{ define "main" }} {{ end }}
+{{ define "main" }}
+  <p><a href="/#slovnicek">&larr; zpět na home</a></p>
+  <h1>{{ .Title }}</h1>
+
+   <p>{{ with .Params.status }}
+      {{ if eq . "příprava" }}<span style="color: red">●</span>{{ end }}
+      {{ if eq . "napsáno" }}<span style="color: orange">●</span>{{ end }}
+      {{ if eq . "hotovo" }}<span style="color: green">●</span>{{ end }}
+
+      <span style="color: gray">{{ . }}</span>
+    {{ end }}</p>
+
+  {{ with .Params.short }}
+    <h2>Krátká definice ({{ len . }} znaků)</h2>
+
+    {{ partial "md-block.html"  . }}
+  {{ end }}
+
+  <h2>Knižní definice</h2>
+  {{ .Content }}
+{{ end }}
