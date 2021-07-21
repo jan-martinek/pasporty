@@ -1,4 +1,7 @@
 ---
-title: Braillovo písmo
+title: "Braillovo písmo"
+status: napsáno
+short: "Braillovo písmo je speciální způsob zápisu textu, určený pro osoby nevidomé a slabozraké, který se čte pomocí hmatu. Písmo bylo vynalezeno francouzským učitelem Louisem Braillem. Znaky Braillova písma jsou složeny z šesti bodů uspořádaných do obdélníku v rozestavení 2 x 3, obdobně jako na hrací kostce. V každém z těchto šesti bodů je pak možno umístit buď vyvýšenou tečku nebo prázdné místo. Celkem lze tímto způsobem utvořit 64 jedinečných znaků, kdy znak o 6 prázdných bodech vyjadřuje mezeru. "
 ---
-písmuje
+
+Braillovo písmo je systém čtení a psaní pomocí dotyku, který používají osoby nevidomé i slabozraké. Skládá se z uspořádání teček, které tvoří písmena abecedy, čísla a interpunkční znaménka. Základní symbol Braillova písma, nazývaný Braillova buňka, se skládá ze šesti teček uspořádaných do tvaru obdélníku – tří teček vertikálně a dvou horizontálně. Braillovo (slepecké) písmo tedy používá šestibodové buňky. Každý znak je tvořen určitou kombinací těchto vypouklých bodů. Celkem lze tímto způsobem utvořit 64 jedinečných znaků, kdy znak o 6 prázdných bodech vyjadřuje mezeru. Braillovo písmo poskytuje prostředek gramotnosti a dává nevidomému jednotlivci možnost seznámit se s pravopisem, interpunkcí a obecně textem. Pro tisk dokumentů se využívá tzv. Pichtův psací stroj nebo speciální tiskárny. Problémem Braillova písma je nejednotnost systému (různé země používají různé normy), ale i nároky na prostor – běžně na jedné straně A4 zaznamenáme 4-5 tisíc znaků, nicméně při použití Braillovy abecedy se na straně A4 zaznamená 800–900 znaků.
