@@ -1,7 +1,14 @@
 {{ define "main" }}
-    {{ range sort (where (where .Site.Pages "Section" "pasport") "Kind" "page") "Params.number" }}
+    {{ range sort (where (where (where .Site.Pages "Section" "pasport") "Kind" "page") "Params.number" ">" 0) "Params.number" "asc" }}
       <h2>
-        <a href="{{ .RelPermalink }}">{{ .Params.number }} {{ .Title }}{{- with .Params.title2 }}:<br> <span class="more">{{ . }}</span> {{ end }}</a>
+        {{ .Params.number }} <a href="{{ .RelPermalink }}">{{ .Title }}{{- with .Params.title2 }}:<br> <span class="more">{{ . }}</span> {{ end }}</a>
+      </h2>
+      <p>{{ .Params.subtitle }}</p>
+    {{ end }}
+
+    {{ range sort (where (where (where .Site.Pages "Section" "pasport") "Kind" "page") "Params.number" "!=" "") "Title" }}
+      <h2>
+        # <a href="{{ .RelPermalink }}">{{ .Title }}{{- with .Params.title2 }}:<br> <span class="more">{{ . }}</span> {{ end }}</a>
       </h2>
       <p>{{ .Params.subtitle }}</p>
     {{ end }}
