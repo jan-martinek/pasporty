@@ -57,10 +57,10 @@ conclusion: >-
 
   O pronájem bytu v celoměstském zájmu si může zažádat každý spolek.
 
-  O byty lze žádat opakovaně. Je tedy možné pro jeden spolek získat více bytů pro své klienty.
+  O byty lze žádat opakovaně. Je tedy možné pro jeden spolek získat více bytů pro své klienty. 
 
 
-  Jelikož byt funguje jako startovací, tedy na dobu časově omezenou, budou se i jeho nájemci sami potýkat s procesem hledání bydlení. Toto opatření tedy samotnou komunikační bariéru zcela neodstraní, ale alespoň umožní proces hledání dlouhodobého bydlení oddálit a poskytne dotyčným dostatek času pro nalezení vhodného ubytování.
+  Jelikož byt funguje jako startovací, tedy na dobu časově omezenou, budou se jeho nájemci nadále potýkat s procesem hledání bydlení. Toto řešení umožní alespoň proces hledání dlouhodobého bydlení oddálit a poskytne dotyčným dostatek času pro nalezení vhodného ubytování.
 before:
   source: "Archiv: S Sváčkové?"
   name: pred.jpg
