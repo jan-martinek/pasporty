@@ -7,13 +7,13 @@ subtitle: Proč a jak je pro neslyšící a nedoslýchavé problematické shán�
 story: >-
   Každý, kdo se v posledních letech snažil sehnat byt v Brně, ví, že to není
   snadné. Na trhu je bytů málo a při telefonickém rozhovoru po hodině od
-  zveřejnění inzerátů se od realitního makléře dozvíte, že jste již 40.
-  volající. Jirka a Maria mají situaci ale mnohem složitější. Jsou totiž
-  neslyšící. Je rok 2018, a pár se potřebuje přestěhovat blíže práci. Hledání
-  podnájmu je pro ně ale značně komplikované. Jirka od narození neslyší, běžně
-  se tedy dorozumívá českým znakovým jazykem a v psané češtině má mezery. Jeho
-  partnerka pochází ze zahraničí, vzájemně komunikují mezinárodním znakovým
-  systémem, a s kontaktováním realitní kanceláře mu tedy nemůže pomoci. 
+  zveřejnění inzerátů se od realitního makléře dozvíte, že už pozdě. Jirka a
+  Maria mají situaci ale mnohem složitější. Jsou totiž neslyšící. Je rok 2018, a
+  pár se potřebuje přestěhovat blíže práci. Hledání podnájmu je pro ně ale
+  značně komplikované. Jirka od narození neslyší, běžně se tedy dorozumívá
+  českým znakovým jazykem a v psané češtině má mezery. Jeho partnerka pochází ze
+  zahraničí, vzájemně komunikují mezinárodním znakovým systémem, a s
+  kontaktováním realitní kanceláře mu nemůže pomoci. 
 
   Hledání bytů je dlouhotrvající proces i pro osoby bez jakéhokoliv postižení, ale pro neslyšící je to opravdová zátěž. Komunikace s realitními kancelářemi, která je odkázaná na psaní e-mailů, často ústí v obsazení bytu těmi, kteří si domluvili prohlídku dříve skrze telefonický hovor. Jirka telefonicky s realitní kanceláří pochopitelně komunikovat nemůže a než pošle kostrbatý e-mail, předběhnou jej řady volajících. I když se mu složitě podaří domluvit prohlídku bytu, je složité se s makléřem domluvit. Ke každé prohlídce si musí zvát na pomoc tlumočníka, což je finančně náročné. Také jej mrzí, když makléř mluví pouze s tlumočníkem a Jirku ignoruje, jakoby tam nebyl. Hledání bytů tak zůstává pro komunitu neslyšících značně frustrující.
 analysis: >-
