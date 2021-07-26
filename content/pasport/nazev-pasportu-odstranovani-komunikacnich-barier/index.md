@@ -10,12 +10,11 @@ story: >-
   telefonickém rozhovoru po hodině od zveřejnění inzerátů se od realitního
   makléře dozvíte, že jste již 40. volající. Jirka a Maria mají situaci ale
   mnohem složitější. Jsou totiž neslyšící. Je rok 2018, a pár se potřebuje
-  přestěhovat blíže práci a do vhodnějšího bytu. Hledání podnájmu je pro ně ale
-  značně komplikované. Jirka od narození neslyší, běžně se tedy dorozumívá
-  českým znakovým jazykem a v psané češtině má mezery. Někteří jeho známí
-  neslyšící dokonce psanou češtinu neovládají vůbec. Jeho partnerka pochází ze
-  zahraničí, vzájemně komunikují mezinárodním znakovým systémem, a s
-  kontaktováním realitní kanceláře mu tedy nemůže pomoci. 
+  přestěhovat blíže práci. Hledání podnájmu je pro ně ale značně komplikované.
+  Jirka od narození neslyší, běžně se tedy dorozumívá českým znakovým jazykem a
+  v psané češtině má mezery. Jeho partnerka pochází ze zahraničí, vzájemně
+  komunikují mezinárodním znakovým systémem, a s kontaktováním realitní
+  kanceláře mu tedy nemůže pomoci. 
 
   Hledání bytů je dlouhotrvající proces i pro osoby bez jakéhokoliv postižení, ale pro neslyšící je to opravdová zátěž. Komunikace s realitními kancelářemi, která je odkázaná na psaní e-mailů, často ústí v obsazení bytu těmi, kteří si domluvili prohlídku dříve skrze telefonický hovor. Jirka telefonicky s realitní kanceláří pochopitelně komunikovat nemůže a než pošle kostrbatý e-mail, předběhnou jej řady volajících. I když se mu složitě podaří domluvit prohlídku bytu, je složité se s makléřem domluvit. Ke každé prohlídce si musí zvát na pomoc tlumočníka, což je finančně náročné. Také jej mrzí, když makléř mluví pouze s tlumočníkem a Jirku ignoruje, jakoby tam nebyl. Hledání bytů tak zůstává pro komunitu neslyšících značně frustrující.
 analysis: >-
@@ -46,16 +45,23 @@ solution: >-
 
   Byt je primárně určen lidem se sluchovým postižením, kteří jsou členové či zaměstnanci Unie neslyšících a kteří splní i další podmínky stanovené spolkem. Jelikož je byt zamýšlen jako startovací, měl by být poskytnut nájemcům po dobu dvou let a následně předán dalším nájemcům.
 constraints: >-
-  Unie neslyšících na sebe přebírá zodpovědnost za byt 
+  Unie neslyšících na sebe přebírá zodpovědnost za byt.
+
 
   Jeden byt neřeší problém pro velké množství sluchově postižených, kteří jsou znevýhodněni na trhu s nemovitostmi z výše popsaných důvodů. 
 
-  V případě přidělení konkrétního bytu spolku nemohou další noví podnájemci nijak ovlivňovat polohu bytu v rámci města a jiné charakteristiky bytu.
+
+  V případě přidělení konkrétního bytu spolku nemohou další noví podnájemci nijak ovlivňovat polohu bytu v rámci města a jiné charakteristiky bytu. 
+
+
+  Startovací byty
 conclusion: >-
   Pronájem městského bytu Unii neslyšících snižuje komunikační bariéru při
   hledání bydlení.
 
+
   O pronájem bytu v celoměstském zájmu si může zažádat každý spolek.
+
 
   O byty lze žádat opakovaně. Je tedy možné pro jeden spolek získat více bytů pro své klienty. 
 
