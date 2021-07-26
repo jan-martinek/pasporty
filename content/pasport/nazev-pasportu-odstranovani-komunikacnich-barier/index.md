@@ -53,7 +53,7 @@ constraints: >-
   V případě přidělení konkrétního bytu spolku nemohou další noví podnájemci nijak ovlivňovat polohu bytu v rámci města a jiné charakteristiky bytu. 
 
 
-  Startovací byty
+  Startovací byty jsou pouze na dobu časově omezenou. Nájemníci se budou i nadále potýkat s procesem hledání bydlení
 conclusion: >-
   Pronájem městského bytu Unii neslyšících snižuje komunikační bariéru při
   hledání bydlení.
@@ -65,7 +65,7 @@ conclusion: >-
   O byty lze žádat opakovaně. Je tedy možné pro jeden spolek získat více bytů pro své klienty. 
 
 
-  Jelikož byt funguje jako startovací, tedy na dobu časově omezenou, budou se jeho nájemci nadále potýkat s procesem hledání bydlení. Toto řešení umožní alespoň proces hledání dlouhodobého bydlení oddálit a poskytne dotyčným dostatek času pro nalezení vhodného ubytování.
+  Toto řešení umožní alespoň proces hledání dlouhodobého bydlení oddálit a poskytne dotyčným dostatek času pro nalezení vhodného ubytování.
 before:
   source: "Archiv: S Sváčkové?"
   name: pred.jpg
