@@ -11,11 +11,11 @@ story: >-
   Maria mají situaci ale mnohem složitější. Jsou totiž neslyšící. Je rok 2018, a
   pár se potřebuje přestěhovat blíže práci. Hledání podnájmu je pro ně ale
   značně komplikované. Jirka od narození neslyší, běžně se tedy dorozumívá
-  českým znakovým jazykem a v psané češtině má mezery. Jeho partnerka pochází ze
+  českým znakovým jazykem a v psané češtině má mezery. Jeho partnerka je ze
   zahraničí, vzájemně komunikují mezinárodním znakovým systémem, a s
   kontaktováním realitní kanceláře mu nemůže pomoci. 
 
-  Hledání bytů je dlouhotrvající proces i pro osoby bez jakéhokoliv postižení, ale pro neslyšící je to opravdová zátěž. Komunikace s realitními kancelářemi, která je odkázaná na psaní e-mailů, často ústí v obsazení bytu těmi, kteří si domluvili prohlídku dříve skrze telefonický hovor. Jirka telefonicky s realitní kanceláří pochopitelně komunikovat nemůže a než pošle kostrbatý e-mail, předběhnou jej řady volajících. I když se mu složitě podaří domluvit prohlídku bytu, je složité se s makléřem domluvit. Ke každé prohlídce si musí zvát na pomoc tlumočníka, což je finančně náročné. Také jej mrzí, když makléř mluví pouze s tlumočníkem a Jirku ignoruje, jakoby tam nebyl. Hledání bytů tak zůstává pro komunitu neslyšících značně frustrující.
+  Hledání bytů je dlouhotrvající proces i pro osoby bez jakéhokoliv postižení, ale pro neslyšící je to opravdová zátěž. Komunikace s realitními kancelářemi, která je odkázaná na psaní e-mailů, často ústí v obsazení bytu těmi, kteří si domluvili prohlídku dříve telefonicky. Jirka telefonicky s realitní kanceláří pochopitelně komunikovat nemůže a než pošle kostrbatý e-mail, předběhnou jej řady volajících. I když se mu složitě podaří domluvit prohlídku bytu, je složité se s makléřem domluvit. Ke každé prohlídce si musí zvát na pomoc tlumočníka, což je finančně náročné. Také jej mrzí, když makléř mluví pouze s tlumočníkem a Jirku ignoruje, jakoby tam nebyl. Hledání bytů tak zůstává pro komunitu neslyšících značně frustrující.
 analysis: >-
   Komunikace s realitními kancelářemi skrze e-maily je zdlouhavá, což
   znevýhodňuje neslyšící v úspěšném shánění bytu 
