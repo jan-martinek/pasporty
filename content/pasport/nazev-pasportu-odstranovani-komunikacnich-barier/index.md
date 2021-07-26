@@ -1,5 +1,5 @@
 ---
-title: "Název pasportu: Odstraňování komunikačních bariér:"
+title: "Odstraňování komunikačních bariér:"
 ready: true
 title2: " Startovací byt Unie neslyšících"
 subtitle: Proč a jak je pro neslyšící a nedoslýchavé problematické shánění
@@ -35,9 +35,29 @@ solution: >-
 
   Byt je primárně určen lidem se sluchovým postižením, kteří jsou členové či zaměstnanci Unie neslyšících a kteří splní i další podmínky stanovené spolkem. Jelikož je byt zamýšlen jako startovací, měl by být poskytnut nájemcům po dobu dvou let a následně předán dalším nájemcům.
 before:
-  source: Autor
+  source: "Archiv: S Sváčkové?"
+  name: pred.jpg
+  alt: Obtížně dostupné bydlení skrze běžné komunikační prostředky
 after:
-  source: Autor
+  source: "Archiv: S Sváčkové?"
+  alt: Dostupné bydlení pro neslyšící a nedoslýchavé
+  name: po.jpg
 timeline:
   - parts: 1
+    time: Jaro 2018
+    name: Unie neslyšících podává žádost o pronájem bytu v celoměstském zájmu
+  - parts: 1
+    time: Léto 2018
+    name: Rada města Brna schvaluje žádost o poskytnutí městského bytu Unii
+      neslyšících, z.s.
+  - parts: 1
+    time: Podzim 2018
+    name: Probíhá výběr bytu.
+  - parts: 1
+    time: Zima 2018
+    name: Rada města Brna schvaluje pronájem konkrétního bytu v celoměstském zájmu
+      Unii neslyšících. Na bytě se provádí nejnutnější rekonstrukce.
+  - parts: 1
+    time: Jaro 2019
+    name: Podepsání nájemní smlouvy s Unií neslyšících.
 ---
