@@ -92,4 +92,8 @@ timeline:
   - parts: 1
     time: Jaro 2019
     name: Podepsání nájemní smlouvy s Unií neslyšících.
+dictionary:
+  - Byty zvláštního určení
+  - Byty v celoměstském zájmu
+  - Český znakový jazyk
 ---
