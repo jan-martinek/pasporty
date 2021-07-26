@@ -18,6 +18,17 @@ story: >-
   kontaktováním realitní kanceláře mu tedy nemůže pomoci. 
 
   Hledání bytů je dlouhotrvající proces i pro osoby bez jakéhokoliv postižení, ale pro neslyšící je to opravdová zátěž. Komunikace s realitními kancelářemi, která je odkázaná na psaní e-mailů, často ústí v obsazení bytu těmi, kteří si domluvili prohlídku dříve skrze telefonický hovor. Jirka telefonicky s realitní kanceláří pochopitelně komunikovat nemůže a než pošle kostrbatý e-mail, předběhnou jej řady volajících. I když se mu složitě podaří domluvit prohlídku bytu, je složité se s makléřem domluvit. Ke každé prohlídce si musí zvát na pomoc tlumočníka, což je finančně náročné. Také jej mrzí, když makléř mluví pouze s tlumočníkem a Jirku ignoruje, jakoby tam nebyl. Hledání bytů tak zůstává pro komunitu neslyšících značně frustrující.
+analysis: >-
+  Komunikace s realitními kancelářemi skrze e-maily je zdlouhavá, což
+  znevýhodňuje neslyšící v úspěšném shánění bytu 
+
+
+  V případě domluvení prohlídky bytu musí mít neslyšící s sebou překladatele
+
+  Neslyšící a nedoslýchaví mohou být diskriminováni ze strany majitele bytu, který může jejich handicap vnímat jako komplikaci 
+
+
+  Sluchově postižení nemají nárok na byty zvláštního určení, které jsou určené pro pohybově a zrakově postižené.
 design: >-
   Zařazení skupiny sluchově postižených do příjemců bytů zvláštního určení.
 
@@ -34,6 +45,22 @@ solution: >-
   Po diskusích s některými členy Poradního sboru pro bezbariérové Brno se Unie neslyšících rozhodla požádat Radu města Brna o pronájem bytu v celoměstském zájmu, který by byl primárně určen jako startovací byt pro sluchově postižené klienty Unie neslyšících. V srpnu 2018 Rada města tuto žádost schválila. Následně byl vybrán konkrétní byt o velikosti 2+kk v městské části Brno-střed, jehož pronájem byl spolku schválen v lednu r. 2019. V březnu 2019 byla podepsána nájemní smlouva s Unií neslyšících. Poté se na byt nastěhovali první klienti spolku, mladý neslyšící pár. 
 
   Byt je primárně určen lidem se sluchovým postižením, kteří jsou členové či zaměstnanci Unie neslyšících a kteří splní i další podmínky stanovené spolkem. Jelikož je byt zamýšlen jako startovací, měl by být poskytnut nájemcům po dobu dvou let a následně předán dalším nájemcům.
+constraints: >-
+  Unie neslyšících na sebe přebírá zodpovědnost za byt 
+
+  Jeden byt neřeší problém pro velké množství sluchově postižených, kteří jsou znevýhodněni na trhu s nemovitostmi z výše popsaných důvodů. 
+
+  V případě přidělení konkrétního bytu spolku nemohou další noví podnájemci nijak ovlivňovat polohu bytu v rámci města a jiné charakteristiky bytu.
+conclusion: >-
+  Pronájem městského bytu Unii neslyšících snižuje komunikační bariéru při
+  hledání bydlení.
+
+  O pronájem bytu v celoměstském zájmu si může zažádat každý spolek.
+
+  O byty lze žádat opakovaně. Je tedy možné pro jeden spolek získat více bytů pro své klienty.
+
+
+  Jelikož byt funguje jako startovací, tedy na dobu časově omezenou, budou se i jeho nájemci sami potýkat s procesem hledání bydlení. Toto opatření tedy samotnou komunikační bariéru zcela neodstraní, ale alespoň umožní proces hledání dlouhodobého bydlení oddálit a poskytne dotyčným dostatek času pro nalezení vhodného ubytování.
 before:
   source: "Archiv: S Sváčkové?"
   name: pred.jpg
