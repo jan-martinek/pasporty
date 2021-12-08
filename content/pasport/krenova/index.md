@@ -98,5 +98,7 @@ timeline:
   - parts: 2
     time: "2018"
     name: doplněna vyhrazená parkovací stání
-dictionary: []
+dictionary:
+  - oprava
+  - rekonstrukce
 ---
