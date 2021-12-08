@@ -22,7 +22,7 @@ story: >-
   Po 13 letech se v lokalitě již nachází zvýšený nástupní ostrůvek a bezbariérová budova Úřadu práce. V roce 2017 se Dopravní podnik pouští do celkové **rekonstrukce** zastávky na bezbariérovou, městská část Brno-střed dodělává bezbariérové nájezdy a reliéfní dlažbu na přilehlé chodníky a v roce 2018 se na podnět Poradní sboru pro bezbariérové Brno dodělávají i čtyři vyhrazená parkovací stání před Úřadem práce.
 
 
-  Téměř po 10 letech se bezbariérově spojuje 30 metrů dlouhá trasa mezi zastávkou MHD Vlhká a Úřadem práce.
+  Po 15 letech se bezbariérově spojuje 30 metrů dlouhá trasa mezi zastávkou MHD Vlhká a Úřadem práce.
 analysis: >-
   1. Za tuto 30 metrů dlouhou trasu je ve svých částech odpovědno neuvěřitelných
   6 institucí:
