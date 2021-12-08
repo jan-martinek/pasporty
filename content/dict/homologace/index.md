@@ -1,5 +1,5 @@
 ---
-title: Homologace
+title: homologace
 status: hotovo
 short: Homologace je schvalovací proces ve věci ověření vlastností určitého
   výrobku z hlediska přípustnosti jeho použití. Jedná se o byrokraticky náročný
