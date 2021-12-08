@@ -1,5 +1,5 @@
 ---
-title: Rekonstrukce
+title: rekonstrukce
 status: hotovo
 short: Rekonstrukce je výrazný zásah do objektu za účelem jeho zhodnocení, resp.
   vylepšení a rozšíření jeho užívání. Na rozdíl od opravy dochází při
