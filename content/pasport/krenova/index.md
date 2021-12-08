@@ -25,7 +25,7 @@ story: >-
   Po 15 letech se bezbariérově spojuje 30 metrů dlouhá trasa mezi zastávkou MHD Vlhká a Úřadem práce.
 analysis: >-
   1. Za tuto 30 metrů dlouhou trasu je ve svých částech odpovědno neuvěřitelných
-  6 institucí:
+  7 institucí:
 
 
   * Magistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,
@@ -38,7 +38,9 @@ analysis: >-
 
   * Brněnské komunikace a. s.: správa vozovky, chodníků,
 
-  * Dopravní inspektorát Brno: kolaudace dopravních staveb.
+  * Dopravní inspektorát Brno: kolaudace dopravních staveb,
+
+  * Drážní úřad: kolaudace tramvajové trati.
 
 
   2. Je o poznání snazší realizovat část trasy ve správě jedné instituce, než realizovat celou trasu v koordinaci všech institucí.
