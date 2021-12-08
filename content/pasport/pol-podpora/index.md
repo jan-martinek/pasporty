@@ -29,9 +29,9 @@ analysis: >-
 
   4. Využití zámkové dlažby vyhovovalo požadovanému termínu **opravy**, tj. realizaci výmeny povrchu u všech tří nástupišť v období letních prázdnin  (07—08 2017).
 design: >-
-  1. Nutnost konzultace používání reliéfní dlažby v zámkové dlažbě se zástupci
-  Poradního sboru pro bezbariérové Brrno alespoň v těch případech, které nejsou
-  řešeny příslušnými technickými normami.
+  1. Nutnost konzultace používání **reliéfní dlažby** v zámkové dlažbě se
+  zástupci Poradního sboru pro bezbariérové Brrno alespoň v těch případech,
+  které nejsou řešeny příslušnými technickými normami.
 
   2. Systematické získávání politické podpory pro funkční a bezpečná bezbariérová řešení alespoň v případech úprav realizovaných městem, městskými částmi či městskými firmami.
 
@@ -41,13 +41,13 @@ design: >-
 solution: >-
   Tento případ ukázal, že v Brně v létě 2017 již existovala poměrně
   stabilizovaná síť lidí vnímající bezbariérovost jako důležité téma a to včetně
-  politických zástupců. Zveřejnění fotografií na Facebookové osobní stránce
+  politických zástupců. Zveřejnění fotografií na osobní facebookové stránce
   expertky na bezbariérovost strhlo poměrně rychlou vlnu podpory a to i z
   poměrně vysokých politických pozic jak příslušné městské části (místostarostka
   MČ Brno-střed), tak i Magistrátu města Brna (3. náměstek primátora města).
 
 
-  Díky této širší politické podpoře bylo možné nalézt způsob velmi rychlého řešení, jímž se stalo opětovné předláždění středového nástupního ostrůvku dle původně zpracovaného návrhu zaslaného na začátku příběhu Dopravnímu podniku města Brna.
+  Díky této širší politické podpoře bylo možné nalézt způsob velmi rychlého řešení, jímž se stalo nakreslení umělých **vodících linií**, jejich schválení expertkou v oblasti bezbariérovosti a opětovné předláždění středového nástupního ostrůvku na náklady Dopravního podniku města Brna.
 constraints: >-
   Největším rizikem je absence politických zástupců, kteří by téma
   bezbariérovosti rozpoznali jako politicky zajímavé. Značným omezením může být
@@ -70,12 +70,28 @@ conclusion: >-
   > Oprava chybné realizace (nefunkční či nebezpečné) je téměř nemožná bez politické podpory.
 before:
   name: 20245542_1453019171400805_7748109207219280471_n.jpg
-  alt: Reliéfní dlažba vedená skrze mobiliář
+  alt: Reliéfní dlažba vedená skrz mobiliář
   source: Robert Osman
 after:
   name: after.jpg
-  alt: Reliéfní dlažba vededná podél nástupní hrany ostrůvku
+  alt: Reliéfní dlažba vededná podél nástupních hran středového ostrůvku
   source: Robert Osman
+timeline:
+  - parts: 1
+    time: 1. 3. 2017
+    name: jednání na MČ, návrh výměny asfaltového povrchu, žádné jiné úpravy
+  - parts: 1
+    time: 30. 3. 2017
+    name: zpracován návrh realizovatelných bezbariérových úprav
+  - parts: 1
+    time: 19. 7. 2017
+    name: zvařejnění fotek na osobním facebooku
+  - parts: 1
+    time: 20. 7. 2017
+    name: jednání přímo na stavbě
+  - parts: 1
+    time: 30. 9. 2017
+    name: umělé vodící linie předlážděny podél nástupních hran středového ostrůvku
 dictionary:
   - reliéfní dlažba
   - vodicí linie
