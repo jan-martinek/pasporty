@@ -6,19 +6,19 @@ title2: přednádraží, Brno
 subtitle: Jak při výměně asfaltového povrchu za zámkovou dlažbu mohou vzniknout
   orientační prvky, které jsou pro osoby se zrakovým znevýhodněním nevyužitelné
   a nebezpečné?
-story: >
-  Prostor před brněnským hlavním železničním nádražím je dlouhodobým předmětem
+story: >-
+  Prostor před hlavním brněnským železničním nádražím je dlouhodobým předmětem
   zájmu všech politických stran a hnutí bez ohledu na jejich vztah k nekonečné
   otázce přesunu nádraží. 
 
 
-  Ve středu 1. 3. 2017 tak proběhne projednání o opravě nástupních ostrůvků na městské části Brno-střed, kterého se účastní i členka právě vzniklého Poradního sboru pro bezbariérové Brno Ing. Milena Antonovičová. Z jednání vyplyne, že půjde pouze o výměnu asfaltového povrchu nástupních ostrůvků a Ing. Milena Antonovičová připraví návrh možných bezbariérových úprav, které by bylo možné v rámci této opravy (stavebně udržovacích prací) realizovat.
+  Ve středu 1. 3. 2017 proběhlo jednání o opravě nástupních ostrůvků tohoto důležitého přestupního uzlu, kterého se účastní i expertka v obasti bezbariérovosti a členka nově vzniklého Poradního sboru pro bezbariérové Brno. Z jednání vyplyne, že půjde pouze o výměnu asfaltového povrchu nástupních ostrůvků a zmíněná expertka připraví návrh možných bezbariérových úprav, které by bylo možné v rámci této **opravy** realizovat.
 
 
-  Návrh je po konzultaci se zástupci Tyflocentra a Tyfloservisu v průběhu března vypracován a odeslán na DPMB. Po čtyřech měsících 19. 7. 2017 po návratu z dovolené se Ing. Milena Antonovičová vrací do přednádražního prostoru, kde právě dochází k opravě všech tří nástupních ostrůvků. Zatímco středový je již opraven, oba krajní mají teprve následovat. Středový ostrůvek nicméně nemá avizovaný asfaltový povrch, ale je vydlážděn zámkovou dlažbou s orientačními prvky pro osoby nevidomé.
+  Návrh je ve spolupráci se zástupci Tyflocentra a Tyfloservisu v průběhu března vypracován a odeslán Dopravnímu podniku města Brna. Po čtyřech měsících 19. 7. 2017, když vrcholí **oprava** tří nástupních ostrůvků přednádražního prostoru se naše expertka ocitá v přednádražním prostoru v roli náhodné uživatelky. Zjišťuje, že zatímco středový ostrůvek je již opraven, oba krajní ostrůvky **oprava** teprve čeká. Středový ostrůvek nicméně nemá avizovaný asfaltový povrch, ale je vydlážděn **reliéfní dlažbou** pro osoby se zrakovým znevýhodněním. Realizovaná řešení nicméně nejsou pro osoby se zrakovým znevýhodněním použitelná. Expertka **reliéfní dlažbu** vyfotí a umístí s komentářem na svůj osobní Facebook.
 
 
-  Nicméně realizovaná řešení nejsou použitelná. Ing. Milena Antonovičová nevhodné prvky vyfotí a umístí s komentářem na svůj osobní Facebook. Otázky rozlišující signální a naváděcí dlažbu, jejich kombinace či ukončení mohou někomu připadat příliš akademické, ale i široká laická veřejnost si povšimne pruhu naváděcí reliéfní dlažby procházející přes veškerý přítomný mobiliář (cedule, odpadkové koše, lavičky, přístřešky).
+  Rozlišování termínů jako jsou umělá **vodící linie**, **signální pás** nebo **varovný pás** mohou někomu připadat příliš akademické, ale i široká veřejnost si povšimne **reliéfní dlažby** navádějící do nově osazeného mobiliář (cedule, odpadkové koše, lavičky, přístřešky).
 analysis: >
   1) Technická norma zabý-vající se problematikou zastávek ČSN 73 6425-1 řešení
   pro středový ostrůvek s oboustrannými zastávkami neuvádí.
@@ -71,12 +71,12 @@ conclusion: >
 
   > Přiznání chybné realizace (nefunkční či nebezpečné) je téměř nemožné bez politické podpory.
 before:
-  name: before.jpg
-  alt: Naváděcí dlažba vedená skrze mobiliář
+  name: 20245542_1453019171400805_7748109207219280471_n.jpg
+  alt: Reliéfní dlažba vedená skrze mobiliář
   source: Robert Osman
 after:
   name: after.jpg
-  alt: Opravená naváděcí dlažba
+  alt: Reliéfní dlažba vededná podél nástupní hrany ostrůvku
   source: Robert Osman
 dictionary:
   - reliéfní dlažba
