@@ -87,7 +87,7 @@ timeline:
     parts: 2
     time: "2003"
   - name: začíná rekonstrukce Úřadu práce
-    parts: 11
+    parts: 4
     time: 2014
   - name: přístupný Úřad práce
     parts: 2
