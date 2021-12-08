@@ -91,7 +91,7 @@ before:
   source: https://upload.wikimedia.org/wikipedia/commons/b/b2/Bus_station_Brno_Grand_in_night_1.jpg
 after:
   name: grand_foto_po.jpg
-  source: Archiv P. Doboše
+  source: Pavel Doboš
 timeline:
   - parts: 1
     time: "2014"
