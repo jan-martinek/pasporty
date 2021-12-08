@@ -84,7 +84,7 @@ timeline:
     name: "Začátek rekonstrukce lávky "
   - parts: 1
     time: duben 2020
-    name: Konec rekonstrukce a spuštění provozu
+    name: Konec rekonstrukce a spuštění provozu zastávky
 links:
   - link: https://www.dpmb.cz/cs/download/1106
     description: Bezbariérové tramvajové zastávky DPMB
