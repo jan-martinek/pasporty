@@ -28,45 +28,46 @@ analysis: >-
   3. Jednalo se o pouze o výměna povrchů v rámci režimu **opravy** bez projektové dokumentace.
 
   4. Využití zámkové dlažby vyhovovalo požadovanému termínu **opravy**, tj. realizaci výmeny povrchu u všech tří nástupišť v období letních prázdnin  (07—08 2017).
-design: >
-  1) Nutnost konzultace vkládání orientačních prvků pro nevidomé do zámkové
-  dlažby se zástupci PSpBB alespoň v těch případech, které nejsou řešeny
-  příslušnými technickými normami.
+design: >-
+  1. Nutnost konzultace používání reliéfní dlažby v zámkové dlažbě se zástupci
+  Poradního sboru pro bezbariérové Brrno alespoň v těch případech, které nejsou
+  řešeny příslušnými technickými normami.
+
+  2. Systematické získávání politické podpory pro funkční a bezpečná bezbariérová řešení alespoň v případech úprav realizovaných městem, městskými částmi či městskými firmami.
+
+  3. Medializace špatných (nefunkčních či nebezpečných) bezbariérových řešení s podrobným vysvětlením, v čem přesně chyba spočívá.
+
+  4. Medializace dobrých (funkčních a bezpečných) bezbariérových řešení.
+solution: >-
+  Tento případ ukázal, že v Brně v létě 2017 již existovala poměrně
+  stabilizovaná síť lidí vnímající bezbariérovost jako důležité téma a to včetně
+  politických zástupců. Zveřejnění fotografií na Facebookové osobní stránce
+  expertky na bezbariérovost strhlo poměrně rychlou vlnu podpory a to i z
+  poměrně vysokých politických pozic jak příslušné městské části (místostarostka
+  MČ Brno-střed), tak i Magistrátu města Brna (3. náměstek primátora města).
 
 
-  2) Systematické získávání politické podpory pro funkční a bezpečná bezbariérová řešení alespoň v případech úprav realizovaných městem, městskými částmi či městskými formami.
-
-
-  3) Medializace špatných (nefunkčních či nebezpečných) bezbariérových řešení s podrobným vysvětlením, v čem přesně chyba spočívá.
-solution: >
-  Daná situace proběhla společně se vznikem PSpBB, kdy již začínala fungovat
-  prvotní síť kontaktů. Klíčovým prvkem v tomto řešení hrál tlak přímo ze strany
-  politiků.
-
-
-  Ing. Antonovičová již nevystupovala v roli jakési nezávislé osoby bez institucionálního ukotvení, ale byla členkou poradního sboru. Tomu předsedal Mgr. Petr Hladík, 1. náměstek primátora (KDU-ČSL). Proti této konkrétní realizaci vystoupila Mgr. Jasna Flamiková, 3. místostarostka MČ Brno-střed (SZ) a nakonec k urychlené nápravě vyzval i Bc. Matěj Hollan, 3. náměstek primátora města (Žít Brno).
-
-
-  Díky této širší politické podpoře bylo možné velmi nalézt způsob velmi rychlého řešení, jímž se stalo opětovné předláždění středového nástupního ostrůvku
-constraints: >
+  Díky této širší politické podpoře bylo možné nalézt způsob velmi rychlého řešení, jímž se stalo opětovné předláždění středového nástupního ostrůvku dle původně zpracovaného návrhu zaslaného na začátku příběhu Dopravnímu podniku města Brna.
+constraints: >-
   Největším rizikem je absence politických zástupců, kteří by téma
   bezbariérovosti rozpoznali jako politicky zajímavé. Značným omezením může být
   odlišná politická reprezentace na úrovni magistrátu a městských částí. 
 
 
-  Rizikem je též podpora pouze jednoho politického uskupení. V případě voleb do obecních zastupitelstev v roce 2018 tak neobhájili svůj mandát na magistrátní úrovni hned dvě ze zmíněných uskupení (SZ a Žít Brno) a kontinuitu politické podpory tématu bezbariérovosti, tak aktuálně na této úrovni zajišťuje pouze KDU-ČSL.
-conclusion: >
-  Zákony, vyhlášky a normy nejsou schopny pokrýt různorodost možných situací. Je
-  tak vhodné konzultovat tato řešení s odborníky na téma bezbariérovosti.
+  Rizikem je též podpora pouze jednoho politického uskupení. V případě voleb do obecních zastupitelstev v roce 2018 tak neobhájili svůj mandát na magistrátní úrovni hned dvě ze zmíněných uskupení (SZ a Žít Brno).
+conclusion: >-
+  Zákony, vyhlášky a normy nejsou schopny pokrýt různorodost všech možných
+  situací. Je tak vhodné konzultovat připravované realizace s odborníky na
+  problematiku bezbariérovosti.
 
 
-  Konzultace se vždy vyplatí před samotnou stavbou a to především ekonomicky.
+  Konzultace před samotnou realizací se vždy vyplatí a to především ekonomicky.
 
 
-  Konzultace až v případě nápravy chyb si vždy vyžádá zvýšení nákladů v podobě jejich oprav.
+  Konzultace až v případě nápravy chyb si vždy vyžádá zvýšení nákladů na jejich opravy.
 
 
-  > Přiznání chybné realizace (nefunkční či nebezpečné) je téměř nemožné bez politické podpory.
+  > Oprava chybné realizace (nefunkční či nebezpečné) je téměř nemožná bez politické podpory.
 before:
   name: 20245542_1453019171400805_7748109207219280471_n.jpg
   alt: Reliéfní dlažba vedená skrze mobiliář
