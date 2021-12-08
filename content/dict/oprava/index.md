@@ -1,5 +1,5 @@
 ---
-title: Oprava
+title: oprava
 status: hotovo
 short: Oprava je technologický postup, kterým se opotřebovaná nebo jinak
   poškozená věc vrátí do původního, resp. použitelného stavu. Oprava může
