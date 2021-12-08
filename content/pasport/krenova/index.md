@@ -38,9 +38,9 @@ analysis: >-
 
   * Brněnské komunikace a. s.: správa vozovky, chodníků,
 
-  * Dopravní inspektorát Brno: kolaudace dopravních staveb,
+  * Policie ČR Dopravní inspektorát Brno - dotčený orgán státní správy ve věci bezpečnosti dopravy,
 
-  * Drážní úřad: kolaudace tramvajové trati.
+  * Drážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.
 
 
   2. Je o poznání snazší realizovat část trasy ve správě jedné instituce, než realizovat celou trasu v koordinaci všech institucí.
