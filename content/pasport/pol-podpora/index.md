@@ -74,13 +74,13 @@ before:
   source: Robert Osman
 after:
   name: after.jpg
-  alt: Reliéfní dlažba vededná podél nástupních hran středového ostrůvku
+  alt: Reliéfní dlažba vededná podél nástupní hrany středového ostrůvku
   source: Robert Osman
 timeline:
   - parts: 1
     time: 1. 3. 2017
     name: jednání na MČ, návrh výměny asfaltového povrchu, žádné jiné úpravy
-  - parts: 1
+  - parts: 5
     time: 30. 3. 2017
     name: zpracován návrh realizovatelných bezbariérových úprav
   - parts: 1
