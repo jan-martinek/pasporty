@@ -70,7 +70,7 @@ conclusion: >-
   Každý metr bezbariérové trasy vyžaduje koordinaci velkého počtu nejrůznějších institucí. První případ koordinace bezbariérového celku může trvat velmi dlouho.
 
 
-  I když lze případ ulice Křenové považovat za velmi zdlouhavý, představuje určitý zlom v řešení přístupnosti v Brně. Od tohoto momentu již bylo možné ustavenou platformu využít při koordinaci každého dalšího případu.
+  I když lze případ ulice Křenové považovat za velmi zdlouhavý, představuje určitý zlom v řešení přístupnosti v Brně. Od tohoto momentu již bylo možné ustavenou platformu využít pro koordinaci každého dalšího případu.
 
 
   > Poprvé to trvá, ale má to smysl. Vzniknou spojení, která dříve neexistovala, ale podruhé se již dají využít.
@@ -80,22 +80,22 @@ before:
   source: Robert Osman
 after:
   alt: Nástupní ostrůvek s bezbariérovým přístupem a napojením na přechod
-  name: after.jpg
+  name: img_3551.jpg
   source: Robert Osman
 timeline:
   - name: oprava ulice - zvýšení nástupního ostrůvku
-    parts: 11
+    parts: 2
     time: "2003"
   - name: začíná rekonstrukce Úřadu práce
-    parts: 2
+    parts: 11
     time: 2014
   - name: přístupný Úřad práce
-    parts: 1
+    parts: 2
     time: 2016
   - name: rekonstrukce ulice - bezbariérové spojení ostrůvku s úřadem
     parts: 1
     time: 2017
-  - parts: 2
+  - parts: 1
     time: "2018"
     name: doplněna vyhrazená parkovací stání
 dictionary:
