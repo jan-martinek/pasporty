@@ -84,7 +84,7 @@ after:
   source: Robert Osman
 timeline:
   - name: oprava ulice - zvýšení nástupního ostrůvku
-    parts: 3
+    parts: 5
     time: "2003"
   - name: začíná rekonstrukce Úřadu práce
     parts: 2
