@@ -1,5 +1,6 @@
 ---
 title: Kolísavá vodní hladina jako bariéra
+ready: true
 title2: Lodní zastávka MHD Hrad veveří
 subtitle: "Jak lépe označovat bezbariérové zastávky MHD vzhledem nepříznivým
   klimatickým podmínkám? "
@@ -75,7 +76,15 @@ after:
   name: brno-podnik.jpg
   alt: Příjezdová lávka po instalaci bezbariérové plošiny
 timeline:
+  - parts: 2
+    time: zaří 2019
+    name: Schválení projektu radou města
+  - parts: 5
+    time: listopad 2019
+    name: "Začátek rekonstrukce lávky "
   - parts: 1
+    time: duben 2020
+    name: Konec rekonstrukce a spuštění provozu
 links:
   - link: https://www.dpmb.cz/cs/download/1106
     description: Bezbariérové tramvajové zastávky DPMB
