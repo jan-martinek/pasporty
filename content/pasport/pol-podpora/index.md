@@ -86,7 +86,7 @@ timeline:
   - parts: 1
     time: 19. 7. 2017
     name: zvařejnění fotek na osobním facebooku
-  - parts: 1
+  - parts: 2
     time: 20. 7. 2017
     name: jednání přímo na stavbě
   - parts: 1
