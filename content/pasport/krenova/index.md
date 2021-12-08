@@ -13,13 +13,13 @@ story: >-
   bezbariérově spojí s přilelými chodníky.
 
 
-  Ostrůvek není podle normy, je v zatáčce, není k němu přechod, Dopravní podnik jej v tomto místě nechce a úprava probíhá v rámci "opravy", nikoliv v rámci "rekonstrukce". 
+  Ostrůvek není podle normy, je v zatáčce, není k němu přechod, Dopravní podnik jej v tomto místě nechce a úprava probíhá v rámci **opravy**, nikoliv v rámci **rekonstrukce**. 
 
 
   V sousední budově Úřadu práce je umístěna agenda dávek pro osoby se zdravotním postižením. V roce 2014 se tato budova začíná rekonstruovat a v roce 2016 se znovu otevírá ve své bezbariérové podobě.
 
 
-  Po sedmi letech tak již je v lokalitě zvýšený tramvajový ostrůvek a bezbariérová budova Úřadu práce. V roce 2017 se Dopravní podnik pouští do celkové přestavby zastávky na bezbariérovou, městská část Brno-střed dodělává bezbariérové nájezdy a reliéfní dlažbu na přilehlé chodníky a v roce 2018 se na podnět Poradní sboru pro bezbariérové Brno dodělávají i čtyři vyhrazená parkovací stání před Úřadem práce.
+  Po 13 letech se v lokalitě již nachází zvýšený nástupní ostrůvek a bezbariérová budova Úřadu práce. V roce 2017 se Dopravní podnik pouští do celkové **rekonstrukce** zastávky na bezbariérovou, městská část Brno-střed dodělává bezbariérové nájezdy a reliéfní dlažbu na přilehlé chodníky a v roce 2018 se na podnět Poradní sboru pro bezbariérové Brno dodělávají i čtyři vyhrazená parkovací stání před Úřadem práce.
 
 
   Téměř po 10 letech se bezbariérově spojuje 30 metrů dlouhá trasa mezi zastávkou MHD Vlhká a Úřadem práce.
@@ -92,11 +92,11 @@ timeline:
   - name: přístupný Úřad práce
     parts: 1
     time: 2016
-  - name: vznik Poradního sboru
+  - name: rekonstrukce ulice - bezbariérové spojení ostrůvku s úřadem
     parts: 1
     time: 2017
   - parts: 2
     time: "2018"
-    name: rekonstrukce ulice - bezbariérové spojení ostrůvku s úřadem
+    name: doplněna vyhrazená parkovací stání
 dictionary: []
 ---
