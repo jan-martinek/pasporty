@@ -19,18 +19,15 @@ story: >-
 
 
   Rozlišování termínů jako jsou umělá **vodící linie**, **signální pás** nebo **varovný pás** mohou někomu připadat příliš akademické, ale i široká veřejnost si povšimne **reliéfní dlažby** navádějící do nově osazeného mobiliář (cedule, odpadkové koše, lavičky, přístřešky).
-analysis: >
-  1) Technická norma zabý-vající se problematikou zastávek ČSN 73 6425-1 řešení
-  pro středový ostrůvek s oboustrannými zastávkami neuvádí.
+analysis: >-
+  1. Technická norma zabývající se problematikou zastávek ČSN 73 6425-1 neuvádí
+  řešení pro středový ostrůvek s oboustrannými zastávkami.
 
+  2. V tomto případě se nejedná pouze o nástupní ostrůvek, ale i o průchozí trasu z podchodu hlavního železničního nádraží směrem do centra města.
 
-  2) V tomto případě se nejedná pouze o nástupní ostrůvek, ale i o průchozí trasu z podchodu.
+  3. Jednalo se o pouze o výměna povrchů v rámci režimu **opravy** bez projektové dokumentace.
 
-
-  3) Využití technologie materiálu (zámkové dlažby), která vyhovovala požadovanému termínu úprav ploch, tj. provést úpravu u všech nástupišť v období letních prázdnin  (07—08 2017).
-
-
-  4) Výměna povrchů v rámci režimu opravy (stavebně udržovacích prací) bez projektové dokumentace.
+  4. Využití zámkové dlažby vyhovovalo požadovanému termínu **opravy**, tj. realizaci výmeny povrchu u všech tří nástupišť v období letních prázdnin  (07—08 2017).
 design: >
   1) Nutnost konzultace vkládání orientačních prvků pro nevidomé do zámkové
   dlažby se zástupci PSpBB alespoň v těch případech, které nejsou řešeny
@@ -80,6 +77,5 @@ after:
   source: Robert Osman
 dictionary:
   - reliéfní dlažba
-  - naváděcí dlažba
-  - signální dlažba
+  - vodicí linie
 ---
