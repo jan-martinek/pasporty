@@ -30,7 +30,7 @@ analysis: >-
 
   * Magistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,
 
-  * MČ Brno-sever: přilehlé chodníky, 
+  * MČ Brno-střed: přilehlé chodníky, 
 
   * Úřad práce České republiky: samotná budova, 
 
