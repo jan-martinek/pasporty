@@ -28,17 +28,17 @@ analysis: >-
   6 institucí:
 
 
-  * Dopravní podnik města Brna (DPMB): samotný ostrůvek, 
-
-  * Úřad práce České republiky: samotná budova, 
+  * Magistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,
 
   * MČ Brno-sever: přilehlé chodníky, 
 
-  * Magistrát města Brna: silnice, přechody,  
+  * Úřad práce České republiky: samotná budova, 
 
-  * Brněnské komunikace a. s.: správa městského majetku, 
+  * Dopravní podnik města Brna (DPMB): správa nástupního ostrůvku, tramvajové tratě,
 
-  * Dopravní inspektorát Brno: kolaudace.
+  * Brněnské komunikace a. s.: správa vozovky, chodníků,
+
+  * Dopravní inspektorát Brno: kolaudace dopravních staveb.
 
 
   2. Je o poznání snazší realizovat část trasy ve správě jedné instituce, než realizovat celou trasu v koordinaci všech institucí.
