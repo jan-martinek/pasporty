@@ -84,13 +84,13 @@ after:
   source: Robert Osman
 timeline:
   - name: oprava ulice - zvýšení nástupního ostrůvku
-    parts: 2
+    parts: 3
     time: "2003"
   - name: začíná rekonstrukce Úřadu práce
-    parts: 4
+    parts: 2
     time: 2014
   - name: přístupný Úřad práce
-    parts: 2
+    parts: 1
     time: 2016
   - name: rekonstrukce ulice - bezbariérové spojení ostrůvku s úřadem
     parts: 1
