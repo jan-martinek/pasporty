@@ -3,8 +3,8 @@ title: Nástup do MHD
 number: 3
 ready: true
 title2: školení řidičů MHD pro jednání s nevidomými cestujícími
-subtitle: Měli bychom se spoléhat na to, že společně s člověkem nevidomým bude
-  nastupovat někdo, kdo rozumí jeho situaci?
+subtitle: Měli bychom se spoléhat na to, že společně s nevidomým člověkem bude
+  nastupovat někdo, kdo rozumí jeho potřebám?
 story: >-
   Píše se rok 2013 a paní Milada jde jako každé ráno na zastávku trolejbusu 25
   na Mendlově náměstí. Na zastávce pravidelně potkává muže s bílou slepeckou
