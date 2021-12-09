@@ -1,9 +1,10 @@
 ---
+title: Nástup do MHD
+number: 3
 ready: true
-title: Vědět, jak se nastupuje do MHD
-title2: Školení řidičů MHD pro jednání s nevidomými cestujícími
-subtitle: Měli bychom se vždy spoléhat na to, že společně s osobou nevidomou
-  bude nastupovat někdo, kdo rozumí její situaci?
+title2: školení řidičů MHD pro jednání s nevidomými cestujícími
+subtitle: Měli bychom se spoléhat na to, že společně s člověkem nevidomým bude
+  nastupovat někdo, kdo rozumí jeho situaci?
 story: >-
   Píše se rok 2013 a paní Milada jde jako každé ráno na zastávku trolejbusu 25
   na Mendlově náměstí. Na zastávce pravidelně potkává muže s bílou slepeckou
@@ -11,13 +12,13 @@ story: >-
   čeká na trolejbus 25.
 
 
-  Paní Milada si povšimla, že Karel vystoupí předními dveřmi a čeká u označníku zastávky. Když přijede trolejbus, Karel aktivuje jeho hlasový majáček, aby se dozvěděl, je-li to číslo 25, a nastoupí předními dveřmi. Jednou ale tato rutina proběhla jinak. Karlův autobus zastavil na zastávce jako druhý v pořadí. Karel vystoupil předními dveřmi, ale nepopošel se postavit k označníku. Když přijel trolejbus, Milada nastoupila, nicméně Karlovi se nastoupit nedařilo, neboť teď před sebou neměl přední dveře. Začal holí oťukávat bok trolejbusu. Milada na něj proto zavolala, kudy se dostane ke dveřím a Karel úspěšně nastoupil. Řidič na něj ale zavolal: „Sakra, chlape, nevíš, že máš stát u označníku?“ Karel se omlouval, že si prý myslel, že u označníku stál, neboť z autobusu vystoupil předními dveřmi a neviděl, že je jinde.
+  Paní Milada si povšimla, že Karel vystoupí předními dveřmi a čeká u **označníku** zastávky. Když přijede trolejbus, Karel aktivuje jeho hlasový majáček (**technologie VPN**), aby se dozvěděl, je-li to linka číslo 25, a případně nastoupí předními dveřmi. Jednou ale tato rutina proběhla jinak. Karlův autobus zastavil na zastávce jako druhý v pořadí za vozem jiné linky. Karel vystoupil předními dveřmi, ale aniž by to tušil, nestál v tomto případě u **označníku**, ale uprostřed nástupiště. Když přijel trolejbus, Milada nastoupila, nicméně Karlovi se nastoupit nedařilo, neboť teď před sebou neměl přední dveře vozu. Začal holí oťukávat bok trolejbusu. Milada na něj proto zavolala, kudy se dostane ke dveřím a Karel úspěšně nastoupil. Pan řidič na něj ale zavolal: „Sakra, chlape, nevíš, že máš stát u označníku?“ Karel se omlouval, že si prý myslel, že u **označníku** stál, neboť z autobusu vystoupil předními dveřmi a neviděl, že je jinde.
 
 
-  Jiný den Karel u označníku stál správně. Když přijel trolejbus, Milada nastoupila, nicméně Karel zůstal stát venku. Řidič se na něj zmateně díval, a když Karel stále nenastupoval, začal zavírat dveře. Milada zastavila řidiče a zavolala ven na Karla, že je tu jeho trolejbus 25. Karel urychleně nastoupil a poté Miladě velmi děkoval za upozornění. Ale že prý trolejbusy jsou dnes tak tiché, že v tom okolním hluku vůbec neslyšel, jak trolejbus přijel.
+  Jiný den Karel u **označníku** stál správně. Když přijel trolejbus, Milada nastoupila, nicméně Karel zůstal stát venku. Řidič se na něj zmateně díval, a když Karel stále nenastupoval, začal zavírat dveře. Milada zastavila řidiče a zavolala ven na Karla, že je tu jeho trolejbus 25. Karel urychleně nastoupil a poté Miladě velmi děkoval za upozornění. Ale že prý trolejbusy jsou dnes tak tiché, že v tom okolním hluku vůbec neslyšel, jak trolejbus přijel.
 analysis: >-
   1. Lidé nevidomí čekající na MHD mají doporučeno, aby stáli u označníku
-  zastávky a nastupovali předními dveřmi.
+  zastávky a nastupovali předními dveřmi vozu.
 
   2. Po vystoupení z vozidla MHD, které přijede jako druhé v pořadí, si mohou mylně myslet, že vystoupili u označníku zastávky.
 
@@ -27,35 +28,40 @@ analysis: >-
 
   5. Mezi tyto vidící lidi patří i řidiči MHD, kteří nemusejí vždy rozumět počínání nevidomého cestujícího.
 
-  6. Znalí vidící cestující ne vždy potkají nevidomého cestujícího v MHD, ale řidiči je potkávají pravidelně.
+  6. Vidící cestující se v MHD nemusejí často setkávat s lidmi nevidomými, ale řidiči se s nimi potkávají pravidelně.
 design: >-
   1. Řidiči by měli mít základní povědomí o tom, co je pro nevidomého
-  cestujícího v MHD specifické.
+  cestujícího v MHD důležité.
 
-  2. Je nutné přesvědčit zodpovědné osoby v dopravním podniku, že k tomu stačí tak málo: seznámit řidiče MHD s problematikou samostatného cestování nevidomých cestujících.
+  2. Seznámit řidiče MHD s problematikou samostatného cestování nevidomých cestujících.
 
-  3. Ideální je nějaký způsob osvětové činnosti pro řidiče MHD, například krátká školení v této problematice.
+  3. Zavést způsob osvětové činnosti pro řidiče MHD, například krátká školení o této problematice.
 solution: >-
   Pracovníci brněnského TyfloCentra řešili časté stížnosti nevidomých
   cestujících na řidiče MHD, způsobené nedorozuměními mezi oběma skupinami.
   Proto odborník na bezbariérovost z Tyflocentra Dopravnímu podniku města Brna
-  nabízel, že řidiče MHD seznámí s problematikou samostatného cestování
+  nabídl, že řidiče MHD seznámí s problematikou samostatného cestování
   nevidomých osob v MHD i se způsobem, jak jim jej mohou usnadnit a
   nedorozuměním předcházet. Přestože v tom zprvu dopravní podnik neviděl
   hodnotu, nakonec svolil a umožnil odborníkovi z TyfloCentra realizovat první
   školení pro nově přijaté řidiče tramvají.
 
 
-  Školení bylo vyhodnoceno jako úspěšné, a proto se začalo zavádět i pro nové řidiče trolejbusů a autobusů a nakonec i pro všechny stávající řidiče. S využitím ukázek, pomůcek a příhod přímo z reálného života dokázal odborník z TyfloCentra, sám nevidomý, řidičům přiblížit problematiku nevidomého cestujícího v MHD. Školení se ukázalo jako efektivní a řidiči byli překvapeni, jak lze snadno těmto cestujícím ulehčit cestování, když o nich něco vědí. Dopravní podnik proto soudí, že skutečně šlo jen o pochopení problematiky a překonání určité obavy, jak k nevidomým cestujícím přistupovat.
+  Školení bylo vyhodnoceno jako úspěšné, a proto se začalo zavádět i pro nové řidiče trolejbusů a autobusů a nakonec i pro všechny stávající řidiče. S využitím ukázek, pomůcek a příhod přímo z reálného života dokázal odborník z TyfloCentra, sám nevidomý, řidičům přiblížit problematiku nevidomého cestujícího v MHD. Školení se ukázalo jako efektivní a řidiči byli překvapeni, jak lze snadno těmto cestujícím ulehčit cestování, když porozumí důvodům jejich chování. Dopravní podnik proto soudí, že šlo skutečně pouze o pochopení problematiky a překonání určité obavy, jak k nevidomým cestujícím přistupovat.
 constraints: >-
-  Může být složité přesvědčit dopravní podnik, že k vyřešení této bariérové
-  situace skutečně stačí tak málo. 
+  Bariéra nemusí mít v případě osob se zrakovým znevýhodněním podobu pouze
+  chybějící vodící linie či překážky v prostoru vodící linie, ale často může jít
+  o bariérové situace, které jsou řešitelné pouze na úrovni vhodné interakce a
+  komunikace.
 
 
-  Nikdy nemůžeme s naprostou jistotou říci, jak se v konkrétní nastalé situaci zachová i vyškolený řidič.
+  Může být složité přesvědčit dopravní podnik, že k vyřešení některých bariérových situací skutečně může stačit "tak málo". 
+
+
+  Nikdy není možné s naprostou jistotou říci, jak se v konkrétní situaci zachová i vyškolený řidič.
 conclusion: >-
-  K usnadnění přístupu do některých objektů mnohdy stačí jen základní znalost,
-  jak je znevýhodněné skupiny osob využívají.
+  K usnadnění přístupu do určitých prostorů či užití určitých objektů mnohdy
+  stačí jen základní znalost, jak je znevýhodněné skupiny osob využívají.
 
 
   Vozidla MHD jsou příklady takových objektů.
@@ -64,7 +70,7 @@ conclusion: >-
   Znalost se neobejde bez komunikace se znevýhodněnými skupinami osob.
 
 
-  S touto znalostí ztratíme strach vyptávat se znevýhodněných skupin osob na jejich další potřeby.
+  Díky této znalosti se snižuje ostych vyptávat se lidí se znavýhodnněím na jejich další potřeby.
 
 
   > K navázání komunikace mohou sloužit krátká informační setkání, jako jsou zde povinná školení řidičů.
@@ -73,24 +79,23 @@ before:
   alt: Na obrázku je nevidomý cestující u označníku zastávky. Před ním otevřené
     dveře trolejbusu. Nevidomý nijak nereaguje, protože neví, že trolejbus už
     přijel.
-  source: Archiv J. Konečného
+  source: Josef Konečný
 after:
-  name: after.jpg
-  alt:
-    Na obrázku probíhá školení řidičů. Řidič se zaslepovacími brýlemi si zkouší
-    orientaci s bílou holí.
-  source: Archiv J. Konečného
+  name: skoleni-novych-ridicu-01-2021-nastup-do-tramvaje7.jpg
+  alt: Na obrázku probíhá školení řidičů. Řidička se zaslepovacími brýlemi si
+    zkouší nástup do tramvaje s bílou holí.
+  source: Josef Konečný
 timeline:
   - time: 2010
     parts: 4
     name: Tyflocentrum oslovuje dopravní podník
   - time: 2014
     parts: 2
-    name: první školení; díky úspěchu spolupráce pokračuje
+    name: první školení, díky úspěchu spolupráce pokračuje
   - time: "2016"
-    parts: 2
+    parts: 1
     name: školení všech stávajících řidičů tramvají
-  - parts: 2
+  - parts: 1
     time: "2017"
     name: školení všech stávajících řidičů autobusů a trolejbusů
   - time: 2018
@@ -100,6 +105,6 @@ timeline:
     time: "2020"
     name: zopakování školení pro stávající řidiče
 dictionary:
-  - označník
+  - označník (zastávky)
   - technologie VPN
 ---
