@@ -73,7 +73,7 @@ conclusion: >-
   Díky této znalosti se snižuje ostych vyptávat se lidí se znavýhodnněím na jejich další potřeby.
 
 
-  > K navázání komunikace mohou sloužit krátká informační setkání, jako jsou zde povinná školení řidičů.
+  > K navázání komunikace mohou sloužit krátká informační setkání, jako jsou povinná školení řidičů.
 before:
   name: before.jpg
   alt: Na obrázku je nevidomý cestující u označníku zastávky. Před ním otevřené
