@@ -1,7 +1,7 @@
 ---
 title: Nástup do MHD
 number: 3
-ready: true
+ready: false
 title2: školení řidičů MHD pro jednání s nevidomými cestujícími
 subtitle: Měli bychom se spoléhat na to, že společně s nevidomým člověkem bude
   nastupovat někdo, kdo rozumí jeho potřebám?
