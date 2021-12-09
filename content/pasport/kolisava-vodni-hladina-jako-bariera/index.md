@@ -1,6 +1,6 @@
 ---
 title: Kolísavá vodní hladina jako bariéra
-ready: true
+ready: false
 title2: Lodní zastávka MHD Hrad veveří
 subtitle: "Jak lépe označovat bezbariérové zastávky MHD vzhledem nepříznivým
   klimatickým podmínkám? "
