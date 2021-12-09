@@ -1,7 +1,7 @@
 ---
 title: Koordinace velkého množství aktérů
 number: 1
-ready: true
+ready: false
 title2: Křenová, Brno
 subtitle: Proč to trvalo 15 let? Z jakého důvodu to nebylo možné realizovat rychleji?
 story: >-
