@@ -1,99 +1,104 @@
 ---
-title: "Odstraňování komunikačních bariér:"
-ready: true
-title2: " Startovací byt Unie neslyšících"
-subtitle: Proč a jak je pro neslyšící a nedoslýchavé problematické shánění
-  bydlení v Brně?
+title: Odstraňování komunikačních bariér
+number: 8
+ready: false
+title2: startovací byt Unie neslyšících Brno
+subtitle: Proč je pro osoby neslyšící a nedoslýchavé obtížné shánění bydlení v Brně?
 story: >-
-  Každý, kdo se v posledních letech snažil sehnat byt v Brně, ví, že to není
-  snadné. Na trhu je bytů málo a při telefonickém rozhovoru po hodině od
-  zveřejnění inzerátů se od realitního makléře dozvíte, že je už pozdě. Jirka a
-  Maria mají situaci ale mnohem složitější. Jsou totiž neslyšící. Je rok 2018, a
-  pár se potřebuje přestěhovat blíže práci. Hledání podnájmu je pro ně ale
-  značně komplikované. Jirka od narození neslyší, běžně se tedy dorozumívá
-  českým znakovým jazykem a v psané češtině má mezery. Jeho partnerka je ze
-  zahraničí, vzájemně komunikují mezinárodním znakovým systémem, a s
-  kontaktováním realitní kanceláře mu nemůže pomoci. 
+  Každý, kdo se v posledních letech snažil pronajmout byt v Brně, ví, že to není
+  snadné. Na trhu je bytů málo a po hodině od zveřejnění inzerátů se při
+  telefonickém rozhovoru s realitním makléřem dozvíte, že byt už není k
+  dispozici. Jirka a Maria mají situaci ale mnohem složitější. Jsou totiž
+  neslyšící pár. Píše se rok 2018, a Jirka a Maria se potřebují přestěhovat
+  blíže k zaměstnání. Hledání nového nájemního bydlení je pro ně ale značně
+  komplikované. Jirka neslyší od narození, běžně se dorozumívá **českým znakovým
+  jazykem** a v psané češtině má mezery. Maria je ze zahraničí, neovládá **český
+  znakový jazyk** a spolu tak komunikují mezinárodním znakovým systémem. S
+  kontaktováním realitní kanceláře tak Maria Jirkovi pomoci nemůže.
 
-  Hledání bytů je dlouhodobý proces i pro osoby bez jakéhokoliv postižení, ale pro neslyšící je to opravdová zátěž. Komunikace s realitními kancelářemi, která je odkázaná na psaní e-mailů, často ústí v obsazení bytu těmi, kteří si domluvili prohlídku dříve telefonicky. Jirka telefonicky s realitní kanceláří pochopitelně komunikovat nemůže a než pošle kostrbatý e-mail, předběhnou jej řady volajících. I když se mu složitě podaří domluvit prohlídku bytu, je složité se s makléřem domluvit. Ke každé prohlídce si musí zvát na pomoc tlumočníka, což je finančně náročné. Také jej mrzí, když makléř mluví pouze s tlumočníkem a Jirku ignoruje, jakoby tam nebyl. Hledání bytů tak zůstává pro komunitu neslyšících značně frustrující.
+
+  Hledání bytů je dlouhodobý proces i pro osoby bez jakéhokoliv postižení, ale pro osoby neslyšící je to opravdová výzva. Komunikace s realitními kancelářemi, která je odkázaná na psaní e-mailů, často ústí v obsazení bytu těmi, kteří si domluvili prohlídku dříve telefonicky. Jirka telefonicky s realitní kanceláří pochopitelně komunikovat nemůže a než stačí poslat kostrbatý e-mail, předběhnou jej řady volajících. I když se mu podaří domluvit nějakou prohlídku bytu, je složité se s makléřem domluvit. Ke každé prohlídce si musí zvát na pomoc tlumočníka, což je finančně náročné. Také jej mrzí, když makléř mluví pouze s tlumočníkem a Jirku ignoruje, jakoby tam nebyl. V konečném důsledku pak maitel upřednostní jiné zájemnce, se kterými může komunikovat přímo. Pronajmutí bytu tak je pro Jirku s Marií téměř neřešitelný úkol.
 analysis: >-
   Komunikace s realitními kancelářemi skrze e-maily je zdlouhavá, což
-  znevýhodňuje neslyšící v úspěšném shánění bytu 
+  znevýhodňuje osoby neslyšící při soutěži na realitním trhu s nájemním bydlení.
 
 
-  V případě domluvení prohlídky bytu musí mít neslyšící s sebou překladatele
-
-  Neslyšící a nedoslýchaví mohou být diskriminováni ze strany majitele bytu, který může jejich handicap vnímat jako komplikaci 
+  V případě domluvení prohlídky bytu musí mít neslyšící s sebou překladatele.
 
 
-  Sluchově postižení nemají nárok na byty zvláštního určení, které jsou určené pro pohybově a zrakově postižené.
+  Lidé neslyšící a nedoslýchaví mohou být diskriminováni ze strany pronajímatelů bytů, kteří jejich znevýhodnění často vnímají jako překážku pro pronájem bytu. 
+
+
+  Lidé se sluchovým postižením nemají nárok na **byty zvláštního určení**, které jsou primárně určené pro osoby pohybově a zrakově postižené.
 design: >-
-  Zařazení skupiny sluchově postižených do příjemců bytů zvláštního určení.
+  Zařazení osob se sluchových postižením mezi příjemce **bytů zvláštního
+  určení**.
 
 
-  Přednostní či zvýhodněné přijetí sluchově postižených, kteří žádají o běžný městský byt.
+  Zvýhodnění osob se sluchovým postižením při žádosti o běžný městský byt.
 
 
-  Přidělení městského bytu organizaci, která by byt pronajímala sluchově postiženým.
+  Přidělení městského bytu organizaci pracující s lidmi se sluchovým znevýhodněním, která by jej následně pronajímala lidem se sluchovým postižením.
 solution: >-
-  Spolek Unie neslyšících se snaží vytvářet zázemí pro sluchově postižené v
-  Brně. S tím se pojí i přání zprostředkovat svým klientům ubytování, které ale
-  Unie neslyšících v roce 2017 neměla k dispozici.
+  Spolek Unie neslyšících Brno se snaží vytvářet zázemí pro osoby sluchově
+  postižené v Brně. S tím se pojí i přání zprostředkovat svým klientům i
+  ubytování, kterým ale Unie neslyšících Brno ještě v roce 2017 nedisponovala.
 
-  Po diskusích s některými členy Poradního sboru pro bezbariérové Brno se Unie neslyšících rozhodla požádat Radu města Brna o pronájem bytu v celoměstském zájmu, který by byl primárně určen jako startovací byt pro sluchově postižené klienty Unie neslyšících. V srpnu 2018 Rada města tuto žádost schválila. Následně byl vybrán konkrétní byt o velikosti 2+kk v městské části Brno-střed, jehož pronájem byl spolku schválen v lednu r. 2019. V březnu 2019 byla podepsána nájemní smlouva s Unií neslyšících. Poté se na byt nastěhovali první klienti spolku, mladý neslyšící pár. 
+  Po diskusích s některými členy Poradního sboru pro bezbariérové Brno se Unie neslyšících Brno rozhodla požádat Radu města Brna o pronájem **bytu v celoměstském zájmu**, který by byl primárně určen jako startovací byt pro klienty Unie neslyšících Brno. V srpnu 2018 Rada města Brna tuto žádost schválila. Následně byl vybrán konkrétní byt o velikosti 2+kk v městské části Brno-střed, jehož pronájem byl Unii neslyšících Brno schválen v lednu roku 2019. V březnu 2019 byla podepsána nájemní smlouva s Unií neslyšících Brno. Poté se do bytu nastěhovali první klienti Unie neslyšících Brno, mladý neslyšící pár.
 
-  Byt je primárně určen lidem se sluchovým postižením, kteří jsou členové či zaměstnanci Unie neslyšících a kteří splní i další podmínky stanovené spolkem. Jelikož je byt zamýšlen jako startovací, měl by být poskytnut nájemcům po dobu dvou let a následně předán dalším nájemcům.
+
+  Byt je primárně určen lidem se sluchovým postižením, kteří jsou klienti či zaměstnanci Unie neslyšících Brno a kteří splní i další podmínky stanovené Únií neslyšících Brno. Jelikož je byt zamýšlen jako startovací, měl by být poskytnut nájemcům po dobu dvou let a následně předán dalším nájemcům.
 constraints: >-
-  Unie neslyšících na sebe přebírá zodpovědnost za byt.
+  Unie neslyšících Brno na sebe přebírá zodpovědnost za pronájem bytu.
 
 
-  Jeden byt neřeší problém pro velké množství sluchově postižených, kteří jsou znevýhodněni na trhu s nemovitostmi z výše popsaných důvodů. 
+  Jeden byt neřeší problém pro velké množství osob sluchově postižených, kteří jsou znevýhodněni na trhu s nájemním bydlení. 
 
 
-  V případě přidělení konkrétního bytu spolku nemohou další noví podnájemci nijak ovlivňovat polohu bytu v rámci města a jiné charakteristiky bytu. 
+  V případě přidělení konkrétního bytu Unii neslyšících Brno nemohou případní další nájemci ovlivňovat polohu bytu v rámci města ani jiné charakteristiky bytu. 
 
 
-  Startovací byty jsou pouze na dobu časově omezenou. Nájemníci se budou i nadále potýkat s procesem hledání bydlení
+  Startovací byty jsou pouze na dobu časově omezenou. Nájemci se tak budou i v budoucnu potýkat s problémem hledání nájemního bydlení.
 conclusion: >-
-  Pronájem městského bytu Unii neslyšících snižuje komunikační bariéru při
-  hledání bydlení.
+  Pronájem městského bytu Unii neslyšících Brno snižuje komunikační bariéru při
+  hledání bydlení lidí se sluchovým postižením. 
 
 
-  O pronájem bytu v celoměstském zájmu si může zažádat každý spolek.
+  O pronájem **bytu v celoměstském zájmu** si může zažádat jakýkoliv spolek (např. Unie neslyšících Brno).
 
 
   O byty lze žádat opakovaně. Je tedy možné pro jeden spolek získat více bytů pro své klienty. 
 
 
-  Toto řešení umožní alespoň proces hledání dlouhodobého bydlení oddálit a poskytne dotyčným dostatek času pro nalezení vhodného ubytování.
+  Toto řešení umožní proces hledání dlouhodobého bydlení na trhu s nájemními byty alespoň oddálit a poskytne dotyčným dostatek času pro jeho nalezení.
 before:
-  source: "Archiv: S Sváčkové?"
+  source: Simona Surmařová
   name: pred.jpg
-  alt: Obtížně dostupné bydlení skrze běžné komunikační prostředky
+  alt: Na obrázku je chytrý telefon s inzercí nájemních bytů v Brně
 after:
-  source: "Archiv: S Sváčkové?"
-  alt: Dostupné bydlení pro neslyšící a nedoslýchavé
+  source: Simona Surmařová
+  alt: Na obrázku jsou tři postavy uvnitř prázdné kuchyně dorozumívající se
+    znakovým jazykem
   name: po.jpg
 timeline:
   - parts: 1
-    time: Jaro 2018
-    name: Unie neslyšících podává žádost o pronájem bytu v celoměstském zájmu
+    time: jaro 2018
+    name: Unie neslyšících Brno podává žádost o pronájem bytu v celoměstském zájmu
   - parts: 1
-    time: Léto 2018
+    time: léto 2018
     name: Rada města Brna schvaluje žádost o poskytnutí městského bytu Unii
-      neslyšících, z.s.
+      neslyšících Brno, zapsanému spolku
   - parts: 1
-    time: Podzim 2018
-    name: Probíhá výběr bytu.
+    time: podzim 2018
+    name: probíhá výběr bytu
   - parts: 1
-    time: Zima 2018
+    time: zima 2018
     name: Rada města Brna schvaluje pronájem konkrétního bytu v celoměstském zájmu
-      Unii neslyšících. Na bytě se provádí nejnutnější rekonstrukce.
+      Unii neslyšících Brno, v bytě se provádí nejnutnější rekonstrukce
   - parts: 1
-    time: Jaro 2019
-    name: Podepsání nájemní smlouvy s Unií neslyšících.
+    time: jaro 2019
+    name: podepsání nájemní smlouvy s Unií neslyšících Brno
 dictionary:
-  - Byty zvláštního určení
-  - Byty v celoměstském zájmu
-  - Český znakový jazyk
+  - byty v celoměstském zájmu
+  - byty zvláštního určení
 ---
