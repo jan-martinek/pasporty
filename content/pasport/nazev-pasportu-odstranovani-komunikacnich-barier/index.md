@@ -1,9 +1,9 @@
 ---
-title: Odstraňování komunikačních bariér
+title: Jazykové znevýhodnění na trhu s bydlením
 number: 8
 ready: false
 title2: startovací byt Unie neslyšících Brno
-subtitle: Proč je pro osoby neslyšící a nedoslýchavé obtížné shánění bydlení v Brně?
+subtitle: Proč je pro osoby neslyšící a nedoslýchavé obtížné nalézt bydlení v Brně?
 story: >-
   Každý, kdo se v posledních letech snažil pronajmout byt v Brně, ví, že to není
   snadné. Na trhu je bytů málo a po hodině od zveřejnění inzerátů se při
