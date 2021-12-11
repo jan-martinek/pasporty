@@ -2,6 +2,7 @@
 title: Když pomáhat, tak správně
 number: 6
 ready: false
+title2: informační kampaň o vhodné pomoci lidem se zrakovým postižením
 subtitle: Jakým způsobem informovat veřejnost o způsobech vhodné pomoci osobám
   se zrakovým postižením?
 story: "Stejně jako každý pátek se Mirek vypravil do obchodu s potravinami, aby
