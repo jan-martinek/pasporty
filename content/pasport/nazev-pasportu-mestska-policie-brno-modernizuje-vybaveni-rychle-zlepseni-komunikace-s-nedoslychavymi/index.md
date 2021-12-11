@@ -1,6 +1,6 @@
 ---
 title: Městská policie Brno modernizuje vybavení
-ready: true
+ready: false
 title2: Rychlé zlepšení komunikace s nedoslýchavými
 subtitle: Proč je jistější instalace zabudované indukční smyčky (dále IS) oproti
   mobilní variantě?
