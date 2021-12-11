@@ -29,7 +29,7 @@ analysis: >-
   Lidé neslyšící a nedoslýchaví mohou být diskriminováni ze strany pronajímatelů bytů, kteří jejich znevýhodnění často vnímají jako překážku pro pronájem bytu. 
 
 
-  Lidé se sluchovým postižením nemají nárok na **byty zvláštního určení**, které jsou primárně určené pro osoby pohybově a zrakově postižené.
+  Lidé se sluchovým postižením nemají v Brně nárok na **byty zvláštního určení**, které jsou primárně určené pro osoby pohybově či zrakově postižené.
 design: >-
   Zařazení osob se sluchových postižením mezi příjemce **bytů zvláštního
   určení**.
