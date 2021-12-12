@@ -75,11 +75,11 @@ after:
   name: mpb-stav-po.jpg
   source: Simona Surmařová
 timeline:
-  - parts: 10
+  - parts: 9
     time: červen 2012
     name: instalace prvních přenosných indukčních smyček v několika budovách Městské
       policie Brno
-  - parts: 5
+  - parts: 4
     time: říjen 2017
     name: spolupráce na instruktážním videu o indukčních smyčkách s Unií neslyšících
       Brno
@@ -94,7 +94,7 @@ timeline:
     time: 20. 8. 2019
     name: článek Brněnského deníku o plánovaném nákupu indukčních smyček ze strany
       Magistrátu města Brna
-  - parts: 3
+  - parts: 2
     name: proškolení zaměstnanců Jednotky projednávání přestupků na ovládání
       přenosné indukční smyčky
     time: 27. 8. 2019
