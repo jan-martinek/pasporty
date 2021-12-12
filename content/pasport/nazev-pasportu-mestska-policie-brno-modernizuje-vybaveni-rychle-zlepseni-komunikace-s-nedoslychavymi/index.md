@@ -1,5 +1,5 @@
 ---
-title: Trvalé řešení je lepší než dočasné
+title: Zabudovat, označit a nepřenášet
 number: 10
 ready: false
 title2: Měská policie Brno instaluje zabudované indukční smyčky
