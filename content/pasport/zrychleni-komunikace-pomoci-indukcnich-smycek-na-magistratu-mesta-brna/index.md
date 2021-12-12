@@ -2,8 +2,8 @@
 title: Indukce jako řešení komunikace na přepážkách se sklem
 number: 9
 ready: false
-title2: instalace indukčních smyček na Magistrátu města Brna
-subtitle: Jak zjednodušit komunikaci s uživateli naslouchadel za přepážkami na
+title2: Magistrát města Brna instaluje indukční smyčky
+subtitle: Jak zjednodušit komunikaci s uživateli naslouchadel za přepážkami
   Magistrátu města Brna?
 story: Novomanželé Martin a Lenka mají krátce po svatbě a jsou nedoslýchaví. Pro
   komunikaci s ostatními používají **sluchadlo**. Žijí mimo Brno, ale chtějí se
