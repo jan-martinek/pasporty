@@ -2,7 +2,7 @@
 title: Informace jako přístup
 number: 8
 ready: false
-title2: Mapa přístupnosti pro osoby se sluchovým postižením
+title2: Mapa přístupnosti pro osoby se sluchovým znevýhodněním
 subtitle: Jak informovat osoby neslyšící a nedoslýchavé o tom, kde se nachází
   místa osazená indukční smyčkou a kde je možné doluvit se českým znakovým
   jazykem?
