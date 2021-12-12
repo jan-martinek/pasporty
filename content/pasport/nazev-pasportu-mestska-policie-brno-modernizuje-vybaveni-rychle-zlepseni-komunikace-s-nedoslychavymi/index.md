@@ -5,21 +5,21 @@ ready: false
 title2: Rychlé zlepšení komunikace s nedoslýchavými
 subtitle: Proč je spolehlivější instalace zabudované indukční smyčky oproti její
   mobilní variantě?
-story: Paní Blanka je nedoslýchavá. Jelikož má 95% ztrátu sluchu, ke komunikaci
+story: Paní Zuzana je nedoslýchavá. Jelikož má 95% ztrátu sluchu, ke komunikaci
   s ostatními používá **sluchadlo**. Ačkoliv je **sluchadlo** velkou pomocí pro
-  porozumění ostatním, není zcela plnohodnotnou náhradou sluchu. Blančini
-  přátelé už vědí, že jí více pomůže, když lépe artikulují, než když mluví
-  hlasitěji, jak si velká část veřejnosti domnívá. Jelikož jí záleží spíše na
-  kvalitě zvuku než na hlasitosti, může jí činit problémy komunikace přes
-  skleněnou přepážku, která brání šíření zvuku. To si paní Blanka vyzkoušela
-  v létě, když šla na služebnu Městské policie v Brně řešit dopravní přestupek.
-  Na stránkách Unie neslyšících Brno viděla propagační video, ve kterém byla
-  příslušná služebna natočena jako příklad přepážky s **indukční smyčkou**.
-  S dobrou vírou, že je ve služebně **indukční smyčka**, přišla na stanici.
-  **Indukční smyčka** ale v ten den bohužel nefungovala nebo nebyla řádně
-  zapnutá, a tak měla paní Blanka problém s dorozuměním s příslušným policistou.
-  Co by bylo možné vyřešit s funkční **indukční smyčkou** okamžitě, trvalo
-  mnohem déle a bylo oboustraně nepříjemné.
+  porozumění ostatním, není zcela plnohodnotnou náhradou sluchu. Přátelé Zuzany
+  už vědí, že jí více pomůže, když lépe artikulují, než když mluví hlasitěji,
+  jak si velká část veřejnosti domnívá. Jelikož jí záleží spíše na kvalitě zvuku
+  než na hlasitosti, může jí činit problémy komunikace přes skleněnou přepážku,
+  která brání šíření zvuku. To si paní Zuzana vyzkoušela v létě, když šla na
+  služebnu Městské policie v Brně řešit dopravní přestupek. Na stránkách Unie
+  neslyšících Brno viděla propagační video, ve kterém byla příslušná služebna
+  natočena jako příklad přepážky s **indukční smyčkou**. S dobrou vírou, že je
+  ve služebně **indukční smyčka**, přišla na stanici. **Indukční smyčka** ale
+  v ten den bohužel nefungovala nebo nebyla řádně zapnutá, a tak měla paní
+  Zuzana problém s dorozuměním s příslušným policistou. Co by bylo možné vyřešit
+  s funkční **indukční smyčkou** okamžitě, trvalo mnohem déle a bylo oboustraně
+  nepříjemné.
 analysis: >-
   1. Každá **indukční smyčka** by měla být viditelně označená a stále zapnutá. U
   **zabudované indukční smyčky** dochází k problému s opomenutím zapnutí méně
@@ -75,7 +75,33 @@ after:
   name: mpb-stav-po.jpg
   source: Simona Surmařová
 timeline:
+  - parts: 10
+    time: červen 2012
+    name: instalace prvních přenosných indukčních smyček v několika budovách Městské
+      policie Brno
+  - parts: 5
+    time: říjen 2017
+    name: spolupráce na instruktážním videu o indukčních smyčkách s Unií neslyšících
+      Brno
   - parts: 1
+    time: 13. 8. 2019
+    name: oficiální stížnost na nefunkčnost indukční smyčky na Městské policii Brno
+  - parts: 1
+    time: 16. 8. 2019
+    name: kontrola stávajících indukčních smyček Městské policie ze strany Unie
+      neslyšících Brno
+  - parts: 1
+    time: 20. 8. 2019
+    name: článek Brněnského deníku o plánovaném nákupu indukčních smyček ze strany
+      Magistrátu města Brna
+  - parts: 3
+    name: proškolení zaměstnanců Jednotky projednávání přestupků na ovládání
+      přenosné indukční smyčky
+    time: 27. 8. 2019
+  - parts: 1
+    time: 4. 11. 2019
+    name: instalace zabudovaných indukčních smyček na Jednotce projednávání
+      přestupků Městské policie Brno
 dictionary:
   - sluchadlo
   - zabudovaná indukční smyčka
