@@ -1,6 +1,6 @@
 ---
 title: Informace jako přístup
-number: 7
+number: 8
 ready: false
 title2: Mapa přístupnosti pro osoby se sluchovým postižením
 subtitle: Jak informovat osoby neslyšící a nedoslýchavé o tom, kde se nachází
