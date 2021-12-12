@@ -1,5 +1,7 @@
 ---
 title: Pro novou občanku bez problémů
+number: 9
+ready: false
 title2: Zpříjemnění komunikace pomocí indukčních smyček na Magistrátu města Brna
 subtitle: Jak zjednodušit komunikaci s uživateli naslouchadel za přepážkami na
   Magistrátu města Brna?
