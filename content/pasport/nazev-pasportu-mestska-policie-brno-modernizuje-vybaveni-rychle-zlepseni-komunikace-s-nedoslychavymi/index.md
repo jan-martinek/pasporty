@@ -106,4 +106,8 @@ dictionary:
   - sluchadlo
   - zabudovaná indukční smyčka
   - přenosná indukční smyčka
+links:
+  - description: Webová stránka Unie neslyšíchcích Brno s podrobnými informacemi o
+      problematice indukčních smyček.
+    link: https://www.indukcni-smycky.cz/
 ---
