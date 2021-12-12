@@ -75,7 +75,7 @@ after:
   name: mpb-stav-po.jpg
   source: Simona Surmařová
 timeline:
-  - parts: 9
+  - parts: 8
     time: červen 2012
     name: instalace prvních přenosných indukčních smyček v několika budovách Městské
       policie Brno
