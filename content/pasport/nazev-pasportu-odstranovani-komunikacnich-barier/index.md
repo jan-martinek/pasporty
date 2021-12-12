@@ -1,6 +1,6 @@
 ---
 title: Jazykové znevýhodnění na trhu s bydlením
-number: 8
+number: 7
 ready: false
 title2: startovací byt Unie neslyšících Brno
 subtitle: Proč je pro osoby neslyšící obtížné nalézt bydlení v Brně?
