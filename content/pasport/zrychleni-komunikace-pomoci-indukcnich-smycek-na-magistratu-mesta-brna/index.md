@@ -1,8 +1,8 @@
 ---
-title: Pro novou občanku bez problémů
+title: Indukce jako řešení komunikace na přepážkách se sklem
 number: 9
 ready: false
-title2: Zpříjemnění komunikace pomocí indukčních smyček na Magistrátu města Brna
+title2: instalace indukčních smyček na Magistrátu města Brna
 subtitle: Jak zjednodušit komunikaci s uživateli naslouchadel za přepážkami na
   Magistrátu města Brna?
 story: Novomanželé Martin a Lenka mají krátce po svatbě a jsou nedoslýchaví. Pro
