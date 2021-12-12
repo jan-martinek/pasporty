@@ -1,10 +1,10 @@
 ---
-title: Městská policie Brno modernizuje vybavení
+title: Indukce jako řešení komunikace na přepážkách se sklem
 number: 9
 ready: false
-title2: Rychlé zlepšení komunikace s nedoslýchavými
+title2: Měská policie Brno instaluje zabudované indukční smyčky
 subtitle: Proč je spolehlivější instalace zabudované indukční smyčky oproti její
-  mobilní variantě?
+  přenosné variantě?
 story: Paní Zuzana je nedoslýchavá. Jelikož má 95% ztrátu sluchu, ke komunikaci
   s ostatními používá **sluchadlo**. Ačkoliv je **sluchadlo** velkou pomocí pro
   porozumění ostatním, není zcela plnohodnotnou náhradou sluchu. Přátelé Zuzany
