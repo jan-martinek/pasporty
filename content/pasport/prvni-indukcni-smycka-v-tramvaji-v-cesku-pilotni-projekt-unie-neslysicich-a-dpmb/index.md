@@ -93,6 +93,7 @@ dictionary:
   - indukční smyčka
   - homologace
 links:
-  - description: Webová stránka Unie neslyšících Brno o problematice indukčních smyček.
+  - description: Webová stránka Unie neslyšíchcích Brno s podrobnými informacemi o
+      problematice indukčních smyček.
     link: https://www.indukcni-smycky.cz/
 ---
