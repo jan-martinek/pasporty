@@ -1,6 +1,6 @@
 ---
 title: Indukce jako řešení komunikace na přepážkách se sklem
-number: 9
+number: 10
 ready: false
 title2: Měská policie Brno instaluje zabudované indukční smyčky
 subtitle: Proč je spolehlivější instalace zabudované indukční smyčky oproti její
