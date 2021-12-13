@@ -86,25 +86,27 @@ conclusion: >-
 before:
   source: Pavel Doboš
   name: semafory_foto_pred.jpg
+  alt: Nevidomá osoba přechází vozovku na čevenou
 after:
   source: Povel Doboš
   name: semafory_foto_po.jpg
+  alt: Nevidomá osoba přechází vozovku na zelenou
 timeline:
-  - parts: 5
+  - parts: 4
     time: březen 2012
-    name: Vytváří se technologie aktivace ozvučení semaforů pomocí VPN
+    name: zavedení aktivace ozvučení semaforů pomocí technologie VPN
   - parts: 2
     time: duben 2013
-    name: Všechny poptávané semafory jsou vybaveny touto technologií
+    name: vybranné semafory jsou vybaveny touto technologií
   - parts: 2
     time: červen 2013
-    name: Padá návrh na dvě odlišná ozvučení semaforů
+    name: vzniká návrh na odlišná ozvučení semaforů různých směrů
   - parts: 1
     time: září 2013
-    name: " Probíhá testování nového ozvučení, tzv. sirény"
+    name: probíhá testování nového ozvučení, tzv. sirény
   - parts: 1
     time: říjen 2013
-    name: Siréna začíná být instalována na všechny potřebné křižovatky
+    name: siréna je instalována na všechny potřebné křižovatky
 dictionary:
   - technologie VPN
 ---
