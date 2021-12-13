@@ -17,76 +17,77 @@ story: "Začínal květen roku 2013 a nevidomá paní Milada šla nakupovat potr
   radost, protože mnohdy jí nahmatání tlačítka na sloupu trvalo dlouho. U
   křižovatky tedy pomocí **technologie VPN** spustila akustickou signalizaci a
   semafor začal vydávat pomalý tikající zvuk, oznamující, že má vyčkat. Brzy
-  začal semafor tikat rychleji, a tedy oznavovat, že může přejít. Paní Milada
-  začala po přechodu přecházet vozovku, když ale najednou uslyšela vedle sebe
-  prudké zabrždění automobilu a hlasité zatroubení na klakson. Řidič z auta
-  zvolal: „Sakra, paní, vždyť máte červenou, málem jsem vás zajel. Tak rychle,
+  začal semafor tikat rychleji, a tedy oznavovat, že již může přejít. Paní
+  Milada začala přecházet vozovku po přechodu, když ale najednou uslyšela vedle
+  sebe prudké brždění automobilu a hlasité troubení klaksonu. Řidič z auta
+  zvolal: „Sakra, paní, vždyť máte červenou, málem jsem vás zajel. Dělejte,
   běžte!“"
 analysis: >-
   Ozvučený semafor vydává pomalý tikající zvuk, když je červená, a rychlý
   tikající zvuk, když je zelená.
 
 
-  Neboť neustále tikající semafory ruší kolem žijící obyvatele, ozvučení pro lidi nevidomé se zapíná stiskem tlačítka.
+  Neboť neustále tikající semafory ruší obyvatele žijící v okolí, ozvučení pro nevidomé lidi se zapíná po stisku tlačítka.
 
 
-  Tlačítko na sloupu semaforu je mnohdy obtížné nahmatat, proto bylo umožněno spouštět ozvučení pomocí ovladače VPN.
+  Tlačítko na sloupu semaforu lze mnohdy obtížné nahmatat, proto bylo umožněno spouštět ozvučení pomocí **technologie VPN**.
 
 
-  V Brně je mnoho křižovatek, kde je přechod se semaforem do vícero směrů.
+  V Brně je mnoho křižovatek, kde je přechod s ozvučeným semaforem do několika různých směrů.
 
 
-  Ovladač VPN na těchto křižovatkách zapne ozvučení semaforů do odlišných různých směrů.
+  **Technologie VPN** na těchto křižovatkách spustí ozvučení semaforů do všech směrů najedno.
 
 
-  Je těžké rozlišit, který směr zrovna tiká rychle pro přecházení a který pomalu pro čekání.
+  Následně je obtížné rozlišit, kterému směru právě přísluší rychlé tikání pro přecházení a kterému pomalé pro čekání.
 design: >-
-  Technologie VPN se upraví tak, že spustí ozvučení pouze toho semaforu, který
-  je blíže k osobě nevidomé vybavené ovladačem VPN.
+  **Technologie VPN** se upraví tak, že spustí ozvučení pouze toho semaforu,
+  který je blíže k **ovladači VPN**.
 
 
-  Vzhledem k tomu, že technologie VPN vysílá povely na vzdálenosti desítek metrů, může být toto řešení technologicky komplikované a drahé.
+  Vzhledem k tomu, že **technologie VPN** vysílá povely na vzdálenosti desítek metrů, může být toto řešení technologicky komplikované a tak i nákladné.
 
 
-  Je tedy vhodné zkusit nejdříve vyhledat méně komplikované možnosti řešení. 
+  Je tedy vhodné pokusit se nejdříve nalézt méně komplikované možnosti řešení. 
 
 
-  Takovým řešením může být odlišné ozvučení semaforů vedoucích do dvou různých směrů chůze.
-solution: V Brně bylo akustickým signálem pro osoby nevidomé postupně vybavena
+  Takovým řešením může být ozvučení semaforů vedoucích do různých směrů odlišnými zvuky.
+solution: V Brně bylo akustickým signálem pro nevidomé osoby postupně vybavena
   většina křižovatek se semafory. Lidé žijící u křižovatek si však začali
   stěžovat, že je neustále tikání ruší, a proto se na semafory umístila
   tlačítka, která akustickou signalizaci spouštějí. Odborník na odstraňování
-  bariér pro osoby nevidomé však začal sbírat ohlasy, že tlačítka na semaforu se
-  mnohdy obtížně nahmatají, a proto společně s vedoucím servisu světelné
-  signalizace Brněnských komunikací vytvořili možnost spuštění akustické
-  signalizace pomocí ovladače VPN. Na křižovatkách se semafory do více směrů to
-  však způsobovalo potíže. Instalace technologie, která by rozpojila přijímaný
-  signál do semaforů, aby se jich nespouštělo více než jeden, by vyšla zhruba na
-  100 tisíc Kč za křižovatku a realizace by trvala minimálně rok. Proto se
-  vymyslelo řešení, že na těchto křižovatkách bude vždy do jednoho ze dvou
-  semaforů vedle sebe zavedena odlišná akustická signalizace, tzv. siréna.
-  Realizace byla rychlá a stála mnohonásobně méně.
+  bariér pro nevidomé osoby však začal sbírat kritické reakce, že tlačítka na
+  semaforu se mnohdy obtížně nahmatají, a proto společně s vedoucím servisu
+  světelné signalizace Brněnských komunikací vytvořili možnost spuštění
+  akustické signalizace pomocí **technologie VPN**. Na křižovatkách se semafory
+  do více směrů to však působovalo potíže. Instalace technologie, která by
+  rozpojila přijímaný signál do semaforů, aby se vždy spouštěl pouze jeden
+  semafor, by vyšla zhruba na 100 000 Kč na jednu křižovatku a realizace by
+  trvala minimálně jeden rok. Proto bylo navrženo řešení, že na těchto
+  křižovatkách bude do semaforů různých směru zavedena odlišná akustická
+  signalizace, tzv. siréna. Realizace tohoto řešení byla velice rychlá a
+  nesrovnatelně levnější.
 constraints: |-
-  I kombinace zvuku tikání a sirény může být navzájem se rušící.
+  I kombinace tikání a sirény těsně vedle sebe může být rušivá.
 
-  Zvuk sirény může být nečekaný a matoucí pro vidoucí chodce.
+  Zvuk sirény může být nečekaný a matoucí pro chodce bez zrakového znevýhodnění.
 conclusion: >-
-  Důmyslné bezbariérové úpravy mohou způsobit předtím neočekávané nové
-  komplikace.
+  Používání nových technologií pro bezbariérové úpravy mohou vytvářet i nové
+  neočekávané bariéry.
 
 
-  Takovou komplikací je spuštění ozvučení na více semaforech najednou pomocí ovladače VPN.
+  Takovou bariérou je například spuštění ozvučení semaforů pomocí **technologie VPN** do více směrů najednou.
 
 
-  Tyto komplikace se může nabízet vyřešit složitými a nákladnými úpravami. 
+  Každá i nově vzniklá bariéra je řešitelná, nicméně vzniká zde otázka po smysluplnosti a finančních nákladech tohoto řešení.
 
 
-  Lze se však také nejdříve poohlédnout, zdali nejsou k dispozici jednoduchá a levná řešení.
+  Vždy je vhodné nejprve promyslet, zdali nejsou k dispozici jednodužší, účelnější a levnější řešení.
 before:
-  source: Archiv P. Doboše
+  source: Pavel Doboš
   name: semafory_foto_pred.jpg
 after:
-  source: Archiv P. Doboše
+  source: Povel Doboš
   name: semafory_foto_po.jpg
 timeline:
   - parts: 5
