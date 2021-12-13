@@ -1,5 +1,5 @@
 ---
-title: Překážka u vodicí linie
+title: Překážka hned vedle vodicí linie
 number: 12
 ready: false
 title2: Šilingrovo náměstí, Brno
