@@ -1,5 +1,6 @@
 ---
 title: Rychlé šíření jednotné úpravy
+number: 13
 ready: false
 title2: ozvučené vyvolávací systémy na poštách
 subtitle: Jak mohou nevidomí lidé na poštách s lístkovým vyvolávacím systémem
