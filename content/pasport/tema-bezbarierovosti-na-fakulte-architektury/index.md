@@ -2,7 +2,7 @@
 title: Bezbariérovost na fakultě architektury
 number: 17
 ready: false
-title2: Účast členů Poradního sboru pro bezbariérové Brno ve výuce architektury
+title2: účast členů Poradního sboru pro bezbariérové Brno ve výuce architektury
 subtitle: Jak mohou odborníci z Poradního sboru pro bezbariérové Brno docílit
   vyššího povědomí o bezbariérovosti prostoru mezi studenty architektury v Brně?
 story: >-
