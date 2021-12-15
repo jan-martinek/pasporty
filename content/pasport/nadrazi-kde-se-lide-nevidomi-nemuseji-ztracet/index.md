@@ -1,56 +1,53 @@
 ---
-title: Nádraží, kde se lidé nevidomí nemusejí ztrácet
-ready: true
-subtitle: Jak upravit chaotický prostor vytíženého autobusového nádraží?
-story: "Píše se počátek roku 2016 a nevidomý pan Jiří se chystá jet z Brna
-  mezinárodní autobusovou linkou do Vídně. Tato linka odjíždí z autobusového
-  nádraží u hotelu Grand. Pan Jiří se na nádraží u Grandu potřebuje dostat z
-  nástupiště tramvají před brněnským vlakovým nádražím, které je vedle. Odtud má
-  k nádraží u Grandu vést vodící linie. Pan Jiří se po ní vydá, avšak vodící
-  linie náhle končí u křižovatky. Pan Jiří neví kudy dál, a vydává se proto
-  směrem ke zvuku motorů autobusů. Dlouho bloudí, ale naštěstí si ho všimne
-  kolemjdoucí, který ho dovede k nástupištím. Onomu kolemjdoucímu však náhle
+title: Nádraží, kde se nevidomí lidé nemusejí ztrácet
+number: 16
+ready: false
+title2: autobusové nádraží u hotelu Grand, Brno
+subtitle: Jak upravit chaotický prostor vytíženého autobusového nádraží pro
+  nevidomé lidi?
+story: "Začíná rok 2016 a nevidomý pan Jiří se chystá jet z Brna mezinárodní
+  autobusovou linkou do Vídně. Tato linka odjíždí z autobusového nádraží u
+  hotelu Grand. Pan Jiří se na nádraží u Grandu potřebuje dostat z nedalekého
+  nástupiště tramvají před hlavním železničním nádražím. Odtud má k nádraží u
+  Grandu vést vodící linie. Pan Jiří se po ní vydá, avšak vodící linie náhle
+  končí u křižovatky. Pan Jiří neví kudy dál, a tak pokračuje směrem za zvukem
+  autobusových motorů. Dlouho bloudí, ale naštěstí si ho všimne kolemjdoucí,
+  který ho dovede k autobusovým nástupištím. Onomu kolemjdoucímu však náhle
   odjíždí autobus, a tak musí Jiřího opustit. Pan Jiří ví, že musí odjet z
-  nástupiště číslo 5, ale netuší, kde ho nalézt. Ptá se proto u prodejního
+  nástupiště číslo 5, ale netuší, jak ho nalézt. Ptá se proto u prodejního
   stánku, kde mu odvětí: „Pětka je támhle kousek nalevo od vás.“ Pan Jiří se tím
-  směrem vydává, ale bez vodící linie si není jistý, kam dojde. Ptá se proto
-  lidí čekajících na autobus. Ti mu odvětí, že vůbec nevědí, jak tu jsou
-  nástupiště rozmístěné, a že čekají, až prostě uvidí svůj autobus. Nakonec se
-  dozví, že k nástupišti číslo 5 náhodou právě došel. Autobus, který tam nabírá
-  cestující, je však do Krakova, nikoli do Vídně. Pan Jiří tedy čeká. Autobus do
-  Krakova odjíždí a žádný jiný dlouho nepřijíždí. Po chvíli se ptá jiného
-  čekajícího muže, zdali tu někde nestojí autobus na Vídeň. Onen muž mu odvětí,
-  že ten autobus tu již stál, ale stál až ve vozovce vedle autobusu do Krakova,
-  neboť se jinam nevešel. A že nabral cestující a před chvílí odjel."
+  směrem vydává, ale bez vodící linie si není jistý. Ptá se proto lidí
+  čekajících na autobus. Ti mu odvětí, že vůbec nevědí, jak tu jsou nástupiště
+  rozmístěná, a že čekají, až prostě uvidí svůj autobus. Nakonec se dozví, že k
+  nástupišti číslo 5 zcela náhodně sám došel. Autobus, do kterého zde právě
+  nastupují cestující však míří do Krakova, nikoli do Vídně. Pan Jiří tedy čeká.
+  Autobus do Krakova odjíždí a žádný jiný dlouho nepřijíždí. Po chvíli se ptá
+  jiného čekajícího muže, zdali tu někde nestojí autobus do Vídně. Onen muž mu
+  odvětí, že ten autobus tu již byl, ale stál ve vozovce až za autobusem do
+  Krakova, neboť se jinam nevešel. A že odbavil cestující a před chvílí odjel."
 analysis: >-
-  Na nádraží u Grandu v Brně nevedla žádná jednoduchá cesta pro lidi nevidomé.
+  Pro nevidomé cestující neexistovala k autobusovému nádraží u Grandu v Brně
+  žádná jednoduchá cesta.
 
 
-  Byla vybudována vodící linie od vlakového nádraží, která ale končila v křižovatce.
+  Byla vybudována umělá **vodící linie** od železničního nádraží, která ale končila v křižovatce.
 
 
-  Když už se lidé nevidomí dostali na autobusové nádraží, bylo pro ně obtížné najít nástupiště.
+  Když už se nevidomí lidé dostali na autobusové nádraží, bylo pro ně obtížné najít konkrétní nástupiště.
 
 
-  Při velkém vytížení nádraží bylo ještě obtížnější najít svůj autobus mezi houfy lidí.
+  Při velkém vytížení nádraží bylo téměř nemožné najít mezi velkým množstvím lidí svůj spoj.
 design: >-
-  Vodicí linie je třeba vytvořit tak, aby navedly lidi nevidomé až k jednotlivým
-  nástupištím.
+  **Vodicí linie** je třeba vytvořit tak, aby navedly nevidomé cestující až k
+  jednotlivým nástupištím.
 
-
-  Nástupišť musí být umístěno dostatek a linky mezi mini rozmístěné tak, aby autobus vždy mohl stát u svého nástupiště.
-
+  Nástupišť musí být umístěno dostatek a linky mezi nimi musejí být rozmístěné tak, aby autobus vždy mohl stát u svého nástupiště.
 
   Nástupiště musí být označena tak, aby byla rozpoznatelná i pro lidi nevidomé.
 
+  K tomu je možné využít reliéfní označení na zemi a na označnících nástupišť.
 
-  K tomu je možné využít reliéfní označení buď na zemi, nebo na označnících nástupišť.
-
-
-  Zároveň je třeba umístit orientační prvek u příchodu k nádraží, který ukazuje, jak celý prostor nádraží vypadá.
-
-
-  K tomu může posloužit haptická mapa anebo akustický informační panel.
+  Zároveň je třeba umístit orientační prvek u příchodu k nádraží, který ukazuje, jak celý prostor nádraží vypadá. K tomu může posloužit haptická mapa anebo hlasový informační majáček.
 solution: Odborník na odstraňování bariér pro osoby nevidomé se dlouho snažil
   přesvědčit o nutnosti zpřístupnění nádraží u Grandu i přístupové cesty k němu
   pro lidi ze zrakovým znevýhodněním. Byla vybudována přístupová vodící linie,
@@ -113,7 +110,8 @@ timeline:
     time: "2020"
     name: Jsou dokončeny poslední bezbariérové úpravy
 dictionary:
+  - vodicí linie
   - Braillovo písmo
-  - 3D hmatový model
   - haptická mapa
+  - 3D hmatový model
 ---
