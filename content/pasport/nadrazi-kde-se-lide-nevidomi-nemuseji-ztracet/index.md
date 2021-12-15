@@ -41,77 +41,90 @@ design: >-
   **Vodicí linie** je třeba vytvořit tak, aby navedly nevidomé cestující až k
   jednotlivým nástupištím.
 
-  Nástupišť musí být umístěno dostatek a linky mezi nimi musejí být rozmístěné tak, aby autobus vždy mohl stát u svého nástupiště.
 
-  Nástupiště musí být označena tak, aby byla rozpoznatelná i pro lidi nevidomé.
+  Nástupišť musí být vytvořeno takové množství a linky mezi nimi musejí být rozmístěné takovým způsobem, aby každý jeden autobus vždy mohl stát u svého nástupiště.
 
-  K tomu je možné využít reliéfní označení na zemi a na označnících nástupišť.
 
-  Zároveň je třeba umístit orientační prvek u příchodu k nádraží, který ukazuje, jak celý prostor nádraží vypadá. K tomu může posloužit haptická mapa anebo hlasový informační majáček.
-solution: Odborník na odstraňování bariér pro osoby nevidomé se dlouho snažil
-  přesvědčit o nutnosti zpřístupnění nádraží u Grandu i přístupové cesty k němu
-  pro lidi ze zrakovým znevýhodněním. Byla vybudována přístupová vodící linie,
-  ale nevhodně a nebezpečně končila v křižovatce. Po mnoha konzultacích, v nichž
-  se angažovaly Brněnské komunikace, Úřad městské části Brno-střed a Poradní
-  sbor pro bezbariérovost Brna přišel Dopravní podnik města Brna s projektem
-  rekonstrukce celého prostoru nádraží. Rekonstrukce trvala rok, zpřehlednila
-  nádraží, lépe rozmístila nástupiště a přinesla i jejich dostatečně
-  rozpoznatelné označení a to včetně označení v Braillově písmu. Na nádraží byla
-  vytvořena bezpečná přístupová vodící linie a k samotným nástupištím se z ní
-  větvily další vodící linie. Byly instalovány hlasové majáčky s informacemi o
-  nástupištích a informační panely o odjezdech taktéž začaly poskytovat
-  informace v mluvené řeči. V přední části nádraží u vodicí linie byl umístěn 3D
-  hmatový model celého nádraží pro rychlou orientaci v prostoru, který je
-  doplněn popisky v Braillově písmu. Lidé se zrakovým znevýhodněním byly navíc s
-  popisem nově zrekonstruovaného nádraží seznámeni v časopise Chaloupka a na jim
-  určených webových fórech.
+  Nástupiště musí být označena takovým způsobem, aby byla rozpoznatelná i pro nevidomé lidi.
+
+
+  K tomu je možné využít **reliéfní dlažbu** na zemi a **Braillovo písmo** na **označnících** nástupišť.
+
+
+  Zároveň je třeba umístit orientační prvek u příchodu k nádraží, který zobrazuje, jak je celý prostor nádraží organizován. K tomu může posloužit **haptická mapa**, **3D hmatový model** anebo **orientační hlasový majáček**.
+solution: Odborník na odstraňování bariér pro nevidomé osoby se dlouho snažil
+  přesvědčit zástupce města o nutnosti zpřístupnění autobusového nádraží u
+  hotelu Grand včetně přístupové cesty k němu. Byla sice vybudována přístupová
+  umělá **vodící linie**, která ale končila nebezpečně v křižovatce. Po mnoha
+  konzultacích, v nichž se angažovaly Brněnské komunikace, Úřad městské části
+  Brno-střed a Poradní sbor pro bezbariérové Brno přišel Dopravní podnik města
+  Brna s projektem **rekonstrukce** celého prostoru autobusového nádraží.
+  **Rekonstrukce** trvala rok, celkově zpřehlednila nádraží, lépe rozmístila
+  nástupiště a přinesla i jejich dostatečně rozpoznatelné označení. Na nádraží
+  byla vytvořena bezpečná přístupová **vodící linie** a k samotným nástupištím
+  se z ní větvily **signální pásy**. Byl nainstalován **orientační hlasový
+  majáček** s informacemi o rozmístění pokladen a elektronický informační panel.
+  V přední části nádraží byl u **vodicí linie** umístěn **3D hmatový model**
+  celého nádraží, který  nevidomým cestujícím prostředkuje představu o celkové
+  kompozici nádraží. Je doplněn popisky v **Braillově písmu**. Lidé se zrakovým
+  znevýhodněním byly navíc s popisem nově zrekonstruovaného nádraží seznámeni
+  všemi, jim dostupnými informačními kanály (časopis Chaloupka, zasilatelské
+  e-mailové konference, web).
 constraints: >-
-  K takové rekonstrukci, která je koncipovaná jako komplexně bezbariérová, bývá
-  potřeba iniciativy vícero skupin. 
+  K bezbariérové **rekonstrukci** tak komplikovaného prostoru jakým je nádrží,
+  je potřeba iniciativy vícero skupin.
 
 
-  Při takové rekonstrukci se mohou navýšit finanční náklady.
+  Při takto komplexní **rekonstrukci** se jedná o finančné náročnou investici, u které není výjimkou navýšení finančních nákladů v průběhu samotné **rekonstrukce**.
 conclusion: >-
-  I složité, chaotické a vytížené prostory se dají předělat takovým způsobem,
-  který je přístupný lidem nevidomým.
+  I složité, chaotické a vytížené prostory se dají **rekonstruovat** takovým
+  způsobem, který je přístupný pro nevidomé lidi.
 
 
-  Je v tom případě třeba dobře promyslet koncepci větvících se umělých vodících linií.
+  Je v tom případě třeba dobře promyslet koncepci větvících se umělých orientačních prvků.
 
 
-  Je také potřeba dobře označit klíčové body v prostoru, jako jsou kupříkladu nástupiště, pokladny či záchody. 
+  Je také potřeba dobře označit klíčové body v prostoru, jako jsou kupříkladu nástupiště, pokladny či záchody.
 
 
-  Orientaci osob nevidomých může napomoci hmatový model celého prostoru, kde jsou klíčové body vyznačeny a popsány.
+  Orientaci nevidomých osob může napomoci **3D hmatový model** celého prostoru, kde jsou klíčové body vyznačeny a popsány.
 before:
   name: grand_foto_pred.jpg
   source: https://upload.wikimedia.org/wikipedia/commons/b/b2/Bus_station_Brno_Grand_in_night_1.jpg
+  alt: Na obrázku jsou dva autobusy stojící podél jednoho nástupiště. Třetí
+    autobus stojí vedle nich ve vozovce, připraven odbavit cestující.
 after:
   name: grand_foto_po.jpg
   source: Pavel Doboš
+  alt: "Na obrázku je hlavní přístup na nádraží s viditelnými vodicími liniemi a
+    haptickou mapou nádraží. "
 timeline:
   - parts: 1
     time: "2014"
-    name: Zaangažovaní lidé se snaží přesvědčit městské orgány o nutnosti
-      zpřístupnění nádraží
+    name: iniciativa snažící se přesvědčit zástupce města o nutnosti zpřístupnění
+      nádraží pro nevidomé uživatele
   - parts: 1
     time: "2015"
-    name: Je vybudována vodicí linie, která nevhodně končí v křižovatce
+    name: vybudována vodicí linie, která nevhodně končí v křižovatce
   - parts: 1
     time: "2016"
-    name: Začíná se hovořit o celkové rekonstrukci nádraží
+    name: začíná se hovořit o celkové rekonstrukci nádraží
   - parts: 2
     time: "2017"
-    name: Díky podnětům různých skupin se začíná tvořit projekt rekonstrukce
+    name: díky podnětům různých skupin uživatelů se začíná tvořit projekt
+      rekonstrukce
   - parts: 1
     time: "2019"
-    name: Probíhá rekonstrukce, na konci roku se nádraží znovu otevírá
+    name: probíhá rekonstrukce, na konci roku se nádraží znovu otevírá veřejnosti
   - parts: 1
     time: "2020"
-    name: Jsou dokončeny poslední bezbariérové úpravy
+    name: dokončeny poslední bezbariérové úpravy
 dictionary:
+  - reliéfní dlažba
   - vodicí linie
+  - označník (zastávky)
   - Braillovo písmo
   - haptická mapa
   - 3D hmatový model
+  - rekonstrukce
 ---
