@@ -1,122 +1,120 @@
 ---
 title: Nebezpečné značky ve veřejném prostoru
-subtitle: Jaké hrozí nebezpeční lidem nevidomým od značek na ulici?
-story: >-
-  Právě byl počátek října roku 2016, když nevidomá paní Tereza šla po náměstí k
-  ulici, která vycházela z jeho rohu. Držela se podél zdi budov, až dorazila k
-  místu, kde měla zabočit do ulice, nicméně hned za rohem domu nahmatala bílou
-  holí jakýsi kovový sloupek, který si nepamatovala, že by v těchto místech
-  býval. Sloupek byl příliš blízko zdi budovy, že mezerou mezí ním a zdí nemohla
-  projít. Začala sloupek obcházet a předpokládala, že bude pokračovat po ulici
-  dále podél budovy. Avšak najednou se paní Tereza uhodila do hlavy, upadla a
-  omdlela. Když se probrala, cítila, že ji někdo chytl a ptá se jí, zdali je v
-  pořádku. Slyšela, jak kolem ní stojí hlouček lidí a povídají si, že ta
-  nevidomá paní narazila hlavou do značky. Paní Tereza odpověděla, že snad v
-  pořádku je, že by jen potřebovala pomoci vstát. Zeptala se, co to zde je za tu
-  značku. Dostalo se jí odpovědi, že tu na začátku ulice byly dodělány velké
-  značky na dvou kovových tyčích, které značí pěší zónu. Pán, který paní Tereze
-  pomáhal vstát, jí řekl, že ji zahlédl, jak pod značku podchází a jak do ní
-  narazila hlavou. 
+number: 15
+ready: false
+title2: Česká, Brno
+subtitle: Jaké hrozí nebezpeční nevidomým lidem od značek na ulici?
+story: 'Počátkem října roku 2016, šel nevidomý pan Josef po ulici směrem k
+  náměstí. Bílou holí oťukával zdi okolních domů, které používal jako přirozenou
+  vodicí linii. Na rohu náměstí zachytil holí kovový sloupek, který tam nikdy
+  dříve nebyl. Sloupek byl příliš blízko zdi budovy, takže mezerou mezi ním a
+  zdí se nedalo projít. Proto jej chtěl obejít a pokračovat dál v cestě. Ukročil
+  vpravo, holí si ověřil, že před ním je volný prostor a vykročil vpřed. Při
+  dalším kroku se mu však zatmělo před očima. Ucítil náraz do obličeje a upadl
+  na zem. Když se s pomocí kolemjdoucích zvedl, začal pátrat po příčině nárazu.
+  Byla jí velká plechová tabule značící pěší zónu, umístěná na dvou kovových
+  sloupcích. Spodní hrana tabule však byla ve výši asi 130 cm od země. Proto ji
+  při chůzi pomocí bílé hole nebylo možné odhalit. Pan Josef si povzdechl a spíš
+  pro sebe si polohlasem řekl: "Příště budu muset jít po druhé straně ulice."
+  Pán, který mu pomáhal vstávat však,konstatoval: "To byste si moc nepomohl. Tam
+  je takováto tabule taky.“ '
 analysis: >-
-  Lidé nevidomí často při pohybu po městě následují zdi budov jako vodící linie.
+  Nevidomí lidé často při pohybu po městě využívají zdi budov jako vodicí linii.
 
 
-  Vedle zdi potřebují prostor, aby mohli projít, takže dopravní značky nesmějí
-  být moc blízko.
+  Podél zdi potřebují volný prostor 150 cm, aby mohli bezpečně projít. Proto V tomto prostoru nesmějí být umísťovány žádné předměty.
 
 
-  Při sledování zdí budov si oťukávají bílou holí nejspodnější část zdi.
+  Při kopírování zdí budov si oťukávají bílou holí spodní část zdi. Proto nemůžou zjistit, že ve výši hlavy je umístěna nějaká tabule.
 
 
-  Bílou holí proto nenahmatají, jak vysoko je umístěna cedule značky.
+  Specificky nebezpečnými jsou značky, které výrazně přesahují mimo sloupek nebo stojí na dvou sloupcích.
 
 
-  Specificky nebezpečnými jsou značky, které stojí na dvou tyčích.
-
-
-  Lidé nevidomí mohou obejít jednu tyč, dostat se pod značkou a bouchnout se do
-  hlavy.
+  Nevidomí lidé tak mohou obejít jednu tyč, dostat se pod značku a uhodit se do hlavy.
 design: >-
-  Dopravní značky mají podle vyhlášky č. 398/2009 Sb. předepsáno být umístěny
-  alespoň 150 cm od zdi budovy a jejich cedule být alespoň 220 cm vysoko.
+  Všechny překážky musejí být, podle **vyhlášky č. 398/2009 Sb.** umístěny
+  alespoň 150 centimetrů od zdi budovy.
 
 
-  Pokud je není možné umístit tak daleko od zdi, nebo jejich ceduli tak vysoko,
-  je třeba značky z místa odstranit.
+  Spodní hrana dopravních značek (poutačů, informačních tabulí atp.) pak musí být ve výši minimálně 220 centimetrů od země.
 
 
-  Pokud jejich odebrání není možné z důvodu jejich nepostradatelnosti, je třeba
-  vymyslet způsob, který by zamezil nárazu nevidomých kolemjdoucích do značky.
+  Pokud tyto prvky není možné umístit dostatečně daleko od zdi, nebo jejich ceduli dostatečně vysoko, je třeba značky z místa odstranit.
 
 
-  Takovým způsobem může být zábrana, která zamezí nevidomým kolemjdoucím, aby se
-  dostali pod ceduli značky.
-solution: >-
-  Na začátku ulice Česká směrem z Náměstí Svobody byly správou brněnských
-  veřejných komunikací nainstalovány značky s velkou cedulí informující o pěší
-  zóně v celé ulici. Cedule značky byla příliš těžká, a proto musela být nesena
-  dvěma sloupky a cedule byla zasazena mezi nimi. Z důvodu případné potřeby
-  dostatečné průjezdnosti ulice musely být značky instalovány těsně vedle budov.
-  Z důvodu potřeby dobré viditelnosti značek byly jejich cedule umístěny zhruba
-  1,5 metru nad zemí. To zaznamenal člen Poradního sboru pro bezbariérové Brno a
-  odborník na odstraňování bariér pro osoby nevidomé. Ozval se ohledně
-  problematických značek Brněnským komunikacím. Bylo mu přislíbeno, že dojde k
-  nápravě, a později se mu ozvala zástupkyně Brněnských komunikací a
-  konzultovali spolu možná řešení. Značky posunout více do ulice nešly kvůli
-  průjezdnosti, jejich odstranění bylo tehdy také nevhodné. Proto byla zvolena
-  varianta, že se mezi sloupy značek dodělá obrubník, který lidé nevidomí
-  nahmatají bílou holí, a nevstoupí proto pod ceduli značky. Později začaly
-  Brněnské komunikace používat cedule dopravního značení s nižší hmotností,
-  takže nakonec byly značky vyměněny za ty, které stojí jen na jednom sloupku a
-  jdou dostatečně vysoko nad zemí.
+  Není-li jejich odebrání z jakéhokoliv důvodu možné, je třeba najít způsob, který by zamezil vstupu nevidomých chodců pod značku.
+
+
+  Tuto funkci může plnit spolehlivě detekovatelná zábrana - zarážka pro bílou hůl - ve výšce maximálně 25 centimetrů od země.
+solution: Na začátku ulice Česká směrem z Náměstí Svobody byly správou
+  brněnských komunikací, na obou stranách ulice, nainstalovány velké tabule,
+  informující o pěší zóně. Tabule byly příliš velké, proto byly neseny dvěma
+  sloupky. Z důvodu dostatečné průjezdnosti ulice byly nainstalovány těsně vedle
+  zdí budov. Spodní hrany tabule byly umístěny ve výši cca 130 centimetrů od
+  země. Tento stav zaznamenal člen Poradního sboru pro bezbariérové Brno a
+  odborník na odstraňování bariér ze života nevidomých. Ozval se ohledně
+  problematických tabulí Brněnským komunikacím. Bylo mu přislíbeno, že dojde k
+  nápravě. Později se mu ozvala zástupkyně Brněnských komunikací a konzultovali
+  spolu možná řešení. Tabule nebylo možné posunout více do středu ulice, kvůli
+  průjezdnosti. Jejich odstranění bylo v té době také nevhodné. Proto byla
+  zvolena varianta, že se mezi sloupy tabulí dodělá obrubník, který nevidomí
+  chodci spolehlivě detekují bílou holí a budou moci tabuli bezpečně obejít.
+  Později začaly Brněnské komunikace používat menší informační tabule s nižší
+  hmotností, takže nakonec byly značky vyměněny za ty, které stojí jen na jednom
+  sloupku a jsou umístěny dostatečně vysoko nad zemí.
 constraints: >-
-  Jsou potřeba lidé, kteří si všimnou nebezpečných překážek pro osoby nevidomé a
+  Jsou potřeba lidé, kteří si všimnou nebezpečných překážek pro nevidomé osoby a
   nahlásí je.
 
 
-  Někteří lidé nevidomí by mohli mít tendenci obrubník překročit, pokud zjistí,
-  že je jen malý.
+  Někteří nevidomí lidé mohou mít tendenci obrubník překročit, pokud zjistí, že je nízký.
 conclusion: >-
-  Když je problém se značkou ohrožující lidi nevidomé nemožné vyřešit podle
-  vyhlášky (150 cm od zdi a 220 cm vysoko), je nutné zajistit, aby se s nimi
-  tito lidé náhodně nebezpečně nestřetli.
+  Když je problém se značkou ohrožující nevidomé osoby nemožné vyřešit podle
+  **vyhlášky 398/2009 Sb.**, pak je nutné zajistit, aby se o ni tito lidé
+  nemohli zranit.
 
 
-  To může zajistit malá stavební úprava, která varuje před možností střetu s
-  překážkou.
+  To může zajistit i malá stavební úprava, která umožní překážku spolehlivě detekovat.
 
 
-  Když jsou o nebezpečné překážce informováni správci veřejné komunikace, může
-  se tato stavební úprava poměrně snadno provést.
+  V případě nebezpečných značek na dvou sloupcích to může být například instalace zarážky pro bílou hůl ve výši maximálně 25 centimetrů od země.
 
 
-  V případě nebezpečných značek na dvou sloupcích to může být jen instalace
-  varovného obrubníku či kovová spojnice sloupků značky.
+  Jsou-li o nebezpečné překážce informováni správci veřejné komunikace, může se tato stavební úprava poměrně snadno provést.
 before:
-  name: znacky_foto_pred.jpg
-  source: 'https://pbs.twimg.com/media/CtMae69XEAE4ibc.jpg'
+  name: ceska1.png
+  source: Josef Konečný
+  alt: Na obrázku je informační tabule na dvou sloupcích, spodní hrana tabule je
+    ve výši cca 130 cm od země. Pod značkou mezi sloupky je vidět bílá hůl,
+    která projde do volného prostoru a nevidomý chodec horní částí těla naráží
+    do plechové tabule.
 after:
-  name: znacky_foto_po.jpg
-  source: Archiv P. Doboše
+  name: ceska_4.png
+  source: Josef Konečný
+  alt: Na obrázku vlevo je původní tabule, jen mezi oběma sloupky je nainstalovaný
+    obrubník, který umožní spolehlivou detekci. Značku je nyní možné bezpečně
+    obejít. Na obrázku vpravo je informační tabule na jednom sloupku. Sloupek je
+    vzdálený 20 cm od zdi, spodní hrana tabule je ve výši 220 cm od země.
 timeline:
   - parts: 1
     time: září 2016
-    name: Objevují se nebezpečné značky na ulici Česká
+    name: objevují se nebezpečné značky na ulici Česká
   - parts: 1
     time: říjen 2016
-    name: Člen PSpBB o jejich nebezpečnosti informuje Brněnské komunikace
+    name: člen poradního sboru informuje o jejich nebezpečnosti Brněnské komunikace
   - parts: 4
     time: listopad 2016
-    name: Brněnské komunikace přislibují nápravu do poloviny roku 2017
+    name: Brněnské komunikace dávají příslib nápravy do poloviny roku 2017
   - parts: 2
     time: duben 2017
-    name: Na místě jsou konzultována možná řešení
+    name: na místě jsou konzultována možná řešení
   - parts: 6
     time: červen 2017
-    name: Je hotova úprava s obrubníkem
+    name: dokončena úprava s obrubníkem
   - parts: 1
     time: září 2018
-    name: Jsou instalovány nové značky na jednom sloupku
+    name: instalovány nové značky na jednom sloupku
 dictionary:
   - vyhláška č. 398/2009 Sb.
 ---
