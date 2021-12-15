@@ -1,7 +1,9 @@
 ---
-title: Téma bezbariérovosti na fakultě architektury
-title2: Účast členů poradního sboru na výuce architektů.
-subtitle: Jak mohou odborníci z Poradního sboru pro Bezbariérové Brno docílit
+title: Bezbariérovost na fakultě architektury
+number: 17
+ready: false
+title2: Účast členů Poradního sboru pro bezbariérové Brno ve výuce architektury
+subtitle: Jak mohou odborníci z Poradního sboru pro bezbariérové Brno docílit
   vyššího povědomí o bezbariérovosti prostoru mezi studenty architektury v Brně?
 story: >-
   Ivan je architekt rok po škole. V současné době pracuje v brněnské projekční
