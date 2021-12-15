@@ -1,7 +1,9 @@
 ---
-title: Sportujeme bez bariér
-title2: Realizace workoutového hřiště v Brně
-subtitle: Jak se lze inspirovat příklady z jiných měst?
+title: Workoutové hřiště bez bariér
+number: 18
+ready: false
+title2: Sportovní areál Hroch, Brno
+subtitle: Jak se inspirovat příklady bezbariérových realizací z jiných měst?
 story: Píše se květen 2018 a Roman – uživatel vozíku právě dokončuje svoji
   každonedělní cvičební dávku v jedné brněnské posilovně, protože se připravuje
   na basketbalový turnaj v Německu. I když je místnost klimatizovaná, v
@@ -12,24 +14,25 @@ story: Píše se květen 2018 a Roman – uživatel vozíku právě dokončuje s
   nástroje může v posilovně využívat. Ten večer Roman v šatně zaslechne, jak se
   jeho kamarádi z posilovny baví o cvičení ve venkovní posilovně v Björnsonově
   sadě. Chodí tam každé úterý od devíti hodin večer a odtud si to po náročném
-  cvičení namíří do blízké hospody. Kéž by tak mohl s kamarády chodit cvičit ven
-  na čerstvý vzduch.
+  cvičení namíří do blízké hospody. Kéž bych si mohl jít s nimi zacvičit ven na
+  čerstvý vzduch, pomyslí si Roman.
 analysis: >-
-  
+  * Brno dlouhodobě postrádalo bezbariérové **workoutové hřiště** s vhodnými
+  posilovacími stroji, byť se o jeho výstavbě již dlouho uvažovalo.
 
-  * Žádné workoutové hřiště v Brně není bezbariérové s vhodnými posilovacími stroji, byť se o jeho výstavbě již dlouho uvažuje.
+  * Bezbariérové **workoutové hřiště** má mnoho specifických specifik (zpevněné plochy, výška cvičebních prvků atp.).
 
-  * Bezbariérové hřiště má mnoho specifických požadavků.
+  * Chybí koncepční plány a strategie, které by usnadňovali budování bezbariérových veřejných prostorů.
 
-  * Neexistuje aktivní spolupráce mezi samosprávami při řešení otázky bezbariérovosti.
-
-  * Chybí plány a strategie, které by podporovaly budování bezbariérových veřejných prostorů.
+  * Neexistuje funkční spolupráce mezi samosprávami, kde by bylo možné se inspirovat ověřenými bezbariérovými řešeními z jiných obcí a měst.
 design: >-
-  * Realizace bezbariérových hřišť rovnoměrně na celém území Brna a zpřístupnění
-  stávajících sportovních hřišť pro uživatele vozíku.
+  * Realizace rovnoměrně rozmístněné sítě bezbariérových workoutových hřišť po
+  celém území města Brna.
 
-  * Navázat spolupráci s jinými samosprávnými celky při řešení bezbariérovosti a vyhledávat příklady dobré praxe.
-solution: "Na podzim roku 2017 se na podnět nadace Emil představitelé
+  * Zpřístupnění vybranných stávajících sportovních hřišť pro uživatele vozíku.
+
+  * Navázat spolupráci s jinými samosprávnými celky při řešení bezbariérovosti a aktivně vyhledávat příklady dobrých bezbariérových řešení.
+solution: "Na podzim roku 2017 se na podnět **nadace Emil** představitelé
   statutárního města Brna Jaroslav Suchý a PSpBB Eva Rossi jeli podívat do
   Hluboké nad Vltavou, kde se nachází jedno z mála bezbariérových workoutových
   hřišť v České republice. Zde zjistili všechny nezbytné informace (financování,
@@ -63,33 +66,39 @@ conclusion: >-
   * Je důležité, aby bezbariérová workoutová hřiště byla řešena společně s bezbariérovým přístupem (bezbariérová parkovací místa, zastávka MHD, přístupové cesty).
 before:
   source: Daniel Kaplan
-  alt: Příklad workoutového hřiště nevhodného pro uživatele vozíku
+  alt: Příklad workoutového hřiště nevhodného pro uživatele vozíku (bez zpevněných
+    ploch)
   name: img_20200222_113247.jpg
 after:
   source: Daniel Kaplan
-  alt: Realizace bezbariérového workoutového hřiště U Hrocha v Brně ((ten obrázek
-    je stejný, je třeba nahrát použitelné obrázky))
+  alt: Příklad workoutového hříště vhodného pro uživatele vozíků (Sportovní areál
+    Hroch)
   name: img_20200222_113247.jpg
 timeline:
   - parts: 1
-    time: Podzim 2017
-    name: Návštěva Hluboké nad Vltavou
+    time: léto 2017
+    name: prvotní impulz pro vybudování bezbariérového workoutového hřiště
   - parts: 1
-    time: Zima 2017
-    name: Rozeslání dotazníků
-  - parts: 2
-    time: Jaro 2018
-    name: Žádost o dotaci
-  - parts: 2
-    time: Podzim 2018
-    name: Podání investičního záměru
+    time: podzim 2017
+    name: návštěva již vybudovaného hřiště v Hluboké nad Vltavou
   - parts: 1
-    time: Jaro 2019
-    name: Realizace projektu a slavnostní otevření hřiště
+    time: zima 2017
+    name: rozeslání dotazníků s cílem zjistit preferované lokality pro vybudování
+      hřiště
+  - parts: 2
+    time: jaro 2018
+    name: žádost o dotaci
+  - parts: 2
+    time: podzim 2018
+    name: podání investičního záměru
+  - parts: 1
+    time: jaro 2019
+    name: realizace projektu a slavnostní otevření 1. bezbariérového workoutového
+      hřiště v Brně
 dictionary:
   - workoutové hřiště
-  - nadace Emil
+  - Nadační fond Emil
 links:
   - link: https://www.areal-hluboka.cz/atrakce/7-venkovni-posilovna
-    description: Sportovní areál v Hluboké nad Vltavou
+    description: Bezbariérové workoutové hřiště v Hluboké nad Vltavou
 ---
