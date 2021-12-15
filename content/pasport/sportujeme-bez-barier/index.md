@@ -1,7 +1,7 @@
 ---
 title: Workoutové hřiště bez bariér
 number: 18
-ready: false
+ready: true
 title2: Sportovní areál Hroch, Brno
 subtitle: Jak se inspirovat příklady bezbariérových realizací z jiných měst?
 story: Píše se květen 2018 a Roman – uživatel vozíku právě dokončuje svoji
@@ -69,12 +69,12 @@ conclusion: >-
 before:
   source: Daniel Kaplan
   alt: Příklad workoutového hřiště nevhodného pro uživatele vozíku
-  name: img_20200222_113247.jpg
+  name: workout_pred.jpg
 after:
   source: Daniel Kaplan
   alt: Příklad workoutového hříště vhodného pro uživatele vozíků (Sportovní areál
     Hroch)
-  name: img_20200222_113247.jpg
+  name: workout_po.jpg
 timeline:
   - parts: 1
     time: léto 2017
