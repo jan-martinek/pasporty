@@ -32,42 +32,43 @@ design: >-
   * Zpřístupnění vybranných stávajících sportovních hřišť pro uživatele vozíku.
 
   * Navázat spolupráci s jinými samosprávnými celky při řešení bezbariérovosti a aktivně vyhledávat příklady dobrých bezbariérových řešení.
-solution: "Na podzim roku 2017 se na podnět **nadace Emil** představitelé
-  statutárního města Brna Jaroslav Suchý a PSpBB Eva Rossi jeli podívat do
-  Hluboké nad Vltavou, kde se nachází jedno z mála bezbariérových workoutových
-  hřišť v České republice. Zde zjistili všechny nezbytné informace (financování,
-  realizace, materiály…), které by mohli pomoci, při realizaci workoutového
-  hřiště v Brně. V zimě 2017 PSpBB rozeslal dotazníky do organizace Liga
-  vozíčkářů s otázkou: „Kde by se měla vybudovat bezbariérové venkovní
-  posilovny?“. Z této ankety vzešlo několik míst, nicméně žádné z nich nebylo
-  možné realizovat v nejbližší době.  Následně se ozval sportovní areál Hroch,
-  který si na podzim 2018 poslal žádost na dotační projekt na bezbariérové
-  sportovní hřiště v rámci dotačního programu Odboru školství na MMB. Workoutové
-  hřiště bylo inspirováno realizací z Hluboké nad Vltavou, a navíc bylo budováno
-  ve spolupráci s PSpBB. Stavba byla následně realizována v roce 2019, kdy
-  3.4.2019 došlo k slavnostnímu otevření hřiště. Realizace projektu vyšel na 998
-  250 Kč, z toho statutární město Brno přispělo na vybudování hřiště 990 000,-
-  Kč. V druhé fázi realizace byly ještě dodělány přístupové cesty ke hřišti.
-  PSpBB provedl audit a zmapování přístupnosti MHD v rámci projektu."
+solution: "Na podzim roku 2017 se na podnět **Nadačního fondu Emil** zástupci
+  města Brna vyrazili podívat do Hluboké nad Vltavou, kde již bylo realizováno
+  jedno z mála bezbariérových **workoutových hřišť** v České republice. Zde
+  zjistili všechny nezbytné informace (financování, rozměry, materiály atp.),
+  které by mohli pomoci, při realizaci bezbariérového **workoutového hřiště** v
+  Brně. V návaznosti na to v zimě 2017 Poradní sbor pro bezbariérové Brno
+  rozeslal dotazníky do organizace Liga vozíčkářů s otázkou: „Kde by se měly
+  vybudovat bezbariérové venkovní posilovny?“. Tato anketa identifikovala
+  několik preferovaných míst, nicméně žádné z nich nebylo možné realizovat v
+  krátkém časovém horizontu.  Následně se ozval sportovní areál Hroch, který si
+  na podzim roku 2018 podal žádost o dotaci na bezbariérové sportovní hřiště do
+  dotačního programu Odboru školství na Magistrátu města Brna. **Workoutové
+  hřiště** inspirované realizací z Hluboké nad Vltavou tak bylo ve spolupráci s
+  Poradním sborem pro bezbariérové Brno vybudováno ve sportovním areálu Hroch.
+  Ssmotná stavba byla realizována v roce 2019 a 3. 4. 2019 došlo k slavnostnímu
+  otevření hřiště. Realizace projektu stála 998 250 Kč, z toho statutární město
+  Brno přispělo na vybudování hřiště 990 000,- Kč. V druhé fázi realizace byly
+  ještě upraveny bezbariérové přístupové cesty k hřišti."
 constraints: >-
-  * Jednotlivé obce nebo města se vnímají jako konkurenční subjekty.
+  * Konkrétní bezbariérové řešení nelze přenést z jednoho místa na druhé bez
+  jakékoliv úpravy. Každá realizace má svá specifika.
 
-  * Veřejná správa se příliš nevěnuje otázkám přístupnosti specifických veřejných prostorů, například sportovních areálů.
+  * Jednotlivé obce nebo města se často stavějí do role vzájemných konkurentů, na místo toho, aby se od sebe vzájemně inspirovaly.
 
-  * Nelze zcela přenést řešení z jednoho místa na druhý, každá realizace má svá specifika.
+  * Samosprávy se příliš nevěnují otázkám přístupnosti sportovních areálů a zařízení.
 conclusion: >-
-  * Statutární město Brno vytvořilo workoutové hřiště, které mohou využívat i
-  uživatelů vozíku.
+  * Relativně jednoduchými úpravami lze vybudovat **workoutové hřiště**, které
+  může být přístupné i uživatelům vozíku.
 
-  * Hřiště je sice speciálně upraveno pro lidi s tělesným postižením, ale nic nebrání tomu, aby bylo využíváno širokou veřejností.
+  * I když je takové hřiště speciálně upraveno pro lidi s pohybovým znevýhodněním, neznamená to, že by nemohlo či nemělo být využíváno kýmkoliv jiným.
 
-  * Inspirace realizace v Hluboké nad Vltavou pomohla MMB a PSpBB při realizaci workoutových hřišť. V rámci návštěvy získali informace o úskalích realizace projektu, jeho financování a volbu vhodných materiálů a designu jednotlivých cvičebních pomůcek. 
+  * Inspirace z Hluboké nad Vltavou pomohlo při realizaci prvního bezbariérového **workoutového hřiště** v Brně. V rámci návštěvy získali zástupci Brna detailní informace o úskalích realizace projektu, jeho financování, volbě vhodných materiálů a designu jednotlivých cvičebních pomůcek. 
 
-  * Je důležité, aby bezbariérová workoutová hřiště byla řešena společně s bezbariérovým přístupem (bezbariérová parkovací místa, zastávka MHD, přístupové cesty).
+  * Je klíčové, aby bezbariérová **workoutová hřiště** byla řešena společně s bezbariérovým přístupem k nim (bezbariérová parkovací místa, zastávka MHD, přístupové cesty).
 before:
   source: Daniel Kaplan
-  alt: Příklad workoutového hřiště nevhodného pro uživatele vozíku (bez zpevněných
-    ploch)
+  alt: Příklad workoutového hřiště nevhodného pro uživatele vozíku
   name: img_20200222_113247.jpg
 after:
   source: Daniel Kaplan
@@ -87,7 +88,7 @@ timeline:
       hřiště
   - parts: 2
     time: jaro 2018
-    name: žádost o dotaci
+    name: žádost o dotaci na vybudování bezbariérového workoutového hřiště
   - parts: 2
     time: podzim 2018
     name: podání investičního záměru
