@@ -1,6 +1,6 @@
 ---
 title: Workoutové hřiště bez bariér
-number: 18
+number: 16
 ready: false
 title2: Sportovní areál Hroch, Brno
 subtitle: Jak se inspirovat příklady bezbariérových realizací z jiných měst?
