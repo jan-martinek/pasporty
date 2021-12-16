@@ -1,5 +1,5 @@
 ---
-title: Nástup do městské hromadné dopravy
+title: Nástup do MHD
 number: 3
 ready: false
 title2: školení řidičů MHD pro jednání s nevidomými cestujícími
