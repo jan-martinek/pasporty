@@ -26,8 +26,8 @@ analysis: >-
 
   * Neexistuje funkční spolupráce mezi samosprávami, kde by bylo možné se inspirovat ověřenými bezbariérovými řešeními z jiných obcí a měst.
 design: >-
-  * Realizace rovnoměrně rozmístněné sítě bezbariérových workoutových hřišť po
-  celém území města Brna.
+  * Realizace rovnoměrně rozmístněné sítě bezbariérových **workoutových hřišť**
+  po celém území města Brna.
 
   * Zpřístupnění vybranných stávajících sportovních hřišť pro uživatele vozíku.
 
