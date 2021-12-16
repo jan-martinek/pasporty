@@ -9,97 +9,94 @@ story: >-
   Ivan je architekt rok po škole. V současné době pracuje v brněnské projekční
   kanceláři, která se mimo jiné zabývá tvorbou veřejného prostoru. V tuto chvíli
   jeho tým zpracovává návrh rekonstrukce tramvajové zastávky v Brně. Práce na
-  návrhu probíhá tradičně a podle plánu. Za dva měsíce mají návrh připravený.
+  návrhu probíhá tradičně a bez problému. Za dva měsíce mají návrh připravený.
   Následně se chystá jako člen týmu na prezentaci projektu před schvalovací
   komisí. Cítí se sebevědomě. Nad návrhem se zamýšlel ze spousty pohledů, které
-  ho jenom mohly napadnout. Zároveň se mohl spolehnout na své nabyté vzdělání z
-  univerzity, kde takové projekty řešili. 
+  ho jenom mohly napadnout. Zároveň se mohl spolehnout na své univerzetní
+  vzdělání, kde obdobné projekty řešili. 
 
 
-  Otázky a připomínky přicházejí od odborníků na dopravu, zeleň, energetické sítě, přičemž na všechny dokáže odpovědět a reagovat, tak aby uspokojil požadavky jednotlivých expertů. Náhle ale přichází dotaz na bezbariérový přístup pro uživatele vozíku a nevidomé osoby. Ivan najednou ztrácí půdu pod nohama a neví, co má říct. Na bezbariérovost se zaměřil pouze snížením obrubníku, což podle přítomných expertů na bezbariérovost není dostatečné. O příslušné vyhlášce slyšel už někdy, ale nedokáže její znalost dobře aplikovat do praxe. Chybí vodící linie, sklon na přechodu je příliš strmý a itinerář je umístěn chaoticky. Celý projekt se musí předělat. Kdyby se tak o tuto problematiku více zajímal již na univerzitě...
+  Otázky a připomínky přicházejí od odborníků na dopravu, zeleň, energetické sítě, přičemž na všechny dokáže odpovědět a reagovat, tak aby uspokojil požadavky všech jednotlivých expertů. Náhle ale přichází dotaz na bezbariérový přístup pro uživatele vozíku a osoby se zrakovým znevýhodněním. Ivan najednou ztrácí půdu pod nohama a neví, co má říct. Na bezbariérovost se zaměřil pouze snížením obrubníku, což podle přítomných expertů na bezbariérovost není dostatečné. O **vyhlášce č. 398/2009 Sb.**, o obecných technických požadavcích zabezpečujících bezbariérové užívání slyšel, ale ta mu v diskusi nepomáhá. Chybí **vodící linie**, sklon na přechodu je příliš strmý, **označník** zastávky omezuje průchozí profil ostrůvku a mobiliář je navržen chaoticky. Celý projekt se musí předělat. Ivan zasmušile odchází domů a přemýšlí, jak k tomu vůbec mohlo dojít.
 analysis: >-
-  
+  * Znalost **vyhlášky č. 398/2009 Sb.** a legislativy týkající se
+  bezbariérovosti není totéž jako je umět aplikovat v praxi.
 
-  * Studenti Vysokého učení technického v Brně by měli znát vyhlášky (č. 398/2009 Sb.) a zákony týkající se bezbariérovosti, nicméně nemají kontakt s experty z praxe, kteří se o tyto zákony zasazují.
+  * Nositely znalosti o aplikaci příslušné legislativy v praxi, respektive o reálném utvářenní bezbariérového prostoru jsou pouze lidé z praxe. V případě Brna touto kompetencí disponuje hned několik členů Poradního sboru pro bezbariérové Brno.
 
-  * Studenti mohou získat povědomí o bezbariérovosti pouze pomocí expertů na různých přednáškách. 
+  * Bez této aplikované znalosti je jen velmi obtížné vytvořit funkční bezbariérový návrh prostoru.
 
-  * Studenti se mohou zúčastnit přednášek mimo VUT nebo si zapsat předměty z jiných univerzit, což je administrativní zátěž.
-
-  * V praxi nejsou často architekti schopni reflektovat potřeby znevýhodněných skupin, jakou jsou například uživatelé vozíku nebo osoby s postižením zraku.
+  * Na architektonických a stavebních fakultách v České republice není věnována dostatečná pozornost této aplikované zanlosti utváření bezbariérového prostředí.
 design: >-
-  
+  * Zapojení členů Poradního sboru pro bezbariérové Brno do výuky utváření
+  bezbariérové architektury.
 
-  * Pravidelná výuka s účastí odborníků z PSpBB na přednáškách.
+  * Používat principy zážitkové pedagogiky.
 
-  * Neomezit se pouze na strohý výklad vyhlášek a zákonů v rámci předmětů, ale přejít k zážitkové výuce. 
+  * Vytvořit sadu špatných (nefunkčních či nebezpečných) bezbariérových řešení s podrobným vysvětlením, v čem přesně chyba spočívá.
 
-  * Koordinace mezi členy PSpBB v případech, aby se zamezilo možným překryvům v náplni přednášky.
+  * Vytvořit sadu dobrých (funkčních a bezpečných) bezbariérových řešení.
+solution: >-
+  Počátek spolupráce Fakulty architektury Vysokého učení technického v Brně se
+  členy Poradní sboru pr bezbariérové Brno se datuje od roku 2008. Tehdy byl
+  první člen tehdy ještě neexistujícího poradního sboru, odborník na veřejný
+  prostor pro nevidomé, požádán zástupcem Fakulty architektury o spolupráci na
+  projektu studentů 4. ročníku s názvem Neviděné město. Od té doby je tento člen
+  poradního sboru stálým účastníkem tohoto volitelného předmětu.
 
-  * Vytvořit rámci PSpBB studijní materiály, které by mohly být nabízeny i jiným univerzitám.
-solution: Počátek spolupráce s členy PSpBB a Fakultou architektury VUT se datuje
-  od roku 2008. Tehdy je první člen PSpBB, odborník na veřejný prostor pro
-  nevidomé, požádán zástupcem VUT o spolupráci na projektu studentů 4. ročníku
-  architektury Neviděné město, který studenti řešili v rámci volitelného
-  předmětu. Cílem těchto přednášek je polidštění strohého znění paragrafů
-  různých vyhlášek a norem. Od té doby je tento člen PSpBB stálým účastníkem
-  tohoto volitelného předmětu. Na tuto spolupráci navázala pravidelná účast na
-  přednáškách předmětu Typologie II (povinný předmět) v roce 2011, kde se řeší
-  především legislativní záležitosti spojené s tělesně znevýhodněnými osobami.
-  Postupně se do spolupráce na obou těchto předmětech zapojuje i další člen
-  PSpBB, který přibližuje pohyb uživatele vozíku po Brně. Většina přednášek je
-  zaměřena na zprostředkovanou zkušenost studentů s daným handicapem. Další
-  jednorázová akce proběhla v roce 2018, kdy na akci s názvem Dvojí metr –
-  stejní lidé, stejné potřeby, různá řešení členka PSpBB představila odlišnosti
-  přístupnosti prostředí ve Švédsku a České republice. Přednášky se zúčastnila
-  také expertka ze Švédska. Zatím poslední pravidelnou aktivitou je přednáška
-  člena PSpBB, odborníka na bezbariérovost, v rámci předmětu Sociální vědy a
-  vybrané problémy architektury a prostoru, kde se věnuje analýze prostoru skrze
-  možnosti našeho těla.
+
+  Na tuto spolupráci navázala pravidelná účast na přednáškách předmětu Typologie II (povinný předmět) v roce 2011, kde se řeší především legislativní záležitosti spojené s tělesně znevýhodněnými osobami. Postupně se do spolupráce na obou těchto předmětech začal zapojovat i další člen poradního sboru, který přibližuje zkušenost uživatele vozíku po Brně. Většina přednášek je zaměřena na zprostředkování odlišné tělesné zkušenosti studentům bez této zkušenosti.
+
+
+  V roce 2018 proběhla sice na Stavební fakultě nicméně nejen pro studenty stavebnictví, jednorázová akce s názvem Dvojí metr – stejní lidé, stejné potřeby, různá řešení, kde členka PSpBB představila odlišnosti v přístupu k utváření bezbariérového prostředí ve Švédsku a České republice.
+
+
+  Zatím poslední pravidelnou aktivitou je přednáška dalšího člena poradního sboru, v rámci povinného předmětu Sociální vědy a vybrané problémy architektury a prostoru, která je věnována tomu, proč jen legislativa nestačí.
 constraints: >-
-  * Většina přednášek je zajištěna pouze na ústní dohodě mezi vyučujícím a
-  přednášejícím. Bylo by lepší mít jasně stanovený program. 
+  * Většina těchto aktivit probíhá pouze na základě ústní dohody mezi vyučujícím
+  a zvaným hostem.
 
-  * V praxi jsou architekti často pod velkým vlivem zadavatele, který nemusí bezbariérovosti věnovat takovou pozornost a četnost a kvalita výuky je řešením problému pouze z jedné strany.
+  * Členové poradního sboru jsou značně časově vytíženi a není snadné jejich zapojení do výuky výrazně navyšovat.
 
-  * Členové PSpBB jsou časově vytíženi a nový předmět pro studenty by pro ně znamenal další časovou zátěž.
+  * V praxi jsou architekti často pod velkým tlakem zadavatele, který nemusí problematice bezbariérovosti věnovat dostatečnou pozornost. Ani výuka utváření bezbariérového prostředí na fakultách architektury nemusí ústit do přístupnějších návrhů v budoucnosti.
 conclusion: >-
-  
+  * Díky výukovým aktivitám členů poradního sboru na Fakultě architektury
+  Vysokého učení technického v Brně se zvýší aplikovaná znalost konkrétních
+  způsobů utvaření bezbariéroého prostředí.
 
-  * Díky přednáškám a předmětům od odborníků PSpBB na VUT v Brně se mezi studenty, potažmo absolventy architektury zvýší orientace v problematice bezbariérovosti.
+  * Výuka je vedena zážitkovou formou, čímž lze lépe přiblížit zkušenost lidí s tělesným znevýhodněním při pohybu v prostoru. 
 
-  * Výuka je vedena zážitkovou formou, čímž lze lépe přiblížit potíže handicapovaných lidí při pohybu ve veřejném prostoru. 
-
-  * Výsledky a výstup z workshopů a hodin mohou pomoci handicapovaným lidem v běžném životě.
-
-  * Vzhledem k povinnosti předmět Typologie II absolvovat se s bezbariérovostí seznámí všichni studenti oboru (cca 70 studentů).
+  * Vzhledem k povinnosti předmětů Sociální vědy a vybrané problémy architektury a prostoru a Typologie II se s problematikou aplikované bezbariérovosti seznámí všichni studenti oboru.
 before:
   source: Milena Antonovičová
-  alt: ""
+  alt: Na obrázku je jeden z příkladů velmi nevhodně stavebně upraveného vchodu do
+    lékárny, který je často používán jako příklad nefunkčních a nebezpečných
+    řešení.
   name: pred.png
 after:
   source: Josef Konečný
-  alt: ""
+  alt: Na obrázku studenti architektury představují návrhy svých bezbariérových
+    řešení prostoru nevidomým klientům brněnského TyfloCentra
   name: po.jpg
 timeline:
   - parts: 3
     time: "2008"
-    name: Účast odborníka PSpBB na veřejný prostor pro nevidomé na projektu
-      Neviditelné města
+    name: účast odborníka na bezbariérovost veřejného prostoru pro nevidomé lidi na
+      projektu Neviditelné města
   - parts: 2
     time: "2011"
-    name: První odborníka PSpBB na veřejný prostor pro nevidomé v rámci předmětu
-      Typologie II
+    name: první účast odborníka na bezbariérovost veřejného prostoru pro nevidomé
+      lidi v rámci předmětu Typologie II
   - parts: 6
     time: "2013"
-    name: Zapojení odborníka PSpBB na veřejný prostor pro uživatele vozíku do výuky
-      předmětu Typologie II
+    name: zapojení odborníka na bezbariérovost veřejného prostoru pro uživatele
+      vozíku do výuky předmětu Typologie II
   - parts: 2
     time: "2018"
     name: Dvojí metr – stejní lidé, stejné potřeby, různá řešení
   - parts: 1
     time: "2020"
-    name: Účast odborníka PSpBB na bezbariérovost ve výuce nového předmětu
+    name: účast odborníka poradního sboru na bezbariérovost ve výuce předmětu
+      Sociální vědy a vybrané problémy architektury a prostoru
 dictionary:
   - vyhláška č. 398/2009 Sb.
 ---
