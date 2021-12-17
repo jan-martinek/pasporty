@@ -91,7 +91,7 @@ before:
   name: semafory_foto_pred.jpg
   alt: Nevidomá osoba přechází vozovku na čevenou
 after:
-  source: Povel Doboš
+  source: Pavel Doboš
   name: semafory_foto_po.jpg
   alt: Nevidomá osoba přechází vozovku na zelenou
 timeline:
