@@ -9,22 +9,23 @@ story: "Začíná rok 2016 a nevidomý pan Jiří se chystá jet z Brna mezinár
   autobusovou linkou do Vídně. Tato linka odjíždí z autobusového nádraží u
   hotelu Grand. Pan Jiří se na nádraží u Grandu potřebuje dostat z nedalekého
   nástupiště tramvají před hlavním železničním nádražím. Odtud má k nádraží u
-  Grandu vést vodící linie. Pan Jiří se po ní vydá, avšak vodící linie náhle
-  končí u křižovatky. Pan Jiří neví kudy dál, a tak pokračuje směrem za zvukem
-  autobusových motorů. Dlouho bloudí, ale naštěstí si ho všimne kolemjdoucí,
-  který ho dovede k autobusovým nástupištím. Onomu kolemjdoucímu však náhle
-  odjíždí autobus, a tak musí Jiřího opustit. Pan Jiří ví, že musí odjet z
-  nástupiště číslo 5, ale netuší, jak ho nalézt. Ptá se proto u prodejního
-  stánku, kde mu odvětí: „Pětka je támhle kousek nalevo od vás.“ Pan Jiří se tím
-  směrem vydává, ale bez vodící linie si není jistý. Ptá se proto lidí
-  čekajících na autobus. Ti mu odvětí, že vůbec nevědí, jak tu jsou nástupiště
-  rozmístěná, a že čekají, až prostě uvidí svůj autobus. Nakonec se dozví, že k
-  nástupišti číslo 5 zcela náhodně sám došel. Autobus, do kterého zde právě
-  nastupují cestující však míří do Krakova, nikoli do Vídně. Pan Jiří tedy čeká.
-  Autobus do Krakova odjíždí a žádný jiný dlouho nepřijíždí. Po chvíli se ptá
-  jiného čekajícího muže, zdali tu někde nestojí autobus do Vídně. Onen muž mu
-  odvětí, že ten autobus tu již byl, ale stál ve vozovce až za autobusem do
-  Krakova, neboť se jinam nevešel. A že odbavil cestující a před chvílí odjel."
+  Grandu vést **vodící linie**. Pan Jiří se po ní vydá, avšak **vodící linie**
+  náhle končí u křižovatky. Pan Jiří neví kudy dál, a tak pokračuje směrem za
+  zvukem autobusových motorů. Dlouho bloudí, ale naštěstí si ho všimne
+  kolemjdoucí, který ho dovede k autobusovým nástupištím. Onomu kolemjdoucímu
+  však náhle odjíždí autobus, a tak musí Jiřího opustit. Pan Jiří ví, že musí
+  odjet z nástupiště číslo 5, ale netuší, jak ho nalézt. Ptá se proto u
+  prodejního stánku, kde mu odvětí: „Pětka je támhle kousek nalevo od vás.“ Pan
+  Jiří se tím směrem vydává, ale bez **vodící linie** si není jistý. Ptá se
+  proto lidí čekajících na autobus. Ti mu odvětí, že vůbec nevědí, jak tu jsou
+  nástupiště rozmístěná, a že čekají, až prostě uvidí svůj autobus. Nakonec se
+  dozví, že k nástupišti číslo 5 zcela náhodně sám došel. Autobus, do kterého
+  zde právě nastupují cestující však míří do Krakova, nikoli do Vídně. Pan Jiří
+  tedy čeká. Autobus do Krakova odjíždí a žádný jiný dlouho nepřijíždí. Po
+  chvíli se ptá jiného čekajícího muže, zdali tu někde nestojí autobus do Vídně.
+  Onen muž mu odvětí, že ten autobus tu již byl, ale stál ve vozovce až za
+  autobusem do Krakova, neboť se jinam nevešel. A že odbavil cestující a před
+  chvílí odjel."
 analysis: >-
   Pro nevidomé cestující neexistovala k autobusovému nádraží u Grandu v Brně
   žádná jednoduchá cesta.
