@@ -54,18 +54,18 @@ solution: Sjednocenná organizace nevidomých a slabozrakých (SONS) si začala 
   společně vytvořily návrh řešení použití vyvolávacího systému. Pracuje tak, že
   si nevidomý klient pošty u vstupu pomocí dálkového vysílače povelů pro
   nevidomé (**technologie VPN**) aktivuje hlasový majáček, díky němuž dohledá
-  vchod do budovy. Následně se z fráze majáčku dozví, jak se pomocí umělé vodicí
-  linie dostane k příslušné přepážce. Tam se vysláním povelu z vysílače povelů
+  vchod do budovy. Z druhé fráze majáčku se dozví, jak se dostane k vyhrazené
+  přepážce pomocí umělé vodicí linie. Tam se vysláním povelu z vysílače povelů
   pro nevidomé (**technologie VPN**) zaregistruje do lístkového systému. Ve
-  chvíli, kdy se příslušná přepážka uvolní, tak je spuštěn akustický signál,
+  chvíli, kdy se vyhrazená přepážka uvolní, tak je spuštěn akustický signál,
   který upozorní jak na moment uvolnění přepážky, ale i na umístění příslušné
-  přepážky. Pilotní testování technologie proběhlo na poště na Lesné v Brně. Ta
-  byla vybrána jako pošta nejvíce navštěvovaná nevidomými klienty. Poté byl
-  upravený vyvolávací systém nainstalován ještě na dvou poštách v Brně. SONS
-  nicméně od začátku koncipovala technologii tak, aby ji bylo moné instalovat na
-  jakoukoli poštu s vyvolávacím lístkovým systémem. Proto byl společně s Českou
-  poštou odsouhlasen seznam pošt, kde bude technologie zavedena. Technologie je
-  tak nakonec zavedena na 18 poštách po celé České republice.
+  přepážky, kte které jej navede. Pilotní testování technologie proběhlo na
+  poště na Lesné v Brně. Poté byl upravený vyvolávací systém nainstalován ještě
+  na dvou poštách v Brně. SONS nicméně od začátku koncipovala technologii tak,
+  aby ji bylo možné instalovat na jakoukoli poštu s vyvolávacím lístkovým
+  systémem. Proto byl společně s Českou poštou odsouhlasen seznam pošt, kde bude
+  technologie zavedena. Technologie je tak nakonec zavedena na 18 poštách po
+  celé České republice.
 constraints: >-
   Úprava vyvolávacího lístkového systému je neúměrně finančně nákladná.
 
@@ -73,7 +73,7 @@ constraints: >-
   Mezi nevidomými klienty pošt je nutné šířit informaci, které konkrétní pošty disponují touto úpravou.
 
 
-  K bezproblémovému fungování je potřeba stálý proškolený personál. Česká pošta má poměrně velkou fluktuaci zaměstnanců
+  K bezproblémovému fungování je potřeba stálý proškolený personál. Česká pošta má poměrně velkou fluktuaci zaměstnanců.
 
 
   Nevidomí lidé musejí být taktéž nějakou cestou seznámeni s tím, jak upravený vyvolávací systém využívat.
@@ -93,16 +93,15 @@ conclusion: >-
 
   Pošt s ozvučenými vyvlávacími systémy je v ČR 18, nicméně ozvučených pošt (s hlasovým majáčkem) bez lístkového vyvolávacího systému je téměř 400.
 before:
-  name: posty-foto-pred_b.jpg
-  source: https://1gr.cz/fotky/idnes/15/103/org/EVS5edd2b_posta.jpg
-  alt: Na obrázku je terminál pro vydávání lístků bez úpravy přístupné pro osoby
-    nevidomé.
+  name: cimg1932.jpg
+  source: Pavel Doboš
+  alt: Na obrázku je terminál pro vydávání lístků bez úpravy přístupné pro
+    nevidomé klienty.
 after:
-  name: posty-foto-po.jpg
-  source: https://fastly.4sqi.net/img/general/600x600/30928169_cVtszRy4cTEeATTiFryPxhgvOHAm9ND966eDjcNn7oM.jpg    <dočasné,
-    bude vytvořena nová fotka>
-  alt: "Na obrázku je umělá vodicí linie vedoucí k vyhrazené poštovní přepážce.
-    Lavičky s čekajícími zákazníky průchod podél linie nijak neomezují. "
+  name: cimg1930.jpg
+  source: Pavel Doboš
+  alt: Na obrázku je umělá vodicí linie vedoucí k vyhrazené poštovní přepážce.
+    Lavičky s čekajícími zákazníky průchod podél linie nijak neomezují.
 timeline:
   - parts: 1
     time: "2005"
