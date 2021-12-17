@@ -23,29 +23,29 @@ story: >-
 
 
   Po 15 letech se bezbariérově spojuje 30 metrů dlouhá trasa mezi zastávkou MHD Vlhká a Úřadem práce.
-analysis: "1. Za tuto 30 metrů dlouhou trasu je ve svých částech odpovědno
-  neuvěřitelných 7 institucí:
+analysis: >-
+  1. Za tuto 30 metrů dlouhou trasu je ve svých částech odpovědno neuvěřitelných
+  7 institucí:
 
-  •\tMagistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,\r
 
-  •\tMČ Brno střed: přilehlé chodníky,\r
+  * Magistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,
 
-  •\tÚřad práce České republiky: samotná budova,\r
+  * MČ Brno střed: přilehlé chodníky,
 
-  •\tDopravní podnik města Brna (DPMB): správa nástupního ostrůvku, tramvajové
-  tratě,\r
+  * Úřad práce České republiky: samotná budova,
 
-  •\tBrněnské komunikace, a. s.: správa vozovky, chodníků,\r
+  * Dopravní podnik města Brna (DPMB): správa nástupního ostrůvku, tramvajové tratě,
 
-  •\tPolicie ČR – Dopravní inspektorát Brno: dotčený orgán státní správy ve
-  věci bezpečnosti dopravy,\r
+  * Brněnské komunikace, a. s.: správa vozovky, chodníků,
 
-  •\tDrážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.\r
+  * Policie ČR – Dopravní inspektorát Brno: dotčený orgán státní správy ve věci bezpečnosti dopravy,
 
-  3. Je o poznání snazší realizovat část trasy ve správě jedné instituce než
-  realizovat celou trasu v koordinaci všech institucí.
+  * Drážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.
 
-  4. Neexistuje platforma, kde by docházelo ke koordinaci těchto institucí."
+
+  1. Je o poznání snazší realizovat část trasy ve správě jedné instituce než realizovat celou trasu v koordinaci všech institucí.
+
+  2. Neexistuje platforma, kde by docházelo ke koordinaci těchto institucí.
 design: >-
   1. Nalezení kontaktních zástupců za každou zúčastněnou instituci.
 
