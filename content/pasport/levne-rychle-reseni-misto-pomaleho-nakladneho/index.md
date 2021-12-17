@@ -55,45 +55,47 @@ design: >-
    Doplnění kabelů je technicky náročné, časově zdlouhavé a finančně nákladné.
 
   Je tedy vhodné zkusit nejdříve najít rychlejší a méně složitou možnost řešení. Takovým řešením může být ozvučení semaforů vedoucích do různých směrů odlišnými zvuky.
-solution: V Brně bylo akustickým signálem pro nevidomé osoby postupně vybavena
-  většina křižovatek se semafory. Lidé žijící u křižovatek si však začali
-  stěžovat, že je neustále tikání ruší, a proto se na semafory umístila
-  tlačítka, která akustickou signalizaci spouštějí. Odborník na odstraňování
-  bariér pro nevidomé osoby však začal sbírat kritické reakce, že tlačítka na
-  semaforu se mnohdy obtížně nahmatají, a proto společně s vedoucím servisu
-  světelné signalizace Brněnských komunikací vytvořili možnost spuštění
-  akustické signalizace pomocí **technologie VPN**. Na křižovatkách se semafory
-  do více směrů to však působovalo potíže. Instalace technologie, která by
-  rozpojila přijímaný signál do semaforů, aby se vždy spouštěl pouze jeden
-  semafor, by vyšla zhruba na 100 000 Kč na jednu křižovatku a realizace by
-  trvala minimálně jeden rok. Proto bylo navrženo řešení, že na těchto
-  křižovatkách bude do semaforů různých směru zavedena odlišná akustická
-  signalizace, tzv. siréna. Realizace tohoto řešení byla velice rychlá a
-  nesrovnatelně levnější.
-constraints: |-
-  I kombinace tikání a sirény těsně vedle sebe může být rušivá.
+solution: >
+  V Brně je spousta křižovatek, kde jsou sloupky se semafory pro odlišné směry
+  chůze velmi blízko sebe. Nevidomí chodci zde mají problém sluchem rozeznat,
+  který signál klepání platí pro který směr chůze. Odborník na zpřístupňování
+  prostoru pro nevidomé lidi proto navrhl jednoduché řešení, které bylo, díky
+  pochopení a vstřícnosti vedoucího servisu světelné signalizace Brněnských
+  komunikací následně realizováno. Na křižovatce, která nedisponovala
+  dostatečným počtem propojovacích kabelů, a jejich doplnění by si vyžádalo
+  nejméně 100 000 korun českých a trvalo by nejméně 1 rok, byl pro směr přes
+  méně frekventovanou vozovku použit zvuk tzv. "klepátka" a pro směr přes
+  frekventovanější vozovku silnější a výrazně odlišný zvuk tzv. "kvákadla".
+  Zvukový kontrast je natolik velký, že k záměně směrů již nedochází.
+constraints: >-
+  I kombinace různých zvuků akustického výstupu semaforů vyžaduje od nevidomých
+  osob zvýšenou pozornost.
 
-  Zvuk sirény může být nečekaný a matoucí pro chodce bez zrakového znevýhodnění.
+
+  Zvuk "kvákadla" může být nečekaný a matoucí pro chodce bez zrakového znevýhodnění.
 conclusion: >-
   Používání nových technologií pro bezbariérové úpravy mohou vytvářet i nové
   neočekávané bariéry.
 
 
-  Takovou bariérou je například spuštění ozvučení semaforů pomocí **technologie VPN** do více směrů najednou.
+  Takovou bariérou je například spuštění ozvučení semaforů pomocí **technologie VPN** stojících ve vzdálenosti méně než 4 metry od sebe a směřujících do různých směrů – nelze rozeznat, jak který semafor klepe.
+
+
+  Tyto komplikace je možné vyřešit složitými a nákladnými úpravami – **instalace rozpojovacích tlačítek**.
 
 
   Každá i nově vzniklá bariéra je řešitelná, nicméně vzniká zde otázka po smysluplnosti a finančních nákladech tohoto řešení.
 
 
-  Vždy je vhodné nejprve promyslet, zdali nejsou k dispozici jednodužší, účelnější a levnější řešení.
+  Vždy je vhodné nejprve promyslet, zdali nejsou k dispozici jednodužší, účelnější a levnější řešení – rozdílné zvuky pro odlišné směry chůze.
 before:
   source: Pavel Doboš
   name: semafory_foto_pred.jpg
-  alt: Nevidomá osoba přechází vozovku na čevenou
+  alt: Nevidomá osoba přechází vozovku na čevenou.
 after:
   source: Pavel Doboš
   name: semafory_foto_po.jpg
-  alt: Nevidomá osoba přechází vozovku na zelenou
+  alt: Nevidomá osoba přechází vozovku na zelenou.
 timeline:
   - parts: 4
     time: březen 2012
