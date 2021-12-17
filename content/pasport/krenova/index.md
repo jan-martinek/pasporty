@@ -45,10 +45,6 @@ analysis: >-
   * Policie ČR – Dopravní inspektorát Brno: dotčený orgán státní správy ve věci bezpečnosti dopravy,
 
   * Drážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.
-
-
-
-     3. Neexistuje platforma, kde by docházelo ke koordinaci těchto institucí.
 design: >-
   1. Nalezení kontaktních zástupců za každou zúčastněnou instituci.
 
