@@ -44,17 +44,17 @@ analysis: >-
 
   Pokud jsou „klepátka“ pro různé směry chůze umístěny na jednom sloupku nebo jsou sloupky semaforů blízko u sebe, pak je velice obtížné rozlišit, který semafor zrovna klepe rychle pro přecházení a který pomalu pro čekání.
 design: >-
-  **Technologie VPN** se upraví tak, že spustí ozvučení pouze toho semaforu,
-  který je blíže k **ovladači VPN**.
+  Na sloupky semaforů, které signalizují přecházení v různých směrech chůze a
+  jsou od sebe vzdáleny méně než 4 metry, se umísťují tzv. **rozpojovací
+  tlačítka**. Ta při držení umlčí akustický signál pro směr, který není potřeba
+  a je slyšet pouze signál pro požadovaný směr chůze.
 
 
-  Vzhledem k tomu, že **technologie VPN** vysílá povely na vzdálenosti desítek metrů, může být toto řešení technologicky komplikované a tak i nákladné.
+  Instalace **rozpojovacích tlačítek** je závislá na dostatečném počtu propojovacích kabelů mezi všemi semafory na křižovatce. Jejich absence výše zmíněné řešení neumožňuje.
 
+   Doplnění kabelů je technicky náročné, časově zdlouhavé a finančně nákladné.
 
-  Je tedy vhodné pokusit se nejdříve nalézt méně komplikované možnosti řešení. 
-
-
-  Takovým řešením může být ozvučení semaforů vedoucích do různých směrů odlišnými zvuky.
+  Je tedy vhodné zkusit nejdříve najít rychlejší a méně složitou možnost řešení. Takovým řešením může být ozvučení semaforů vedoucích do různých směrů odlišnými zvuky.
 solution: V Brně bylo akustickým signálem pro nevidomé osoby postupně vybavena
   většina křižovatek se semafory. Lidé žijící u křižovatek si však začali
   stěžovat, že je neustále tikání ruší, a proto se na semafory umístila
