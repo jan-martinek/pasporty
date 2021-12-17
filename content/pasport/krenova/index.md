@@ -1,7 +1,7 @@
 ---
 title: Koordinace velkého množství aktérů
 number: 1
-ready: true
+ready: false
 title2: Křenová, Brno
 subtitle: Proč to trvalo 15 let? Z jakého důvodu to nebylo možné realizovat rychleji?
 story: >-
@@ -25,7 +25,7 @@ story: >-
   Po 15 letech se bezbariérově spojuje 30 metrů dlouhá trasa mezi zastávkou MHD Vlhká a Úřadem práce.
 analysis: >-
   1. Za tuto 30 metrů dlouhou trasu je ve svých částech odpovědno neuvěřitelných
-  7 institucí:
+  7 institucí: 
 
 
   * Magistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,
@@ -42,10 +42,9 @@ analysis: >-
 
   * Drážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.
 
+  2. Je o poznání snazší realizovat část trasy ve správě jedné instituce než realizovat celou trasu v koordinaci všech institucí.
 
-  1. Je o poznání snazší realizovat část trasy ve správě jedné instituce než realizovat celou trasu v koordinaci všech institucí.
-
-  2. Neexistuje platforma, kde by docházelo ke koordinaci těchto institucí.
+  3. Neexistuje platforma, kde by docházelo ke koordinaci těchto institucí.
 design: >-
   1. Nalezení kontaktních zástupců za každou zúčastněnou instituci.
 
