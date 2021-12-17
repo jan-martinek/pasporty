@@ -8,7 +8,7 @@ subtitle: Jak zajistit nevidomým lidem bezpečný přechod vozovky na křižova
 story: "Začínal květen roku 2013 a nevidomá paní Milada šla nakupovat potraviny.
   Na cestě ze svého domu k obchodu musí přejít rušnou křižovatku se semafory. V
   minulosti běžně přišla k semaforovému sloupu, nahmatala na něm tlačítko pro
-  zapnutí akustické signalizace a vyčkala, až semafor začně tikat rychlajším
+  zapnutí akustické signalizace a vyčkala, až semafor začně tikat rychlejším
   tempem, tedy oznamovat, že je možnost přejít vozovku. Od svého známého se
   dozveděla, že nedávno proběhlo vylepšení akustické signalizace semaforů v
   Brně, kdy již není nutné nahmatat tlačítko na semaforovém sloupu, ale je možné
@@ -17,29 +17,32 @@ story: "Začínal květen roku 2013 a nevidomá paní Milada šla nakupovat potr
   radost, protože mnohdy jí nahmatání tlačítka na sloupu trvalo dlouho. U
   křižovatky tedy pomocí **technologie VPN** spustila akustickou signalizaci a
   semafor začal vydávat pomalý tikající zvuk, oznamující, že má vyčkat. Brzy
-  začal semafor tikat rychleji, a tedy oznavovat, že již může přejít. Paní
+  začal semafor tikat rychleji, a tedy oznamovat, že již může přejít. Paní
   Milada začala přecházet vozovku po přechodu, když ale najednou uslyšela vedle
   sebe prudké brždění automobilu a hlasité troubení klaksonu. Řidič z auta
   zvolal: „Sakra, paní, vždyť máte červenou, málem jsem vás zajel. Dělejte,
   běžte!“"
 analysis: >-
-  Ozvučený semafor vydává pomalý tikající zvuk, když je červená, a rychlý
-  tikající zvuk, když je zelená.
-
-
-  Neboť neustále tikající semafory ruší obyvatele žijící v okolí, ozvučení pro nevidomé lidi se zapíná po stisku tlačítka.
+  Protože ozvučené semafory ruší obyvatele žijící v jejich okolí, ozvučení pro
+  nevidomé lidi se zapíná po stisku tlačítka.
 
 
   Tlačítko na sloupu semaforu lze mnohdy obtížné nahmatat, proto bylo umožněno spouštět ozvučení pomocí **technologie VPN**.
 
 
-  V Brně je mnoho křižovatek, kde je přechod s ozvučeným semaforem do několika různých směrů.
+  Na značených přechodech vybavených semafory si mohou nevidomí chodci, pomocí technologie VPN, aktivovat akustickou signalizaci.
 
 
-  **Technologie VPN** na těchto křižovatkách spustí ozvučení semaforů do všech směrů najedno.
+  Semafor pak vydává při červené barvě pomalý a při zelené barvě rychlý „klepající“ zvuk.
 
 
-  Následně je obtížné rozlišit, kterému směru právě přísluší rychlé tikání pro přecházení a kterému pomalé pro čekání.
+  Technologie VPN však aktivuje ozvučení všech semaforů na křižovatce.
+
+
+  Některé křižovatky mají přechody do více směrů.
+
+
+  Pokud jsou „klepátka“ pro různé směry chůze umístěny na jednom sloupku nebo jsou sloupky semaforů blízko u sebe, pak je velice obtížné rozlišit, který semafor zrovna klepe rychle pro přecházení a který pomalu pro čekání.
 design: >-
   **Technologie VPN** se upraví tak, že spustí ozvučení pouze toho semaforu,
   který je blíže k **ovladači VPN**.
