@@ -1,7 +1,7 @@
 ---
 title: Bez politické podpory to nejde
 number: 2
-ready: false
+ready: true
 title2: přednádraží, Brno
 subtitle: Jak při výměně asfaltového povrchu za zámkovou dlažbu mohou vzniknout
   orientační prvky, které jsou pro osoby se zrakovým znevýhodněním nevyužitelné
