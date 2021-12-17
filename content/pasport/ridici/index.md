@@ -82,7 +82,7 @@ after:
 timeline:
   - time: 2010
     parts: 4
-    name: Tyflocentrum oslovuje dopravní podník
+    name: TyfloCentrum oslovuje dopravní podnik
   - time: 2014
     parts: 2
     name: první školení, díky úspěchu spolupráce pokračuje
