@@ -15,12 +15,12 @@ story: >-
 
   Jiný den Karel u **označníku** stál správně. Když přijel trolejbus, Milada nastoupila, nicméně Karel zůstal stát venku. Řidič se na něj zmateně díval, a když Karel stále nenastupoval, začal zavírat dveře. Milada zastavila řidiče a zavolala ven na Karla, že je tu jeho trolejbus 25. Karel urychleně nastoupil a poté Miladě velmi děkoval za upozornění. Ale že prý trolejbusy jsou dnes tak tiché, že v tom okolním hluku vůbec neslyšel, jak trolejbus přijel.
 analysis: >-
-  1. Lidé nevidomí čekající na MHD mají doporučeno, aby stáli u označníku
+  1. Nevidomí lidé čekající na MHD mají doporučeno, aby stáli u **označníku**
   zastávky a nastupovali předními dveřmi vozu.
 
-  2. Po vystoupení z vozidla MHD, které přijede jako druhé v pořadí, si mohou mylně myslet, že vystoupili u označníku zastávky.
+  2. Po vystoupení z vozidla MHD, které přijede jako druhé v pořadí, si mohou mylně myslet, že vystoupili u **označníku** zastávky.
 
-  3. Lidé nevidomí nemusejí slyšet přijet tichá vozidla MHD. 
+  3. Nevidomí lidé nemusejí slyšet přijet tichá vozidla MHD.
 
   4. Vidící lidé by jim i rádi pomohli, ale nevědí, co vše je pro osoby nevidomé při cestování MHD problémem.
 
@@ -33,11 +33,11 @@ design: >-
 
   2. Seznámit řidiče MHD s problematikou samostatného cestování nevidomých cestujících.
 
-  3. Zavést způsob osvětové činnosti pro řidiče MHD, například krátká školení o této problematice.
+  3. Zavést způsob osvětové činnosti pro řidiče MHD, například krátká školení o této problematic
 solution: >-
   Pracovníci brněnského TyfloCentra řešili časté stížnosti nevidomých
   cestujících na řidiče MHD, způsobené nedorozuměními mezi oběma skupinami.
-  Proto odborník na bezbariérovost z Tyflocentra Dopravnímu podniku města Brna
+  Proto odborník na bezbariérovost z TyfloCentra Dopravnímu podniku města Brna
   nabídl, že řidiče MHD seznámí s problematikou samostatného cestování
   nevidomých osob v MHD i se způsobem, jak jim jej mohou usnadnit a
   nedorozuměním předcházet. Přestože v tom zprvu dopravní podnik neviděl
@@ -45,30 +45,26 @@ solution: >-
   školení pro nově přijaté řidiče tramvají.
 
 
-  Školení bylo vyhodnoceno jako úspěšné, a proto se začalo zavádět i pro nové řidiče trolejbusů a autobusů a nakonec i pro všechny stávající řidiče. S využitím ukázek, pomůcek a příhod přímo z reálného života dokázal odborník z TyfloCentra, sám nevidomý, řidičům přiblížit problematiku nevidomého cestujícího v MHD. Školení se ukázalo jako efektivní a řidiči byli překvapeni, jak lze snadno těmto cestujícím ulehčit cestování, když porozumí důvodům jejich chování. Dopravní podnik proto soudí, že šlo skutečně pouze o pochopení problematiky a překonání určité obavy, jak k nevidomým cestujícím přistupovat.
+  Školení bylo vyhodnoceno jako úspěšné, a proto se začalo zavádět i pro nové řidiče trolejbusů a autobusů a nakonec i pro všechny stávající řidiče. S využitím ukázek, pomůcek a příhod přímo z reálného života dokázal odborník z TyfloCentra, sám nevidomý, řidičům přiblížit problematiku nevidomého cestujícího v MHD. Školení se ukázalo jako efektivní a řidiči byli překvapeni, jak snadno lze těmto cestujícím ulehčit cestování, když porozumí důvodům jejich chování. Dopravní podnik proto soudí, že šlo skutečně pouze o pochopení problematiky a překonání určité obavy, jak k nevidomým cestujícím přistupovat.
 constraints: >-
-  Bariéra nemusí mít v případě osob se zrakovým znevýhodněním podobu pouze
-  chybějící vodící linie či překážky v prostoru vodící linie, ale často může jít
+  * Bariéra nemusí mít v případě osob se zrakovým znevýhodněním podobu pouze
+  chybějící vodicí linie či překážky v prostoru vodicí linie, ale často může jít
   o bariérové situace, které jsou řešitelné pouze na úrovni vhodné interakce a
   komunikace.
 
+  * Může být složité přesvědčit dopravní podnik, že k vyřešení některých bariérových situací skutečně může stačit „tak málo“.
 
-  Může být složité přesvědčit dopravní podnik, že k vyřešení některých bariérových situací skutečně může stačit "tak málo". 
-
-
-  Nikdy není možné s naprostou jistotou říci, jak se v konkrétní situaci zachová i vyškolený řidič.
+  * Nikdy není možné s naprostou jistotou říci, jak se v konkrétní situaci zachová i vyškolený řidič.
 conclusion: >-
-  K usnadnění přístupu do určitých prostorů či užití určitých objektů mnohdy
+  * K usnadnění přístupu do určitých prostorů či užití určitých objektů mnohdy
   stačí jen základní znalost, jak je znevýhodněné skupiny osob využívají.
 
+  * Vozidla MHD jsou příklady takových objektů.
 
-  Vozidla MHD jsou příklady takových objektů.
+  * Znalost se neobejde bez komunikace se znevýhodněnými skupinami osob.
 
+  * Díky této znalosti se snižuje ostych vyptávat se lidí se znevýhodněním na jejich další potřeby.
 
-  Znalost se neobejde bez komunikace se znevýhodněnými skupinami osob.
-
-
-  Díky této znalosti se snižuje ostych vyptávat se lidí se znavýhodnněím na jejich další potřeby.
 
 
   > K navázání komunikace mohou sloužit krátká informační setkání, jako jsou povinná školení řidičů.
