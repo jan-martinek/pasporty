@@ -42,10 +42,9 @@ analysis: >-
 
   * Drážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.
 
+     2. Je o poznání snazší realizovat část trasy ve správě jedné instituce než realizovat celou trasu v koordinaci všech institucí.
 
-  2. Je o poznání snazší realizovat část trasy ve správě jedné instituce než realizovat celou trasu v koordinaci všech institucí.
-
-  3. Neexistuje platforma, kde by docházelo ke koordinaci těchto institucí.
+     3. Neexistuje platforma, kde by docházelo ke koordinaci těchto institucí.
 design: >-
   1. Nalezení kontaktních zástupců za každou zúčastněnou instituci.
 
