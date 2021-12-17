@@ -114,4 +114,5 @@ timeline:
     name: zvuk "kvákadla" je instalován na všechny potřebné křižovatky
 dictionary:
   - technologie VPN
+  - rozpojovací tlačítko
 ---
