@@ -27,13 +27,21 @@ analysis: >-
   1. Za tuto 30 metrů dlouhou trasu je ve svých částech odpovědno neuvěřitelných
   7 institucí: 
 
-    * Magistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,
-    * MČ Brno střed: přilehlé chodníky,
-    * Úřad práce České republiky: samotná budova,
-    * Dopravní podnik města Brna (DPMB): správa nástupního ostrůvku, tramvajové tratě,
-    * Brněnské komunikace, a. s.: správa vozovky, chodníků,
-    * Policie ČR – Dopravní inspektorát Brno: dotčený orgán státní správy ve věci bezpečnosti dopravy,
-    * Drážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.
+
+  * Magistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,
+
+  * MČ Brno střed: přilehlé chodníky,
+
+  * Úřad práce České republiky: samotná budova,
+
+  * Dopravní podnik města Brna (DPMB): správa nástupního ostrůvku, tramvajové tratě,
+
+  * Brněnské komunikace, a. s.: správa vozovky, chodníků,
+
+  * Policie ČR – Dopravní inspektorát Brno: dotčený orgán státní správy ve věci bezpečnosti dopravy,
+
+  * Drážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.
+
 
   2. Je o poznání snazší realizovat část trasy ve správě jedné instituce než realizovat celou trasu v koordinaci všech institucí.
 
