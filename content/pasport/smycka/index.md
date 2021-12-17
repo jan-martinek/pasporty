@@ -46,7 +46,7 @@ constraints: >-
   Z výše popsaných důvodů je rekonstrukce tramvajových smyček do bezbariérové podoby mnohdy finančně nákladnější oproti „klasickým“ tramvajovým zastávkám.
 
 
-  V případě tramvajové smyčky "Obřany, Babická" chybí vodicí linie podél nástupiště (to znamená chybí obrubník mezi nástupištěm a trávníkem).
+  V případě tramvajové smyčky "Obřany, Babická" chybí **vodicí linie** podél nástupiště (to znamená chybí obrubník mezi nástupištěm a trávníkem).
 conclusion: >-
   Dopravní podnik města Brna postupně rekonstruuje svá tramvajová nástupiště do
   podoby bezbariérových nástupišť. Tramvajové smyčky patří mezi ty složitější
@@ -59,7 +59,7 @@ conclusion: >-
   Vybudování bezbariérových tramvajových smyček usnadňuje přístup lidem s pohybovými omezeními, ale i rodinám s dětmi do přírody v zázemí měst.
 before:
   name: before.jpg
-  alt: Bariérový výstup do vozovoky z koleje vzálenější od nástupště
+  alt: Bariérový výstup do vozovoky z koleje vzálenější od nástupiště
   source: Robert Osman
 after:
   name: after.jpg
@@ -79,5 +79,5 @@ timeline:
     time: září 2018
     name: konec rekonstrukce tramvajové smyčky "Obřany, Babická"
 dictionary:
-  - bezbariérové nástupiště
+  - vodicí linie
 ---
