@@ -23,20 +23,30 @@ story: >-
 
 
   Po 15 letech se bezbariérově spojuje 30 metrů dlouhá trasa mezi zastávkou MHD Vlhká a Úřadem práce.
-analysis: >-
-  1. Za tuto 30 metrů dlouhou trasu je ve svých částech odpovědno neuvěřitelných
-  7 institucí:
+analysis: "1.\tZa tuto 30 metrů dlouhou trasu je ve svých částech odpovědno
+  neuvěřitelných 7 institucí:\r
 
-     * Magistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,
-     * MČ Brno‑střed: přilehlé chodníky,
-     * Úřad práce České republiky: samotná budova,
-     * Dopravní podnik města Brna (DPMB): správa nástupního ostrůvku, tramvajové tratě,
-     * Brněnské komunikace, a. s.: správa vozovky, chodníků,
-     * Policie ČR – Dopravní inspektorát Brno: dotčený orgán státní správy ve věci bezpečnosti dopravy,
-     * Drážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.
-  2. Je o poznání snazší realizovat část trasy ve správě jedné instituce než realizovat celou trasu v koordinaci všech institucí.
+  •\tMagistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,\r
 
-  3. Neexistuje platforma, kde by docházelo ke koordinaci těchto institucí.
+  •\tMČ Brno střed: přilehlé chodníky,\r
+
+  •\tÚřad práce České republiky: samotná budova,\r
+
+  •\tDopravní podnik města Brna (DPMB): správa nástupního ostrůvku, tramvajové
+  tratě,\r
+
+  •\tBrněnské komunikace, a. s.: správa vozovky, chodníků,\r
+
+  •\tPolicie ČR – Dopravní inspektorát Brno: dotčený orgán státní správy ve
+  věci bezpečnosti dopravy,\r
+
+  •\tDrážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.\r
+
+  2.\tJe o poznání snazší realizovat část trasy ve správě jedné instituce než
+  realizovat celou trasu v koordinaci všech institucí.\r
+
+  3.\tNeexistuje platforma, kde by docházelo ke koordinaci těchto
+  institucí.\r\n"
 design: >-
   1. Nalezení kontaktních zástupců za každou zúčastněnou instituci.
 
@@ -62,7 +72,7 @@ conclusion: >-
   * I když lze případ ulice Křenové považovat za velmi zdlouhavý, představuje určitý zlom v řešení přístupnosti v Brně. Od tohoto momentu již bylo možné ustavenou platformu využít pro koordinaci každého dalšího případu.
 
 
-  Poprvé to trvá, ale má to smysl. Vzniknou spojení, která dříve neexistovala, ale podruhé se již dají využít.
+  > Poprvé to trvá, ale má to smysl. Vzniknou spojení, která dříve neexistovala, ale podruhé se již dají využít.
 before:
   alt: Nástupní ostůvek s vysokým obrubníkem
   name: before.jpg
