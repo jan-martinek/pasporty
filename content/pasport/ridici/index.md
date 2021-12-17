@@ -2,8 +2,8 @@
 title: Nástup do MHD
 number: 3
 ready: false
-title2: školení řidičů MHD pro jednání s nevidomými cestujícími
-subtitle: Měli bychom se spoléhat na to, že společně s nevidomým člověkem bude
+title2: školení řidičů MHD pro jednání s nevidomými cestujícími
+subtitle: Měli bychom se spoléhat na to, že společně s nevidomým člověkem bude
   nastupovat někdo, kdo rozumí jeho potřebám?
 story: >-
   Píše se rok 2013 a paní Milada jde jako každé ráno na zastávku trolejbusu 25
@@ -11,9 +11,7 @@ story: >-
   holí (později zjistí, že se jmenuje Karel), který vždy dorazí autobusem a pak
   čeká na trolejbus 25.
 
-
-  Paní Milada si povšimla, že Karel vystoupí předními dveřmi a čeká u **označníku** zastávky. Když přijede trolejbus, Karel aktivuje jeho hlasový majáček (**technologie VPN**), aby se dozvěděl, je-li to linka číslo 25, a případně nastoupí předními dveřmi. Jednou ale tato rutina proběhla jinak. Karlův autobus zastavil na zastávce jako druhý v pořadí za vozem jiné linky. Karel vystoupil předními dveřmi, ale aniž by to tušil, nestál v tomto případě u **označníku**, ale uprostřed nástupiště. Když přijel trolejbus, Milada nastoupila, nicméně Karlovi se nastoupit nedařilo, neboť teď před sebou neměl přední dveře vozu. Začal holí oťukávat bok trolejbusu. Milada na něj proto zavolala, kudy se dostane ke dveřím a Karel úspěšně nastoupil. Pan řidič na něj ale zavolal: „Sakra, chlape, nevíš, že máš stát u označníku?“ Karel se omlouval, že si prý myslel, že u **označníku** stál, neboť z autobusu vystoupil předními dveřmi a neviděl, že je jinde.
-
+  Paní Milada si povšimla, že Karel vystoupí předními dveřmi a čeká u **označníku** zastávky. Když přijede trolejbus, Karel aktivuje jeho hlasový majáček (**technologie VPN**), aby se dozvěděl, je li to linka číslo 25, a případně nastoupí předními dveřmi. Jednou ale tato rutina proběhla jinak. Karlův autobus zastavil na zastávce jako druhý v pořadí za vozem jiné linky. Karel vystoupil předními dveřmi, a aniž by to tušil, nestál v tomto případě u **označníku**, ale uprostřed nástupiště. Když přijel trolejbus, Milada nastoupila, nicméně Karlovi se nastoupit nedařilo, neboť teď před sebou neměl přední dveře vozu. Začal holí oťukávat bok trolejbusu. Milada na něj proto zavolala, kudy se dostane ke dveřím a Karel úspěšně nastoupil. Pan řidič na něj ale zavolal: „Sakra, chlape, nevíš, že máš stát u označníku?“ Karel se omlouval, že si prý myslel, že u **označníku** stojí, neboť z autobusu vystoupil předními dveřmi a neviděl, že je jinde.
 
   Jiný den Karel u **označníku** stál správně. Když přijel trolejbus, Milada nastoupila, nicméně Karel zůstal stát venku. Řidič se na něj zmateně díval, a když Karel stále nenastupoval, začal zavírat dveře. Milada zastavila řidiče a zavolala ven na Karla, že je tu jeho trolejbus 25. Karel urychleně nastoupil a poté Miladě velmi děkoval za upozornění. Ale že prý trolejbusy jsou dnes tak tiché, že v tom okolním hluku vůbec neslyšel, jak trolejbus přijel.
 analysis: >-
