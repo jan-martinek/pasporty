@@ -26,7 +26,6 @@ story: >-
 analysis: "1. Za tuto 30 metrů dlouhou trasu je ve svých částech odpovědno
   neuvěřitelných 7 institucí:
 
-
   •\tMagistrát města Brna: vozovka, nástupní ostrůvek, tramvajová trať,\r
 
   •\tMČ Brno střed: přilehlé chodníky,\r
@@ -42,7 +41,6 @@ analysis: "1. Za tuto 30 metrů dlouhou trasu je ve svých částech odpovědno
   věci bezpečnosti dopravy,\r
 
   •\tDrážní úřad: povolení rekonstrukce a kolaudace tramvajové trati.\r
-
 
   3. Je o poznání snazší realizovat část trasy ve správě jedné instituce než
   realizovat celou trasu v koordinaci všech institucí.
