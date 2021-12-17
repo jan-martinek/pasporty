@@ -2,7 +2,7 @@
 title: Indukční smyčka v tramvaji
 number: 11
 ready: false
-title2: Pilotní projekt Unie neslyšících Brno a Dopravního podniku města Brna
+title2: pilotní projekt Unie neslyšících Brno a Dopravního podniku města Brna
 subtitle: Jak informovat nedoslýchavé cestující o dopravní situaci přímo
   v tramvajových vozech?
 story: Lenka letos začala studovat v Brně. Ještě se v něm moc nevyzná a neví,
