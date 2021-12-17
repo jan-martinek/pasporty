@@ -108,10 +108,10 @@ timeline:
     name: vzniká návrh na odlišná ozvučení semaforů různých směrů
   - parts: 1
     time: září 2013
-    name: probíhá testování nového ozvučení, tzv. sirény
+    name: probíhá testování nového ozvučení, tzv. "kvákadla"
   - parts: 1
     time: říjen 2013
-    name: siréna je instalována na všechny potřebné křižovatky
+    name: zvuk "kvákadla" je instalován na všechny potřebné křižovatky
 dictionary:
   - technologie VPN
 ---
