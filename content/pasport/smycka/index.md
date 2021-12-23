@@ -66,7 +66,7 @@ after:
   alt: Bezbariérové nástupiště před rozdvojením tramvajových kolejí
   source: Ondřej Šerý
 timeline:
-  - parts: 8
+  - parts: 4
     time: "2010"
     name: začátek rekonstrukce tramvajových zastávek do bezbariérové podoby
   - parts: 1
