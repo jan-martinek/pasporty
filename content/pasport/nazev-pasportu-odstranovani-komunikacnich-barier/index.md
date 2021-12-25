@@ -99,6 +99,7 @@ timeline:
     time: jaro 2019
     name: podepsání nájemní smlouvy s Unií neslyšících Brno
 dictionary:
+  - český znakový jazyk
   - byty v celoměstském zájmu
   - byty zvláštního určení
 ---
