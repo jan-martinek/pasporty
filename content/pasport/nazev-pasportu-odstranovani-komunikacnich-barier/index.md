@@ -29,14 +29,12 @@ analysis: >-
 
   4. Lidé se sluchovým postižením nemají v Brně nárok na **byty zvláštního určení**, které jsou primárně určeny pro osoby pohybově či zrakově postižené.
 design: >-
-  Zařazení osob se sluchových postižením mezi příjemce **bytů zvláštního
+  1. Zařazení osob se sluchových postižením mezi příjemce **bytů zvláštního
   určení**.
 
+  2. Zvýhodnění osob se sluchovým postižením při žádosti o běžný městský byt.
 
-  Zvýhodnění osob se sluchovým postižením při žádosti o běžný městský byt.
-
-
-  Přidělení městského bytu organizaci pracující s lidmi se sluchovým znevýhodněním, která by jej následně pronajímala lidem se sluchovým postižením.
+  3. Přidělení městského bytu organizaci pracující s lidmi se sluchovým znevýhodněním, která by jej následně pronajímala lidem se sluchovým postižením.
 solution: >-
   Spolek Unie neslyšících Brno se snaží vytvářet zázemí pro osoby sluchově
   postižené v Brně. S tím se pojí i přání zprostředkovat svým klientům také
