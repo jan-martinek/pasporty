@@ -1,12 +1,12 @@
 ---
 title: Překážka vedle vodicí linie
 number: 12
-ready: false
+ready: true
 title2: Šilingrovo náměstí, Brno
 subtitle: Jak se používají umělé vodicí linie, signální a varovné pásy?
 story: Píše se únor roku 2019 a nevidomý pan Mirek jde v Brně po ulici podél
   budovy. Budova je pro něj přirozenou **vodicí linií**, kterou si oťukává bílou
-  holí. Dlouho tudy nešel, nicméně doslechl se, že v těchto místech byl
+  holí. Dlouho tudy nešel, nicméně se doslechl, že v těchto místech byl
   vybudován nový **signální pás**, který mu usnadní přejít vozovku. Dojde tedy k
   místu, kde bílou holí nahmatá **signální pás**, jde podél něj, avšak po chvíli
   narazí do jakési kovové konstrukce. Jeho nárazu si povšimne kolemjdoucí paní a
@@ -19,32 +19,25 @@ story: Píše se únor roku 2019 a nevidomý pan Mirek jde v Brně po ulici pod�
   toho, co o tom slyšela, to tu má být natrvalo. Mají se na tomto místě
   vystavovat umělecká díla různých výtvarníků.
 analysis: >-
-  Nevidomí lidé potřebují k pohybu po městě **vodicí linie**, **signální** a
+  1. Nevidomí lidé potřebují k pohybu po městě **vodicí linie**, **signální** a
   **varovné pásy**.
 
+  2. Nechodí však po nich, ale v prostoru vedle nich.
 
-  Nechodí však po nich, ale v prostoru vedle nich.
+  3. Kolem **vodicích linií**, **signálních** nebo **varovných pásů** je proto potřeba volný prostor minimálně 80 centimetrů.
 
+  4. Když se vybuduje nová **vodicí linie** nebo **signální** či **varovný pás**, vedle nich mohou zůstat nebezpečné překážky, do kterých mohou nevidomí lidé narazit.
 
-  Kolem **vodicích linií**, **signálních** nebo **varovných pásů** je proto potřeba volný prostor minimálně 80 centimetrů.
-
-
-  Když se vybuduje nová **vodicí linie** nebo **signální** či **varovný pás**, vedle nich mohou zůstat nebezpečné překážky, do kterých mohou nevidomí lidé narazit.
-
-
-  Problém tedy netkví pouze ve vytváření nových bariér, ale i nedostatečné kontrole prostorů podél nových **vodících linií** nebo **varovných** či **signálních pásů**.
+  5. Problém tedy netkví pouze ve vytváření nových bariér, ale i nedostatečné kontrole prostorů podél nových **vodicích linií** nebo **varovných** či **signálních pásů**.
 design: >-
-  Při vybudování nových **vodicích linií**, **signálních** či **varovných
-  pásů**, je třeba zkontrolovat překážky do jednoho metru na obě strany od nich.
+  1. Při vybudování nových **vodicích linií**, **signálních** či **varovných
+  pásů** je třeba zkontrolovat překážky do jednoho metru na obě strany od nich.
 
+  2. Pokud je překážka umístěna příliš blízko, je třeba požádat jejího správce, aby ji posunuli.
 
-  Pokud je překážka umístěna příliš blízko, je třeba požádat její správce, aby ji posunuli.
+  3. V případě překážek na chodníku za ně nejčastěji odpovídá správce veřejných komunikací.
 
-
-  V případě překážek na chodníku za ně nejčastěji odpovídá správce veřejných komunikací.
-
-
-  Galerie Šilingrák byla zřízena městskou části Brno-střed, a proto její umístění mají na starost Brněnské komunikace.
+  4. Galerie Šilingrák byla zřízena městskou části Brno střed, a proto její umístění mají na starost Brněnské komunikace.
 solution: Na Šilingrově náměstí byl z podnětu Poradního sboru pro bezbariérové
   Brno vybudován **signální** a **varovný pás** pro osoby nevidomé, nicméně
   nebyl zkontrolován prostor podél nich. V tomto prostoru se nacházela překážka
@@ -55,33 +48,27 @@ solution: Na Šilingrově náměstí byl z podnětu Poradního sboru pro bezbari
   fotografii použila v prezentaci při následném školení pracovníků Brněnských
   komunikací, aby demonstrovala příklad nevhodného umístění překážky vůči
   **signálnímu pásu**. Na školení byli přítomni i pracovníci stavebního úřadu
-  městské části Brno-střed, kteří poté ve spolupráci s pracovníky Brněnských
+  městské části Brno střed, kteří poté ve spolupráci s pracovníky Brněnských
   komunikací zařídili, aby Galerie Šilingrák byla do dvou dnů posunuta do
   vzdálenosti 1 metr od **signálního pásu**.
 constraints: >-
-  Jsou potřeba lidé, kteří si neustále všímají nevhodných umístění překážek vůči
-  **vodicím liniím** a **signálním** nebo **varovným** pásům.
+  * Jsou potřeba lidé, kteří si neustále všímají překážek nevhodně umístěných
+  vůči **vodicím liniím** a **signálním** nebo **varovným** pásům.
 
+  * Tito lidé musejí být ochotni ozvat se příslušným správcům veřejných komunikací.
 
-  Tito lidé musejí být ochotni ozvat se příslušným správcům veřejných komunikací.
+  * Veřejní správci musejí být ochotni realizovat přemístění překážky.
 
-
-  Veřejní správci musejí být ochotni realizovat přemístění překážky.
-
-
-  Celé řešení je postaveno na osobních kontaktech a dobré vůli všech zůčastněných.
+  * Celé řešení je postaveno na osobních kontaktech a dobré vůli všech zúčastněných.
 conclusion: >-
-  Nestačí, když překážky nezasahují do **vodicích linií** a **signálních** či
+  * Nestačí, když překážky nezasahují do **vodicích linií** a **signálních** či
   **varovných** pásů.
 
+  * Do vzdálenosti minimálně 80 centimetrů od **vodicí linie** nebo **signálního** či **varovného pásu** musí být volný prostor, neboť nevidomí lidé nechodí po liniích a pásech, ale podél nich.
 
-  Do vzdálenost minimálně 80 centimentrů od **vodící linie** nebo **signálního** či **varovného pásu** musí být voný prostor, neboť nevidomí lidé nechodí po liniích a pásech, ale podél nich.
+  * Pokud je překážka příliš blízko, řešením je její posunutí.
 
-
-  Pokud je překážka příliš blízko, řešením je její posunutí.
-
-
-  Když jsou o posunutí překážky požádáni její správci, bývají schopni posunutí zařídit velmi rychle, neboť minimální vzdálenost 80 cm je uvedena ve **vyhlášce č. 398/2009 Sb**.
+  * Když jsou o posunutí překážky požádáni její správci, bývají schopni posunutí zařídit velmi rychle, neboť minimální vzdálenost 80 cm je uvedena ve **vyhlášce č. 398/2009 Sb**.
 before:
   name: img_20190218_120242-1-.jpg
   source: Milena Antonovičová
