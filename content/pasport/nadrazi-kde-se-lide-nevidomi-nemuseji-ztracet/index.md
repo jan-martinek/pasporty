@@ -55,11 +55,11 @@ solution: Odborník na odstraňování bariér pro nevidomé osoby se dlouho sna
   Brna s projektem **rekonstrukce** celého prostoru autobusového nádraží.
   **Rekonstrukce** trvala rok, celkově zpřehlednila nádraží, lépe rozmístila
   nástupiště a přinesla i jejich dostatečně rozpoznatelné označení. Na nádraží
-  byla vytvořena bezpečná přístupová vodicí linie a k samotným nástupištím se z
-  ní větvily **signální pásy**. Byl nainstalován **orientační hlasový majáček**
-  s informacemi o rozmístění pokladen a elektronický informační panel. V přední
-  části nádraží byl u **vodicí linie** umístěn **3D hmatový model** celého
-  nádraží, který nevidomým cestujícím zprostředkuje představu o celkové
+  byla vytvořena bezpečná přístupová **vodicí linie** a k samotným nástupištím
+  se z ní větvily **signální pásy**. Byl nainstalován **orientační hlasový
+  majáček** s informacemi o rozmístění pokladen a elektronický informační panel.
+  V přední části nádraží byl u **vodicí linie** umístěn **3D hmatový model**
+  celého nádraží, který nevidomým cestujícím zprostředkuje představu o celkové
   kompozici nádraží. Je doplněn popisky v **Braillově písmu**. Lidé se zrakovým
   znevýhodněním byli navíc s popisem nově zrekonstruovaného nádraží seznámeni
   všemi jim dostupnými informačními kanály (časopis Chaloupka, zasilatelské e
