@@ -38,8 +38,8 @@ design: >-
 solution: Na 12. setkání Poradního sboru pro bezbariérové Brno, které se konalo
   21. 3. 2019, byl schválen Akční plán pro postupné odstraňování bariér na rok
   2019. Tento akční plán definuje jako jednu z klíčových aktivit instalaci
-  **indukčních** smyček na vybraných přepážkových pracovištích Magistrátu města
-  Brna. Vybranými místy jsou velmi frekventovaná pracoviště, kde dochází k
+  **indukčních** **smyček** na vybraných přepážkových pracovištích Magistrátu
+  města Brna. Vybranými místy jsou velmi frekventovaná pracoviště, kde dochází k
   častému osobnímu styku klientů s úředníky. Na poradě vedení dne 9. 9. 2019
   byla schválena realizace tohoto záměru. Celkově bylo vytipováno 13
   přepážkových místností magistrátu, 2 přepážkové místnosti Městské policie Brno
