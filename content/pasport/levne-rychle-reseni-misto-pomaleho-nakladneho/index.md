@@ -27,11 +27,11 @@ analysis: >-
 
   2. Tlačítko na sloupu semaforu lze mnohdy obtížně nahmatat, proto bylo umožněno spouštět ozvučení pomocí **technologie VPN**.
 
-  3. Na značených přechodech vybavených semafory si mohou nevidomí chodci pomocí technologie VPN aktivovat akustickou signalizaci.
+  3. Na značených přechodech vybavených semafory si mohou nevidomí chodci pomocí **technologie VPN** aktivovat akustickou signalizaci.
 
   4. Semafor pak vydává při červené barvě pomalý a při zelené barvě rychlý „klepající“ zvuk.
 
-  5. Technologie VPN však aktivuje ozvučení všech semaforů na křižovatce.
+  5. **Technologie VPN** však aktivuje ozvučení všech semaforů na křižovatce.
 
   6. Některé křižovatky mají přechody do více směrů.
 
