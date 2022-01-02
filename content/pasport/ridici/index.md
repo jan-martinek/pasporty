@@ -12,7 +12,7 @@ story: >-
   čeká na trolejbus 25.
 
 
-  Paní Milada si povšimla, že Karel vystoupí předními dveřmi a čeká u **označníku** zastávky. Když přijede trolejbus, Karel aktivuje jeho hlasový majáček (**technologie VPN**), aby se dozvěděl, je li to linka číslo 25, a případně nastoupí předními dveřmi. Jednou ale tato rutina proběhla jinak. Karlův autobus zastavil na zastávce jako druhý v pořadí za vozem jiné linky. Karel vystoupil předními dveřmi, a aniž by to tušil, nestál v tomto případě u **označníku**, ale uprostřed nástupiště. Když přijel trolejbus, Milada nastoupila, nicméně Karlovi se nastoupit nedařilo, neboť teď před sebou neměl přední dveře vozu. Začal holí oťukávat bok trolejbusu. Milada na něj proto zavolala, kudy se dostane ke dveřím a Karel úspěšně nastoupil. Pan řidič na něj ale zavolal: „Sakra, chlape, nevíš, že máš stát u označníku?“ Karel se omlouval, že si prý myslel, že u **označníku** stojí, neboť z autobusu vystoupil předními dveřmi a neviděl, že je jinde.
+  Paní Milada si povšimla, že Karel vystoupí předními dveřmi a čeká u **označníku** zastávky. Když přijede trolejbus, Karel aktivuje jeho hlasový majáček (**technologie VPN**), aby se dozvěděl, je li to linka číslo 25, a případně nastoupí předními dveřmi. Jednou ale tato rutina proběhla jinak. Karlův autobus zastavil na zastávce jako druhý v pořadí za vozem jiné linky. Karel vystoupil předními dveřmi, a aniž by to tušil, nestál v tomto případě u **označníku**, ale uprostřed nástupiště. Když přijel trolejbus, Milada nastoupila, nicméně Karlovi se nastoupit nedařilo, neboť teď před sebou neměl přední dveře vozu. Začal holí oťukávat bok trolejbusu. Milada na něj proto zavolala, kudy se dostane ke dveřím a Karel úspěšně nastoupil. Pan řidič na něj ale zavolal: „Sakra, chlape, nevíš, že máš stát u **označníku**?“ Karel se omlouval, že si prý myslel, že u **označníku** stojí, neboť z autobusu vystoupil předními dveřmi a neviděl, že je jinde.
 
 
   Jiný den Karel u **označníku** stál správně. Když přijel trolejbus, Milada nastoupila, nicméně Karel zůstal stát venku. Řidič se na něj zmateně díval, a když Karel stále nenastupoval, začal zavírat dveře. Milada zastavila řidiče a zavolala ven na Karla, že je tu jeho trolejbus 25. Karel urychleně nastoupil a poté Miladě velmi děkoval za upozornění. Ale že prý trolejbusy jsou dnes tak tiché, že v tom okolním hluku vůbec neslyšel, jak trolejbus přijel.
@@ -35,7 +35,7 @@ design: >-
 
   2. Seznámit řidiče MHD s problematikou samostatného cestování nevidomých cestujících.
 
-  3. Zavést způsob osvětové činnosti pro řidiče MHD, například krátká školení o této problematic
+  3. Zavést způsob osvětové činnosti pro řidiče MHD, například krátká školení o této problematice.
 solution: >-
   Pracovníci brněnského TyfloCentra řešili časté stížnosti nevidomých
   cestujících na řidiče MHD, způsobené nedorozuměními mezi oběma skupinami.
