@@ -8,12 +8,12 @@ subtitle: Jak mohou odborníci z Poradního sboru pro bezbariérové Brno docíl
 story: >-
   Ivan je architekt rok po škole. V současné době pracuje v brněnské projekční
   kanceláři, která se mimo jiné zabývá tvorbou veřejného prostoru. V tuto chvíli
-  jeho tým zpracovává návrh rekonstrukce tramvajové zastávky v Brně. Práce na
-  návrhu probíhá tradičně a bez problému. Za dva měsíce mají návrh připravený.
-  Následně se chystá jako člen týmu na prezentaci projektu před schvalovací
-  komisí. Cítí se sebevědomě. Nad návrhem se zamýšlel ze spousty pohledů, které
-  ho jenom mohly napadnout. Zároveň se mohl spolehnout na své univerzitní
-  vzdělání, kde obdobné projekty řešili.
+  jeho tým zpracovává návrh **rekonstrukce** tramvajové zastávky v Brně. Práce
+  na návrhu probíhá tradičně a bez problému. Za dva měsíce mají návrh
+  připravený. Následně se chystá jako člen týmu na prezentaci projektu před
+  schvalovací komisí. Cítí se sebevědomě. Nad návrhem se zamýšlel ze spousty
+  pohledů, které ho jenom mohly napadnout. Zároveň se mohl spolehnout na své
+  univerzitní vzdělání, kde obdobné projekty řešili.
 
 
   Otázky a připomínky přicházejí od odborníků na dopravu, zeleň, technické sítě, přičemž na všechny dokáže odpovědět a reagovat tak, aby uspokojil požadavky všech jednotlivých expertů. Náhle ale přichází dotaz na bezbariérový přístup pro uživatele vozíku a osoby se zrakovým znevýhodněním. Ivan najednou ztrácí půdu pod nohama a neví, co má říct. Na bezbariérovost se zaměřil pouze snížením obrubníku, což podle přítomných expertů na bezbariérovost není dostatečné. O **vyhlášce č. 398/2009 Sb.**, o obecných technických požadavcích zabezpečujících bezbariérové užívání staveb, slyšel, ale ta mu v diskusi nepomáhá. Chybí **vodicí linie**, sklon na přechodu je příliš strmý, **označník** zastávky omezuje průchozí profil ostrůvku a mobiliář je navržen chaoticky. Celý projekt se musí předělat. Ivan zasmušile odchází domů a přemýšlí, jak k tomu vůbec mohlo dojít.
