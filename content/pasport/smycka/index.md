@@ -8,7 +8,7 @@ story: Je horké léto, Milan sedí na zahrádce své oblíbené hospody v brně
   Obřanech a popíjí pivo. Jeho pozornost upoutají dva vozíčkáři, kteří sedí u
   protějšího stolu. V poslední době totiž na místní cyklostezce začal vídat více
   vozíčkářů, než tomu bylo dříve. Navíc právě zaslechl, jak se mezi sebou baví o
-  rekonstrukci nedaleké tramvajové smyčky. Milan se tedy osmělil a zeptal se
+  **rekonstrukci** nedaleké tramvajové smyčky. Milan se tedy osmělil a zeptal se
   vozíčkářů, kteří se představili jako Radek a Alena, zda si může přisednout. Ti
   mu následně popsali, jak si užívají toho, že už zhruba rok mohou do Obřan
   dorazit tramvají a projet se po cyklostezce. To dříve nebylo možné, jelikož
