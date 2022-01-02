@@ -51,7 +51,7 @@ design: >-
   2. Vzájemné propojení všech zástupců těchto institucí.
 
   3. Vytvoření platformy pro jejich systematické setkávání a předávání informací.
-solution: V reakci na neutěšený vývoj nejen při rekonstrukci ulice Křenová
+solution: V reakci na neutěšený vývoj nejen při **rekonstrukci** ulice Křenová
   vzniká v roce 2017 Poradní sbor pro bezbariérové Brno, který mimo jiné
   sdružuje právě zástupce z Dopravního podniku města Brna, Brněnských
   komunikací, Magistrátu města Brna, vybraných městských částí, a vytváří tak
