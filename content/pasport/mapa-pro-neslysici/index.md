@@ -49,7 +49,7 @@ constraints: >-
   * Je obtížné získávat data o tom, kde:
 
     * jsou instalovány **indukční smyčky** a zda jsou v provozu. Řada institucí **indukční smyčky** nainstalované má, ale nespouští je (například soudy).
-    * se lze setkat s lidmi ovládajícími český znakový jazyk, neboť po ukončení kurzů **českého znakového jazyka** dochází k přerušení kontaktů a neexistují informace o tom, kde se lidé s touto kompetencí nachází.
+    * se lze setkat s lidmi ovládajícími **český znakový jazyk**, neboť po ukončení kurzů **českého znakového jazyka** dochází k přerušení kontaktů a neexistují informace o tom, kde se lidé s touto kompetencí nachází.
   * Pro aktualizaci a rozšíření databáze by Unie neslyšících Brno potřebovala další pracovní sílu.
 
   * Je obtížně stanovitelné, která zařízení je vhodné do mapy zadávat. Zařazení například kavárny pouze na základě znalosti, že zde jeden zaměstnanec ovládá **český znakový jazyk**, může být pro uživatele scestné, pokud kavárnu navštíví mimo dobu jeho směny.
