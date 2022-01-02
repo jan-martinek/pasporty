@@ -34,11 +34,11 @@ solution: Unie neslyšících Brno ve spolupráci s Dopravním podnikem města B
   městské hromadné dopravy skrze zachycení indukčního signálu **sluchadlem** /
   kochleárním implantátem. Projekt byl podpořen Magistrátem města Brna částkou
   26 000 Kč. Aby mohla být pilotáž provedena, bylo nutné získat povolení k
-  **instalaci indukční** smyčky od Drážního úřadu, což se povedlo v září 2018 a
-  již v první polovině listopadu 2018 došlo ke spuštění provozu, který do konce
-  ledna 2019 probíhal jako pilotní. Informace o instalované smyčce jsou u všech
-  dveří do vozu. Tato brněnská tramvaj se stala prvním vozem s instalovanou
-  **indukční smyčkou** v České republice.
+  **instalaci indukční** **smyčky** od Drážního úřadu, což se povedlo v září
+  2018 a již v první polovině listopadu 2018 došlo ke spuštění provozu, který do
+  konce ledna 2019 probíhal jako pilotní. Informace o instalované smyčce jsou u
+  všech dveří do vozu. Tato brněnská tramvaj se stala prvním vozem s
+  instalovanou **indukční smyčkou** v České republice.
 constraints: >-
   * Instalace **indukční smyčky** do jednoho vozu zdaleka neřeší celý problém.
   Umožňuje ale nedoslýchavým cestujícím technologii vyzkoušet. Zároveň se jedná
