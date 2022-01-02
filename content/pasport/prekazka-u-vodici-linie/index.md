@@ -53,7 +53,7 @@ solution: Na Šilingrově náměstí byl z podnětu Poradního sboru pro bezbari
   vzdálenosti 1 metr od **signálního pásu**.
 constraints: >-
   * Jsou potřeba lidé, kteří si neustále všímají překážek nevhodně umístěných
-  vůči **vodicím liniím** a **signálním** nebo **varovným** pásům.
+  vůči **vodicím liniím** a **signálním** nebo **varovným** **pásům**.
 
   * Tito lidé musejí být ochotni ozvat se příslušným správcům veřejných komunikací.
 
@@ -62,7 +62,7 @@ constraints: >-
   * Celé řešení je postaveno na osobních kontaktech a dobré vůli všech zúčastněných.
 conclusion: >-
   * Nestačí, když překážky nezasahují do **vodicích linií** a **signálních** či
-  **varovných** pásů.
+  **varovných** **pásů**.
 
   * Do vzdálenosti minimálně 80 centimetrů od **vodicí linie** nebo **signálního** či **varovného pásu** musí být volný prostor, neboť nevidomí lidé nechodí po liniích a pásech, ale podél nich.
 
