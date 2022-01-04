@@ -53,7 +53,7 @@ conclusion: >-
 
   * Vybudování bezbariérových tramvajových smyček usnadňuje lidem s pohybovými omezeními, ale i rodinám s dětmi přístup do přírody v zázemí měst.
 before:
-  name: 20190821_181816.jpg
+  name: obr_9.5.1.jpg
   alt: Bariérový výstup do vozovoky z koleje vzálenější od nástupiště
   source: Robert Osman
 after:
