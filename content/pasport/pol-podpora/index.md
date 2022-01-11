@@ -72,7 +72,7 @@ before:
   source: Robert Osman
 after:
   name: after.jpg
-  alt: Reliéfní dlažba vededná podél nástupní hrany středového ostrůvku
+  alt: Reliéfní dlažba vedená podél nástupní hrany středového ostrůvku
   source: Robert Osman
 timeline:
   - parts: 1
