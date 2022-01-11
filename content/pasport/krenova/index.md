@@ -72,7 +72,7 @@ conclusion: >-
 
   > Poprvé to trvá, ale má to smysl. Vzniknou spojení, která dříve neexistovala, ale podruhé se již dají využít.
 before:
-  alt: Nástupní ostůvek s vysokým obrubníkem
+  alt: Nástupní ostrůvek s vysokým obrubníkem
   name: before.jpg
   source: Robert Osman
 after:
