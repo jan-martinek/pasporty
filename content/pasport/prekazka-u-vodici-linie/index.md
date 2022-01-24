@@ -72,7 +72,7 @@ conclusion: >-
 before:
   name: img_20190218_120242-1-.jpg
   source: Milena Antonovičová
-  alt: Překázka v podobě sochy je umístěna těsně vedle signálního pásu.
+  alt: Překážka v podobě sochy je umístěna těsně vedle signálního pásu.
 after:
   name: new.jpg
   source: Milena Antonovičová
