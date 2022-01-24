@@ -79,7 +79,7 @@ conclusion: >-
 before:
   source: Pavel Doboš
   name: semafory_foto_pred.jpg
-  alt: Nevidomá osoba přechází vozovku na čevenou.
+  alt: Nevidomá osoba přechází vozovku na červenou.
 after:
   source: Pavel Doboš
   name: semafory_foto_po.jpg
